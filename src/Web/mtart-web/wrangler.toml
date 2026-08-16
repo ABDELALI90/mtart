@@ -1,0 +1,16 @@
+# MT ART public site (Cloudflare Pages + D1)
+name = "mtart-web"
+compatibility_date = "2026-08-01"
+pages_build_output_dir = "dist"
+
+# Binding name must stay DB to match the Cloudflare dashboard.
+# Replace database_id with the UUID from: npx wrangler d1 info mtart-db
+[[d1_databases]]
+binding = "DB"
+database_name = "mtart-db"
+database_id = "19c67cbf-5936-4268-b038-6241027788f7"
+migrations_dir = "migrations"
+
+# Set in the Cloudflare dashboard or in .dev.vars for local Pages Functions.
+# Do not commit real backend URLs if they are considered secrets.
+# RAILWAY_API_BASE_URL = "https://your-railway-backend.example.com"

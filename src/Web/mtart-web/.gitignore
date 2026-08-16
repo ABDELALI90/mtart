@@ -51,3 +51,7 @@ public/images/import/
 # Temporary customer upload jobs
 public/moulds/custom/*
 !public/moulds/custom/.gitkeep
+
+# Cloudflare Wrangler
+.wrangler/
+.dev.vars

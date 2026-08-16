@@ -8,11 +8,15 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "typecheck": "tsc -b",
+    "typecheck": "tsc -b && tsc -p tsconfig.functions.json",
     "catalogue": "node scripts/build-catalogue.mjs",
     "vectorize": "python ../../../tools/vectorize-moulds/vectorize.py",
     "moulds": "node scripts/build-catalogue.mjs && python ../../../tools/vectorize-moulds/vectorize.py",
-    "test": "vitest run"
+    "test": "vitest run",
+    "cf:dev": "npm run build && wrangler pages dev dist --ip 127.0.0.1 --port 8788",
+    "d1:migrate:local": "wrangler d1 migrations apply mtart-db --local",
+    "d1:migrate:remote": "wrangler d1 migrations apply mtart-db --remote",
+    "d1:seed-sql": "node scripts/generate-d1-catalog-seed.mjs"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -50,6 +54,8 @@
     "tailwindcss": "^4.3.3",
     "typescript": "~6.0.2",
     "vite": "^8.2.0",
-    "vitest": "^4.0.16"
+    "vitest": "^4.0.16",
+    "wrangler": "^4.28.0",
+    "@cloudflare/workers-types": "^5.20260811.1"
   }
 }
