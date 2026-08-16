@@ -14,3 +14,5 @@ migrations_dir = "migrations"
 # Set in the Cloudflare dashboard or in .dev.vars for local Pages Functions.
 # Do not commit real backend URLs if they are considered secrets.
 # RAILWAY_API_BASE_URL = "https://your-railway-backend.example.com"
+[vars]
+RAILWAY_API_BASE_URL = "https://mtart-production.up.railway.app"
