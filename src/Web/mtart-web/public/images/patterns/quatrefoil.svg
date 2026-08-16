@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="main" data-region-id="main" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M100 16 C138 16 168 46 168 84 C168 108 150 128 100 168 C50 128 32 108 32 84 C32 46 62 16 100 16 Z M100 44 C80 44 64 60 64 80 C64 96 76 110 100 132 C124 110 136 96 136 80 C136 60 120 44 100 44 Z" />
+  <rect data-region="accent" data-region-id="accent" x="88" y="88" width="24" height="24" transform="rotate(45 100 100)" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+</svg>

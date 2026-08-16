@@ -1,0 +1,33 @@
+# Local-only: Catalog applies EF migrations and seed data only when Environment is Development.
+services:
+  catalog-api:
+    ports:
+      - "5249:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8080
+  inquiry-api:
+    ports:
+      - "5100:8080"
+    volumes:
+      - ${USERPROFILE}/AppData/Roaming/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8080
+      HOME: /home/app
+      DOTNET_ENVIRONMENT: Development
+      Smtp__Host: ${SMTP_HOST:-smtp.gmail.com}
+      Smtp__Port: ${SMTP_PORT:-587}
+      Smtp__FromAddress: ${SMTP_FROM_EMAIL:-${SMTP_FROM_ADDRESS:-yahyabdelali@gmail.com}}
+      Smtp__FromEmail: ${SMTP_FROM_EMAIL:-}
+      Contact__ToEmail: ${CONTACT_TO_EMAIL:-yahyabdelali@gmail.com}
+      Email__SmtpHost: ${SMTP_HOST:-smtp.gmail.com}
+      Email__SmtpPort: ${SMTP_PORT:-587}
+      Email__From: ${SMTP_FROM_EMAIL:-${SMTP_FROM_ADDRESS:-yahyabdelali@gmail.com}}
+      Email__To: ${CONTACT_TO_EMAIL:-yahyabdelali@gmail.com}
+      Email__EnableSsl: "true"
+  gateway:
+    environment:
+      ASPNETCORE_URLS: http://+:8080
+      Cors__AllowedOrigins__0: http://localhost:5173
+      Cors__AllowedOrigins__1: http://127.0.0.1:5173

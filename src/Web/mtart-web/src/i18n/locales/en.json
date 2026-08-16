@@ -1,0 +1,924 @@
+{
+  "nav": {
+    "products": "Products",
+    "collections": "Collections",
+    "colors": "Colors",
+    "projects": "Projects",
+    "craftsmanship": "Craftsmanship",
+    "professionals": "Professionals",
+    "about": "About",
+    "catalog": "Catalog",
+    "requestQuote": "Request a Quote",
+    "search": "Search",
+    "contact": "Contact",
+    "cementTiles": "Cement Tiles",
+    "simulator": "Simulator",
+    "ourCraft": "Our Craft"
+  },
+  "theme": {
+    "toggle": "Toggle color theme",
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "megaMenu": {
+    "zellige": "Zellige",
+    "zellige10x10": "10 x 10",
+    "zellige5x5": "5 x 5",
+    "bejmat": "Bjmat",
+    "mosaic": "Mosaic",
+    "specialShapes": "Special Shapes",
+    "cementTiles": "Cement Tiles",
+    "patterned": "Patterned",
+    "plain": "Plain",
+    "borders": "Borders",
+    "custom": "Custom",
+    "terracotta": "Terracotta",
+    "square": "Square",
+    "rectangle": "Rectangle",
+    "simulator": "Simulator",
+    "colors": "Colors",
+    "formats": "Formats",
+    "collections": "Collections",
+    "projects": "Projects",
+    "productsItem": "Products",
+    "models": "Models",
+    "stock": "Stock"
+  },
+  "footer": {
+    "productsHeading": "Products",
+    "companyHeading": "Company",
+    "professionalsHeading": "Professionals",
+    "supportHeading": "Support",
+    "about": "About",
+    "craftsmanship": "Craftsmanship",
+    "projects": "Projects",
+    "contact": "Contact",
+    "architects": "Architects",
+    "designers": "Designers",
+    "customProjects": "Custom Projects",
+    "requestSamples": "Request Samples",
+    "catalog": "Catalog",
+    "faq": "FAQ",
+    "shipping": "Shipping",
+    "maintenance": "Maintenance",
+    "rights": "All rights reserved.",
+    "madeIn": "Handcrafted in Morocco.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "MT ART",
+      "title": "Handcrafted Moroccan Surfaces",
+      "subtitle": "Made for Architecture & Design",
+      "ctaPrimary": "Explore Collections",
+      "ctaSecondary": "Request a Quote",
+      "scrollHint": "Scroll"
+    },
+    "families": {
+      "heading": "Explore Our Materials",
+      "subheading": "Four traditions of Moroccan tile-making, each shaped entirely by hand.",
+      "zellige": "Zellige",
+      "zelligeDescription": "Glazed terracotta mosaic, cut and set by hand.",
+      "bejmat": "Bejmat",
+      "bejmatDescription": "Elongated terracotta tiles for warm, textured floors.",
+      "cement": "Cement Tiles",
+      "cementDescription": "Pigment-pressed patterns in endless combinations.",
+      "terracotta": "Terracotta",
+      "terracottaDescription": "Raw, sun-baked clay with timeless character.",
+      "cta": "Discover"
+    },
+    "craftsmanship": {
+      "heading": "Crafted by Hand in Morocco",
+      "body": "Every MT ART piece passes through the hands of Moroccan artisans, using techniques passed down for generations — from hand-cut Zellige to hand-pressed cement tiles. No two pieces are ever exactly alike, and that is exactly the point.",
+      "cta": "Discover Our Craftsmanship"
+    },
+    "ourCraft": {
+      "eyebrow": "Our Craft",
+      "title": "How We Make Our Cement Tiles",
+      "cta": "Discover Our Craft"
+    },
+    "collections": {
+      "heading": "Featured Collections",
+      "subheading": "Curated palettes and patterns, ready to specify.",
+      "viewAll": "View all collections",
+      "unavailable": "Unable to load collections right now.",
+      "retry": "Try again"
+    },
+    "colorStory": {
+      "heading": "A Story Told in Color",
+      "subheading": "Every sample is a real, photographed tile — handmade color can't be reduced to a hex code.",
+      "viewAll": "View all colors",
+      "unavailable": "Unable to load colors right now.",
+      "retry": "Try again"
+    },
+    "featuredProducts": {
+      "heading": "Featured Products",
+      "subheading": "A closer look at some of our most requested pieces.",
+      "viewAll": "View all products",
+      "unavailable": "Unable to load products right now.",
+      "retry": "Try again"
+    },
+    "projects": {
+      "heading": "Spaces Shaped by Craft",
+      "subheading": "MT ART materials in kitchens, bathrooms, hotels and restaurants worldwide.",
+      "kitchen": "Kitchen",
+      "bathroom": "Bathroom",
+      "hotel": "Hotel",
+      "restaurant": "Restaurant",
+      "pool": "Pool",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "viewAll": "View all projects"
+    },
+    "madeInMorocco": {
+      "heading": "Made in Morocco",
+      "body": "From the clay of Fez to the workshops of our artisans, every MT ART tile begins and ends its journey in Morocco — shaped by centuries of craft, and finished for the demands of contemporary architecture."
+    },
+    "professionals": {
+      "heading": "For Professionals",
+      "body": "Technical sheets, real samples, volume production and export logistics for architects, interior designers, hotels, restaurants and distributors worldwide.",
+      "cta": "Start a Project"
+    },
+    "catalogCta": {
+      "heading": "Discover the MT ART Collection",
+      "body": "Browse our full range online, or download the PDF catalog to share with your team or client.",
+      "viewCatalog": "View Catalog",
+      "downloadPdf": "Download PDF"
+    },
+    "finalCta": {
+      "heading": "Planning a project?",
+      "body": "Tell us about your project and our team will help you choose the right material, color and format.",
+      "cta": "Request a Quote"
+    }
+  },
+  "common": {
+    "loading": "Loading…",
+    "errorTitle": "Something went wrong",
+    "errorGeneric": "Unable to load this content right now.",
+    "retry": "Try again",
+    "noResults": "No results found.",
+    "new": "New",
+    "featured": "Featured",
+    "customizable": "Customizable",
+    "inStock": "In stock",
+    "lowStock": "Low stock",
+    "madeToOrder": "Made to order",
+    "contactUs": "Contact us",
+    "reference": "Reference",
+    "readMore": "Read more",
+    "backToHome": "Return home",
+    "requestQuote": "Request a Quote",
+    "requestSample": "Request a Sample",
+    "language": "Language",
+    "view": "View",
+    "customize": "Customize"
+  },
+  "products": {
+    "title": "Products",
+    "filters": {
+      "title": "Filters",
+      "category": "Category",
+      "collection": "Collection",
+      "color": "Color",
+      "format": "Format",
+      "finish": "Finish",
+      "stock": "Stock",
+      "customizable": "Customizable only",
+      "inStockOnly": "In stock only",
+      "clear": "Clear filters",
+      "apply": "Apply filters",
+      "sortBy": "Sort by",
+      "sortFeatured": "Featured",
+      "sortNewest": "Newest",
+      "sortReference": "Reference A-Z"
+    },
+    "resultsCount": "{{count}} products",
+    "unavailable": "Unable to load products right now.",
+    "noResults": "No products match your filters.",
+    "clearFilters": "Clear all filters"
+  },
+  "productDetail": {
+    "description": "Description",
+    "availableColors": "Available Colors",
+    "availableFormats": "Available Formats",
+    "technicalInformation": "Technical Information",
+    "craftsmanship": "Craftsmanship",
+    "installation": "Installation",
+    "maintenance": "Maintenance",
+    "relatedProducts": "Related Products",
+    "collection": "Collection",
+    "category": "Category",
+    "format": "Format",
+    "finish": "Finish",
+    "thickness": "Thickness",
+    "unitsPerM2": "Units / m²",
+    "weightPerM2": "Weight / m²",
+    "stock": "Stock",
+    "downloadTechnicalSheet": "Download Technical Sheet",
+    "share": "Share",
+    "naturalVariation": "Natural Variation",
+    "naturalVariationBody": "As each piece is handmade, natural variations in color, texture, glaze and edges are inherent to the material and not considered defects.",
+    "notFound": "We couldn't find that product.",
+    "backToProducts": "Back to products"
+  },
+  "collections": {
+    "title": "Collections",
+    "unavailable": "Unable to load collections right now.",
+    "notFound": "We couldn't find that collection.",
+    "products": "Products in this collection",
+    "viewCollection": "View collection",
+    "productCount": "{{count}} products"
+  },
+  "colors": {
+    "title": "Colors",
+    "subtitle": "Every tone below is a real, photographed handmade tile. Screen colors may vary slightly from the physical material.",
+    "search": "Search by reference",
+    "madeToOrder": "Available on request",
+    "zelligeTitle": "Zellige Colors",
+    "zelligeSubtitle": "Handmade glazed terracotta. Each photographed sample shows the natural variation of the kiln — no two pieces are identical.",
+    "cementTitle": "Cement Tile Colors",
+    "cementSubtitle": "Mineral pigments pressed into white cement. Cement colors are more uniform and matte than Zellige.",
+    "bjmatTitle": "Bjmat Colors",
+    "bjmatSubtitle": "Photographed Bjmat samples from the MT ART workshop. Tone and texture vary from piece to piece.",
+    "family": "Color family",
+    "allFamilies": "All colors",
+    "unavailable": "Unable to load colors right now.",
+    "families": {
+      "White": "White",
+      "Beige": "Beige",
+      "Yellow": "Yellow",
+      "Orange": "Orange",
+      "Red": "Red",
+      "Pink": "Pink",
+      "Green": "Green",
+      "Blue": "Blue",
+      "Brown": "Brown",
+      "Grey": "Grey",
+      "Black": "Black",
+      "Metallic": "Metallic",
+      "Cream": "Cream",
+      "Purple": "Purple",
+      "Turquoise": "Turquoise",
+      "Terracotta": "Terracotta",
+      "Special": "Special"
+    },
+    "tabs": {
+      "all": "All",
+      "zellige": "Zellige Colors",
+      "cement": "Cement Tile Colors",
+      "terracotta": "Terracotta Colors",
+      "bjmat": "Bjmat Colors"
+    },
+    "materials": {
+      "Universal": "Universal",
+      "Zellige": "Zellige",
+      "CementTile": "Cement tile",
+      "Terracotta": "Terracotta",
+      "Bejmat": "Bejmat"
+    },
+    "related": "Related colors",
+    "naturalVariation": "Handmade glazes and pigments vary from piece to piece. The photograph is the true sample; the hex value is only an on-screen approximation.",
+    "viewProducts": "View products",
+    "matchingProducts": "Matching products"
+  },
+  "projectsPage": {
+    "title": "Projects",
+    "subtitle": "A growing archive of spaces built with MT ART materials.",
+    "comingSoon": "Our full project gallery is being prepared. In the meantime, get in touch to see examples relevant to your project."
+  },
+  "craftsmanshipPage": {
+    "title": "Craftsmanship",
+    "subtitle": "Nine steps, one philosophy: everything by hand.",
+    "steps": {
+      "1": {
+        "title": "Clay & Cement Preparation",
+        "body": "Raw materials are selected and prepared using techniques refined over generations."
+      },
+      "2": {
+        "title": "Shaping",
+        "body": "Each tile is shaped by hand or hand-guided press, one piece at a time."
+      },
+      "3": {
+        "title": "Drying",
+        "body": "Pieces dry slowly and naturally before firing or curing."
+      },
+      "4": {
+        "title": "Glazing & Pigmentation",
+        "body": "Color is applied by hand — glaze for Zellige, pigment for cement tiles."
+      },
+      "5": {
+        "title": "Kiln / Hydraulic Press",
+        "body": "Traditional kilns and hydraulic presses give each material its final strength."
+      },
+      "6": {
+        "title": "Hand Cutting",
+        "body": "Zellige is chiselled into shape by hand, piece by piece."
+      },
+      "7": {
+        "title": "Quality Inspection",
+        "body": "Every batch is inspected before it leaves the workshop."
+      },
+      "8": {
+        "title": "Packing",
+        "body": "Tiles are carefully packed to travel safely around the world."
+      },
+      "9": {
+        "title": "Worldwide Shipping",
+        "body": "From our workshops in Morocco to projects on every continent."
+      }
+    },
+    "cta": "Request a Quote"
+  },
+  "ourCraftPage": {
+    "title": "How We Make Our Cement Tiles",
+    "subtitle": "Handmade in our factory, one tile at a time.",
+    "intro": "Each cement tile is poured, pressed and finished by hand. These films from our workshop follow the process from mould to finished surface.",
+    "cta": "Request a Quote",
+    "steps": {
+      "1": {
+        "title": "Preparing the mould",
+        "body": "The metal frame and pattern divider are set on the workbench, ready to receive pigment and cement."
+      },
+      "2": {
+        "title": "Preparing colors and pigments",
+        "body": "Mineral pigments are mixed into cement paste so every colour in the design is prepared by hand."
+      },
+      "3": {
+        "title": "Filling the mould",
+        "body": "Each compartment of the pattern is filled, colour by colour, with a small funnel — the surface of the tile is born here."
+      },
+      "4": {
+        "title": "Removing the mould",
+        "body": "Once the pattern is complete, the divider is lifted, leaving the design intact in the wet cement."
+      },
+      "5": {
+        "title": "Pressing the cement tile",
+        "body": "The tile is pressed so the decorative face and the cement body become one dense, durable piece."
+      },
+      "6": {
+        "title": "Finishing",
+        "body": "Edges and surfaces are checked and finished in the workshop before curing is complete."
+      },
+      "7": {
+        "title": "Final product",
+        "body": "The finished tiles — patterns, colours and borders — leave the factory ready for architecture and interiors."
+      }
+    }
+  },
+  "professionalsPage": {
+    "title": "For Professionals",
+    "subtitle": "Technical support, real samples and export logistics for architects, designers and hospitality projects.",
+    "audiences": {
+      "architects": "Architects",
+      "designers": "Interior Designers",
+      "developers": "Developers",
+      "hotels": "Hotels",
+      "restaurants": "Restaurants",
+      "distributors": "Distributors",
+      "importers": "Importers",
+      "retailers": "Retailers",
+      "contractors": "Contractors"
+    },
+    "offer": {
+      "heading": "What we offer",
+      "technicalSheets": "Technical sheets",
+      "samples": "Physical samples",
+      "catalogs": "Digital & printed catalogs",
+      "quotation": "Project-based quotation",
+      "customProduction": "Custom production",
+      "exportLogistics": "Export logistics",
+      "support": "Dedicated professional support"
+    },
+    "cta": "Start a Project"
+  },
+  "aboutPage": {
+    "title": "About MT ART",
+    "subtitle": "Moroccan heritage, shaped for contemporary architecture.",
+    "intro": "MT ART is a Moroccan manufacturer of handmade Zellige, Bejmat, cement and terracotta tiles, working with architects, designers and distributors around the world.",
+    "heritage": {
+      "heading": "Heritage",
+      "body": "Rooted in centuries of Moroccan tile-making tradition, carried forward by artisans who learned their craft the same way their families always have."
+    },
+    "factory": {
+      "heading": "Factory & Workshop",
+      "body": "Every piece is produced in our own workshops in Morocco, under direct quality control from raw material to finished tile."
+    },
+    "export": {
+      "heading": "International Reach",
+      "body": "MT ART ships to architecture and design projects worldwide, with the technical support international clients expect."
+    },
+    "catalog": {
+      "heading": "Catalog",
+      "body": "Discover our complete MT ART collection.",
+      "preview": "Preview Catalog",
+      "download": "Download PDF",
+      "cementName": "Cement tile catalog",
+      "close": "Close"
+    },
+    "slider": {
+      "previous": "Previous image",
+      "next": "Next image",
+      "goTo": "Go to image {{index}}"
+    }
+  },
+  "catalogsPage": {
+    "title": "Catalogs",
+    "subtitle": "Download our PDF catalogs to explore the full MT ART range offline.",
+    "empty": "Catalogs are being prepared and will appear here shortly.",
+    "download": "Download",
+    "preview": "Preview",
+    "cement": "Cement tile catalog",
+    "pages": "pages",
+    "cementBody": "The printed MT ART cement-tile catalog, now also browsable as individual products online. Download the PDF or explore models, colors and the simulator.",
+    "browse": "Browse products online"
+  },
+  "contactPage": {
+    "title": "Contact",
+    "subtitle": "We'd love to hear about your project.",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "address": "Factory & Showroom",
+    "hours": "Opening Hours",
+    "whatsappCta": "Message on WhatsApp",
+    "factoryMap": "Factory location",
+    "openInMaps": "Open in Google Maps",
+    "getDirections": "Get Directions",
+    "shareLocation": "Share Location",
+    "locationCopied": "Location link copied",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message",
+      "sending": "Sending…",
+      "success": "Your message was sent successfully.",
+      "error": "We could not send your message. Please try again.",
+      "validation": {
+        "name": "Please enter your full name.",
+        "email": "Please enter a valid email address.",
+        "message": "Please enter a message."
+      }
+    }
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Tell us about your project and our team will get back to you with a tailored quotation.",
+    "sections": {
+      "contact": "Your details",
+      "project": "Your project",
+      "product": "Product interest",
+      "message": "Message"
+    },
+    "fields": {
+      "fullName": "Full name",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "country": "Country",
+      "city": "City",
+      "customerType": "Customer type",
+      "projectType": "Project type",
+      "product": "Product",
+      "reference": "Reference",
+      "color": "Color",
+      "format": "Format",
+      "quantityM2": "Quantity / m²",
+      "message": "Message / Project details"
+    },
+    "customerTypes": {
+      "private": "Private Customer",
+      "architect": "Architect",
+      "interiorDesigner": "Interior Designer",
+      "distributor": "Distributor",
+      "retailer": "Retailer",
+      "hotel": "Hotel",
+      "restaurant": "Restaurant",
+      "contractor": "Contractor",
+      "other": "Other"
+    },
+    "projectTypes": {
+      "residential": "Residential",
+      "hotel": "Hotel",
+      "restaurant": "Restaurant",
+      "retail": "Retail",
+      "pool": "Pool",
+      "bathroom": "Bathroom",
+      "kitchen": "Kitchen",
+      "exterior": "Exterior",
+      "commercial": "Commercial",
+      "other": "Other"
+    },
+    "submit": "Send Request",
+    "submitting": "Sending…",
+    "success": {
+      "heading": "Thank you — your request has been received.",
+      "body": "Your reference number is {{reference}}. Our team will contact you shortly.",
+      "backHome": "Return home"
+    },
+    "error": {
+      "heading": "We couldn't send your request",
+      "notConnected": "The quotation service isn't connected yet. Your information has been kept below — please try again shortly or contact us directly.",
+      "generic": "Something went wrong while sending your request. Please try again."
+    },
+    "selectedProduct": {
+      "loadError": "We could not load the selected product. Please go back and try again."
+    },
+    "validation": {
+      "required": "This field is required.",
+      "email": "Please enter a valid email address.",
+      "positiveNumber": "Please enter a positive number."
+    }
+  },
+  "requestQuoteCta": {
+    "prefill": "Hello MT ART, I would like information about:"
+  },
+  "notFound": {
+    "title": "The tile you are looking for may have moved.",
+    "body": "It might have been moved, renamed, or never existed.",
+    "exploreZellige": "Explore Zellige",
+    "exploreCement": "Explore Cement Tiles",
+    "backHome": "Return Home"
+  },
+  "formatsPage": {
+    "title": "Formats",
+    "subtitle": "Technical sizes, weights and coverage for specifying MT ART tiles.",
+    "zelligeTitle": "Zellige formats",
+    "cementTitle": "Cement tile formats",
+    "bjmatTitle": "Bjmat formats",
+    "format": "Format",
+    "reference": "Reference",
+    "dimensions": "Measurements",
+    "thickness": "Thickness",
+    "weightUnit": "Weight / unit",
+    "units": "Units / m²",
+    "weightM2": "Weight / m²",
+    "shape": "Shape"
+  },
+  "cementTiles": {
+    "title": "Cement Tiles",
+    "subtitle": "Hand-pressed Moroccan cement tiles, available as catalog models or customizable patterns.",
+    "simulatorCta": "Open simulator",
+    "modelsCta": "Browse models",
+    "featured": "From the catalog",
+    "nav": {
+      "models": "Models",
+      "simulator": "Simulator",
+      "colors": "Colors",
+      "formats": "Formats",
+      "stock": "Stock",
+      "projects": "Projects",
+      "guide": "Technical Guide"
+    }
+  },
+  "simulator": {
+    "eyebrow": "Cement tiles",
+    "title": "Tile simulator",
+    "subtitle": "Choose a design, pick colors, then preview.",
+    "startTitle": "How do you want to start?",
+    "startSubtitle": "Colour an existing design, or create a new one from a blank tile.",
+    "chooseMouldKicker": "Catalogue",
+    "chooseMould": "Choose a design",
+    "chooseMouldBody": "Browse designs and colour each area.",
+    "or": "or",
+    "createKicker": "From scratch",
+    "createDesign": "Create your design",
+    "createDesignBody": "Build original geometry, colour each closed region, and see how it repeats.",
+    "patterns": "Moulds",
+    "mouldsTab": "Customizable moulds",
+    "catalogTab": "Browse catalog",
+    "photoOnly": "Photograph only",
+    "customize": "Customize",
+    "chooseRegion": "Choose a region",
+    "chooseColor": "Choose your color",
+    "chooseReference": "Choose a design",
+    "chooseDesign": "Choose your tile design",
+    "pickColorHint": "Click any area on the tile to color it",
+    "colorThisArea": "Color this area",
+    "applyToMatching": "Apply to matching shapes",
+    "resetThisArea": "Reset this area",
+    "resetAllColors": "Reset all colors",
+    "applyColor": "Apply",
+    "applyFailed": "Could not apply this color. Select an area and try again.",
+    "cancel": "Cancel",
+    "colorMode": "Color mode",
+    "preserveTexture": "Preserve texture",
+    "flatColor": "Flat color",
+    "selectionSensitivity": "Selection sensitivity",
+    "precise": "Precise",
+    "broad": "Broad",
+    "closePopup": "Close",
+    "copyHex": "Copy",
+    "copyRgb": "Copy RGB",
+    "copied": "Copied",
+    "yourColors": "Your colors",
+    "advanced": "Advanced",
+    "moreCategories": "More",
+    "previewSingle": "Tile",
+    "emptyGeometryHint": "Choose your tile design",
+    "inspirationHint": "This catalog photo identifies a real tile design. Individual regions can be coloured once an editable SVG mould exists. Use it as inspiration in the geometry designer.",
+    "useAsInspiration": "Use as inspiration",
+    "hex": "HEX",
+    "rgb": "RGB",
+    "brightness": "Brightness",
+    "hsl": "HSL",
+    "addToPalette": "Add to my palette",
+    "myPalette": "My palette",
+    "recentColors": "Recent colors",
+    "presetPalettes": "Ready-made palettes",
+    "presets": {
+      "moroccanEarth": "Moroccan Earth",
+      "mediterraneanBlue": "Mediterranean Blue",
+      "terracotta": "Terracotta",
+      "pastel": "Pastel",
+      "blackWhite": "Black & White",
+      "green": "Green",
+      "warmNeutral": "Warm Neutral"
+    },
+    "selectedMould": "Selected mould",
+    "yourTile": "Your tile",
+    "liveTile": "Live tile",
+    "repeatPreview": "Repeat preview",
+    "tileTypes": {
+      "cement": "Cement tile",
+      "zellige": "Zellige Marocain",
+      "bjmat": "Bjmat"
+    },
+    "bjmatHint": "Bjmat is a handmade terracotta brick. It is not a moulded cement pattern. Choose a layout and photographed colours instead of an SVG mould.",
+    "bjmatLayouts": "Bjmat layouts",
+    "bjmatColors": "Bjmat colours",
+    "loadMore": "Load more",
+    "download": "Download PNG",
+    "favorites": "Favorites",
+    "clearFavorites": "Clear favorites",
+    "fillAll": "Fill all",
+    "deleteOne": "Delete one",
+    "clearAll": "Clear all",
+    "suggestLayout": "Suggest layout",
+    "size": "Size",
+    "colors": "Colors",
+    "selectedColors": "Selected colors",
+    "room": "Room view",
+    "rotate": "Rotate",
+    "reset": "Reset colors",
+    "favorite": "Favorite",
+    "viewFavorites": "View favorites",
+    "fullscreen": "Fullscreen",
+    "all": "All",
+    "searchReference": "Search reference...",
+    "back": "Back",
+    "continue": "Continue",
+    "reference": "Reference",
+    "pattern": "Pattern",
+    "mould": "Mould",
+    "format": "Format",
+    "price": "Price per m²",
+    "surface": "Surface needed (m²)",
+    "waste": "Waste",
+    "tiles": "tiles",
+    "estimate": "Estimate including waste. Final quantity is confirmed with your quotation.",
+    "requestDesign": "Request this design",
+    "requestQuote": "Request a Quote",
+    "livePreview": "Live preview",
+    "tileSize": "Tile size",
+    "tileSizeSmall": "Small",
+    "tileSizeLarge": "Large",
+    "layout": "Layout",
+    "rotation": "Rotation",
+    "upload": {
+      "card": "Upload your design",
+      "title": "Upload your design",
+      "drag": "Drag an image here",
+      "or": "or",
+      "choose": "Choose image",
+      "formats": "JPG / PNG / WEBP",
+      "cropTitle": "Crop the tile",
+      "cropHint": "Select one tile or the repeating pattern",
+      "useCrop": "Use selected area",
+      "angled": "The photo is at an angle",
+      "preparing": "Preparing your design...",
+      "steps": {
+        "uploaded": "Image uploaded",
+        "tile": "Detecting tile",
+        "pattern": "Finding pattern",
+        "colors": "Detecting color areas",
+        "mould": "Creating editable mould"
+      },
+      "ready": "Your design is ready",
+      "original": "Original",
+      "mould": "Editable mould",
+      "useMould": "Use this design",
+      "tryAnother": "Try another image",
+      "pickFromOriginal": "Pick from original",
+      "tooSmall": "This image is too small. Please upload a clearer tile image.",
+      "tooLarge": "This image is too large. Maximum size is 10 MB.",
+      "badType": "Please upload a JPG, PNG or WEBP image.",
+      "invalid": "This file could not be read as an image.",
+      "failed": "We couldn't detect this design clearly. Try cropping one tile or upload a clearer image.",
+      "failedTips": "Try:\n- a front-facing photo\n- better lighting\n- crop one tile\n- use a higher-resolution image",
+      "unavailable": "Design preparation is unavailable right now. Please try again."
+    },
+    "previewModes": {
+      "tile": "Tile",
+      "floor": "Floor",
+      "bedroom": "Bedroom",
+      "living": "Living room",
+      "bathroom": "Bathroom",
+      "kitchen": "Kitchen"
+    },
+    "steps": {
+      "design": "Choose design",
+      "pattern": "Choose design",
+      "colors": "Choose colors",
+      "preview": "Preview",
+      "visualize": "Room"
+    },
+    "regions": {
+      "background": "Background",
+      "main": "Main motif",
+      "secondary": "Secondary motif",
+      "accent": "Accent",
+      "light": "Light face",
+      "mid": "Mid face",
+      "dark": "Dark face",
+      "a": "Field A",
+      "b": "Field B",
+      "petalA": "Petal A",
+      "petalB": "Petal B",
+      "center": "Center",
+      "field": "Field",
+      "ring": "Ring",
+      "star": "Star",
+      "north": "North",
+      "east": "East",
+      "west": "West",
+      "south": "South",
+      "hex": "Hexagon",
+      "flower": "Flower",
+      "octagon": "Octagon",
+      "bladeA": "Blade A",
+      "bladeB": "Blade B",
+      "bladeC": "Blade C",
+      "bladeD": "Blade D",
+      "hub": "Hub",
+      "inner": "Inner",
+      "border": "Border",
+      "corner": "Corner",
+      "cabochon": "Cabochon",
+      "outer": "Outer",
+      "diamond": "Diamond",
+      "detail": "Detail",
+      "cross": "Cross"
+    },
+    "scenes": {
+      "floor": "Floor",
+      "kitchen": "Kitchen",
+      "bathroom": "Bathroom",
+      "living": "Living room",
+      "commercial": "Commercial",
+      "bedroom": "Bedroom"
+    }
+  },
+  "designer": {
+    "eyebrow": "Cement tiles",
+    "title": "Create your own design",
+    "subtitle": "Start from an empty 20 × 20 cm tile. Add geometric shapes, colour each closed region, and preview the repeated floor.",
+    "changeStart": "Change starting point",
+    "useAsStart": "Use as starting point",
+    "shapes": "Shapes",
+    "moroccan": "Moroccan geometry",
+    "select": "Select",
+    "symmetry": "Symmetry",
+    "grid": "Grid",
+    "gridOn": "Show grid",
+    "snapOn": "Snap to grid",
+    "gridSize": "Grid size",
+    "centerGuides": "Center mark",
+    "diagonalGuides": "Diagonal guides",
+    "horizontalGuide": "Horizontal guide",
+    "verticalGuide": "Vertical guide",
+    "angleSnap": "Angle snap",
+    "off": "Off",
+    "layers": "Layers",
+    "emptyTile": "Empty tile — add a shape to begin.",
+    "rename": "Rename",
+    "layout": "Layout",
+    "repeatPreview": "Repeated pattern",
+    "seamless": "Seamless preview",
+    "manufacturing": "Manufacturing preview",
+    "exportSvg": "Export SVG",
+    "colors": "Colors",
+    "designTile": "Design tile",
+    "name": "Name",
+    "undo": "Undo",
+    "redo": "Redo",
+    "duplicate": "Duplicate",
+    "delete": "Delete",
+    "mirrorH": "Mirror horizontally",
+    "mirrorV": "Mirror vertically",
+    "forward": "Bring forward",
+    "backward": "Send backward",
+    "alignCenter": "Align center",
+    "reset": "Reset",
+    "save": "Save my design",
+    "savedAs": "Saved as {{reference}}",
+    "saveFailed": "Could not save. Try again.",
+    "savedDesigns": "Saved designs",
+    "mobileHint": "The full geometry tools are easiest on a larger screen. You can still sketch on the tile below.",
+    "assistTitle": "Describe a starting motif",
+    "assistBody": "Optional. Type a short description to place original geometric shapes. You can always edit everything by hand — no AI is required.",
+    "assistPlaceholder": "Moroccan 8-point star with diamonds around it",
+    "assistApply": "Place motif",
+    "symmetryMode": {
+      "none": "None",
+      "2": "2-way",
+      "4": "4-way",
+      "6": "6-way",
+      "8": "8-way",
+      "radial": "Radial"
+    },
+    "repeat": {
+      "straight": "Straight",
+      "rotate90": "Rotate 90°",
+      "rotate180": "Rotate 180°",
+      "alt90": "Alternating 90°",
+      "alt180": "Alternating 180°",
+      "mirrorX": "Mirror X",
+      "mirrorY": "Mirror Y",
+      "checker": "Checker",
+      "compose2": "2×2 composition",
+      "compose4": "4×4 composition"
+    },
+    "shape": {
+      "line": "Line",
+      "triangle": "Triangle",
+      "square": "Square",
+      "rectangle": "Rectangle",
+      "circle": "Circle",
+      "semiCircle": "Semi-circle",
+      "quarterCircle": "Quarter circle",
+      "diamond": "Diamond",
+      "rhombus": "Rhombus",
+      "hexagon": "Hexagon",
+      "octagon": "Octagon",
+      "star4": "4-point star",
+      "star6": "6-point star",
+      "star8": "8-point star",
+      "star10": "10-point star",
+      "star12": "12-point star",
+      "moroccanStar": "Moroccan star",
+      "cross": "Cross",
+      "polygon": "Polygon",
+      "arc": "Arc",
+      "khatem": "Khatem star",
+      "starAndCross": "Star and cross",
+      "rosette": "Rosette",
+      "interlace": "Interlace",
+      "diamondsRing": "Diamonds",
+      "moorishRadial": "Radial geometry",
+      "path": "Path"
+    },
+    "warnings": {
+      "ok": "No manufacturing warnings for the current geometry.",
+      "tinyArea": "This region may be too small for manufacturing.",
+      "thinRegion": "This region may be too thin for a cement-tile divider.",
+      "openPath": "An open line will not create a colourable cement zone.",
+      "outOfBounds": "Part of the geometry sits outside the tile.",
+      "overlap": "Overlapping shapes may be difficult to cut as a mould.",
+      "tinyGap": "A gap looks too small for manufacturing.",
+      "duplicate": "Two shapes appear to be duplicates."
+    }
+  },
+  "bjmat": {
+    "title": "Handmade Bjmat",
+    "subtitle": "Elongated terracotta tiles, photographed in the MT ART workshop and laid in straight, brick or herringbone patterns.",
+    "homeBody": "Bjmat is a product family in its own right — long handmade terracotta pieces in 15×5, 20×5 and 20×10 formats.",
+    "explore": "Explore Bjmat",
+    "formatsHeading": "Available formats",
+    "formatsBody": "Typical Bjmat lengths used in our workshop. Technical weights are confirmed with each quotation.",
+    "layoutsHeading": "Layouts",
+    "layoutsBody": "Bjmat is not configured like a cement mould. Choose a photographed texture and preview common laying patterns.",
+    "variationHeading": "Natural variations",
+    "variationBody": "Handmade terracotta varies in tone, edge and texture. The photographs below are real workshop samples, not studio retouching.",
+    "nav": {
+      "colors": "Colors",
+      "formats": "Formats",
+      "layouts": "Layouts",
+      "projects": "Projects",
+      "products": "Products"
+    },
+    "layouts": {
+      "chooseColor": "Choose a texture",
+      "straight": "Straight",
+      "brick": "Brick",
+      "herringbone": "Herringbone",
+      "vertical": "Vertical",
+      "diagonal": "Diagonal",
+      "basketweave": "Basketweave"
+    }
+  }
+}

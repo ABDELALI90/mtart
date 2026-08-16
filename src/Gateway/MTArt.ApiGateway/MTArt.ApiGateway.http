@@ -1,0 +1,6 @@
+@MTArt.ApiGateway_HostAddress = http://localhost:5119
+
+GET {{MTArt.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

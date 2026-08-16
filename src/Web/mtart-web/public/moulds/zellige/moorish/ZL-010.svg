@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect data-region="field" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+  <path data-region="border" d="M10 10 H190 V190 H10 Z M26 26 V174 H174 V26 Z" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" fill-rule="evenodd" />
+  <polygon data-region="star" points="100,52 107.65,81.52 133.94,66.06 118.48,92.35 148,100 118.48,107.65 133.94,133.94 107.65,118.48 100,148 92.35,118.48 66.06,133.94 81.52,107.65 52,100 81.52,92.35 66.06,66.06 92.35,81.52" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+</svg>

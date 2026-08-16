@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/.vs/
+**/.vscode/
+**/.idea/
+.git/
+.github/
+**/*.user
+**/*.suo
+**/coverage/
+**/TestResults/
+docs/
+import/
+*.md
+.env

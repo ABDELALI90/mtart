@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>mtart-inquiry-api-dev-secrets</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BuildingBlocks\MTArt.Observability\MTArt.Observability.csproj" />
+    <ProjectReference Include="..\MTArt.Inquiry.Application\MTArt.Inquiry.Application.csproj" />
+    <ProjectReference Include="..\MTArt.Inquiry.Infrastructure\MTArt.Inquiry.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

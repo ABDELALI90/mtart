@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="field" data-region-id="field" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <polygon data-region="cabochon" data-region-id="cabochon" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" points="100,8 120,100 100,192 80,100" />
+  <polygon data-region="cabochon" data-region-id="cabochon" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" points="8,100 100,80 192,100 100,120" />
+</svg>

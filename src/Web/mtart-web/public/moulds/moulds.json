@@ -1,0 +1,1050 @@
+[
+  {
+    "reference": "1025",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/najma.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1026",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/arabia.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1027",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/rif.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1035",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/cube.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1040",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/quatrefoil.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1042",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/diamond.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1048",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/scroll.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1050",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/checker.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1055",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/petal.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1060",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/cabochon.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1068",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/concentric.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1070",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/medallion.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1072",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/garden.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1075",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/compass.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1080",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/frame.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1088",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/hexbloom.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1092",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/octostar.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "1095",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/images/patterns/pinwheel.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-001",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-001.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-002",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-002.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-003",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-003.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-004",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-004.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-005",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-005.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-006",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-006.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-007",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-007.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-008",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-008.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-009",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-009.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-010",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-010.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-011",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-011.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-012",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/shapes/GEO-012.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-013",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/classic/GEO-013.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-014",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/modern/GEO-014.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-015",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/borders/GEO-015.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-016",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/classic/GEO-016.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-017",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/shapes/GEO-017.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-018",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-018.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-019",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/geometric/GEO-019.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-020",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/floral/GEO-020.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-021",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/monochrome/GEO-021.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "GEO-022",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/cement/modern/GEO-022.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-001",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moroccan/ZL-001.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-002",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/stars/ZL-002.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-003",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moroccan/ZL-003.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-004",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/rosettes/ZL-004.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-005",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moorish/ZL-005.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-006",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moroccan/ZL-006.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-007",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moorish/ZL-007.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-008",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/stars/ZL-008.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-009",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/stars/ZL-009.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-010",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moorish/ZL-010.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-011",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/stars/ZL-011.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-012",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moorish/ZL-012.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-013",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moroccan/ZL-013.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-014",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moroccan/ZL-014.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-015",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moroccan/ZL-015.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-016",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/stars/ZL-016.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-017",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/stars/ZL-017.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-018",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/rosettes/ZL-018.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-019",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moorish/ZL-019.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-020",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moorish/ZL-020.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-021",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/rosettes/ZL-021.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "ZL-022",
+    "source": null,
+    "status": "original",
+    "svgUrl": "/moulds/zellige/moroccan/ZL-022.svg",
+    "editable": true,
+    "confidence": null
+  },
+  {
+    "reference": "MOR-001",
+    "source": "/import/extracted/images/p004-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-002",
+    "source": "/import/extracted/images/p006-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-003",
+    "source": "/import/extracted/images/p009-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-004",
+    "source": "/import/extracted/images/p010-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/moroccan/MOR-004.svg",
+    "editable": true,
+    "confidence": 0.852
+  },
+  {
+    "reference": "MOR-005",
+    "source": "/import/extracted/images/p013-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-006",
+    "source": "/import/extracted/images/p014-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-007",
+    "source": "/import/extracted/images/p015-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-008",
+    "source": "/import/extracted/images/p016-i1.jpeg",
+    "status": "photo-only",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.0
+  },
+  {
+    "reference": "MOR-009",
+    "source": "/import/extracted/images/p019-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.15
+  },
+  {
+    "reference": "MOR-010",
+    "source": "/import/extracted/images/p021-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.15
+  },
+  {
+    "reference": "MOR-011",
+    "source": "/import/extracted/images/p022-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-012",
+    "source": "/import/extracted/images/p023-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-013",
+    "source": "/import/extracted/images/p024-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-014",
+    "source": "/import/extracted/images/p025-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-015",
+    "source": "/import/extracted/images/p026-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-016",
+    "source": "/import/extracted/images/p027-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.002
+  },
+  {
+    "reference": "MOR-017",
+    "source": "/import/extracted/images/p028-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/moroccan/MOR-017.svg",
+    "editable": true,
+    "confidence": 0.937
+  },
+  {
+    "reference": "MOR-018",
+    "source": "/import/extracted/images/p029-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-019",
+    "source": "/import/extracted/images/p030-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-020",
+    "source": "/import/extracted/images/p031-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.685
+  },
+  {
+    "reference": "MOR-021",
+    "source": "/import/extracted/images/p032-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-022",
+    "source": "/import/extracted/images/p033-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.308
+  },
+  {
+    "reference": "MOR-023",
+    "source": "/import/extracted/images/p034-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-024",
+    "source": "/import/extracted/images/p035-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.368
+  },
+  {
+    "reference": "MOR-025",
+    "source": "/import/extracted/images/p036-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-026",
+    "source": "/import/extracted/images/p037-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-027",
+    "source": "/import/extracted/images/p038-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-028",
+    "source": "/import/extracted/images/p039-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.328
+  },
+  {
+    "reference": "MOR-029",
+    "source": "/import/extracted/images/p040-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-030",
+    "source": "/import/extracted/images/p041-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.114
+  },
+  {
+    "reference": "MOR-031",
+    "source": "/import/extracted/images/p043-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.093
+  },
+  {
+    "reference": "MOR-032",
+    "source": "/import/extracted/images/p046-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.316
+  },
+  {
+    "reference": "MOR-033",
+    "source": "/import/extracted/images/p047-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-034",
+    "source": "/import/extracted/images/p048-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-035",
+    "source": "/import/extracted/images/p055-i1.jpeg",
+    "status": "photo-only",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.0
+  },
+  {
+    "reference": "MOR-036",
+    "source": "/import/extracted/images/p056-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-037",
+    "source": "/import/extracted/images/p060-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.717
+  },
+  {
+    "reference": "MOR-038",
+    "source": "/import/extracted/images/p063-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-039",
+    "source": "/import/extracted/images/p071-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-040",
+    "source": "/import/extracted/images/p072-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.712
+  },
+  {
+    "reference": "MOR-041",
+    "source": "/import/extracted/images/p074-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.782
+  },
+  {
+    "reference": "MOR-042",
+    "source": "/import/extracted/images/p085-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.222
+  },
+  {
+    "reference": "MOR-043",
+    "source": "/import/extracted/images/p098-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-044",
+    "source": "/import/extracted/images/p108-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-045",
+    "source": "/import/extracted/images/p111-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-046",
+    "source": "/import/extracted/images/p125-i1.jpeg",
+    "status": "photo-only",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.0
+  },
+  {
+    "reference": "MOR-047",
+    "source": "/import/extracted/images/p128-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-048",
+    "source": "/import/extracted/images/p131-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-049",
+    "source": "/import/extracted/images/p136-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-050",
+    "source": "/import/extracted/images/p139-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-051",
+    "source": "/import/extracted/images/p156-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-052",
+    "source": "/import/extracted/images/p158-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-053",
+    "source": "/import/extracted/images/p159-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-054",
+    "source": "/import/extracted/images/p167-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.28
+  },
+  {
+    "reference": "MOR-055",
+    "source": "/import/extracted/images/p168-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-056",
+    "source": "/import/extracted/images/p169-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-057",
+    "source": "/import/extracted/images/p178-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-058",
+    "source": "/import/extracted/images/p179-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-059",
+    "source": "/import/extracted/images/p180-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.797
+  },
+  {
+    "reference": "MOR-060",
+    "source": "/import/extracted/images/p182-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-061",
+    "source": "/import/extracted/images/p186-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.72
+  },
+  {
+    "reference": "MOR-062",
+    "source": "/import/extracted/images/p187-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-063",
+    "source": "/import/extracted/images/p189-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-064",
+    "source": "/import/extracted/images/p194-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-065",
+    "source": "/import/extracted/images/p195-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-066",
+    "source": "/import/extracted/images/p197-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-067",
+    "source": "/import/extracted/images/p200-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.024
+  },
+  {
+    "reference": "MOR-068",
+    "source": "/import/extracted/images/p203-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  },
+  {
+    "reference": "MOR-069",
+    "source": "/import/extracted/images/p204-i1.jpeg",
+    "status": "needs-manual-vectorization",
+    "svgUrl": null,
+    "editable": false,
+    "confidence": 0.25
+  }
+]

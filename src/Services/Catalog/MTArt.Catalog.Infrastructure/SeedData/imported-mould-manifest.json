@@ -1,0 +1,2755 @@
+[
+  {
+    "reference": "MOR-001",
+    "slug": "mor-001",
+    "name": "GEO-009 tile MOR-001",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p004-i1.jpeg",
+    "thumbnail": "/images/catalog/p004.png",
+    "svg": "/moulds/imported/MOR-001.svg",
+    "templateReference": "GEO-009",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 4,
+    "importId": "CAT-P004",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p004",
+      "hexagon"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-002",
+    "slug": "mor-002",
+    "name": "Moroccan Star MOR-002",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p006-i1.jpeg",
+    "thumbnail": "/images/catalog/p006.png",
+    "svg": "/moulds/imported/MOR-002.svg",
+    "templateReference": "GEO-003",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 6,
+    "importId": "CAT-P006",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p006",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-003",
+    "slug": "mor-003",
+    "name": "Moroccan Star MOR-003",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p009-i1.jpeg",
+    "thumbnail": "/images/catalog/p009.png",
+    "svg": "/moulds/imported/MOR-003.svg",
+    "templateReference": "GEO-003",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 9,
+    "importId": "CAT-P009",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p009",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "2x2",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-004",
+    "slug": "mor-004",
+    "name": "GEO-007 tile MOR-004",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p010-i1.jpeg",
+    "thumbnail": "/images/catalog/p010.png",
+    "svg": "/moulds/imported/MOR-004.svg",
+    "templateReference": "GEO-007",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 10,
+    "importId": "CAT-P010",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p010",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-005",
+    "slug": "mor-005",
+    "name": "Moroccan Star MOR-005",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p013-i1.jpeg",
+    "thumbnail": "/images/catalog/p013.png",
+    "svg": "/moulds/cement/geometric/GEO-003.svg",
+    "templateReference": "GEO-003",
+    "editable": false,
+    "status": "vectorization-failed",
+    "catalogPage": 13,
+    "importId": "CAT-P013",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p013",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-006",
+    "slug": "mor-006",
+    "name": "Moroccan Star MOR-006",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p014-i1.jpeg",
+    "thumbnail": "/images/catalog/p014.png",
+    "svg": "/moulds/imported/MOR-006.svg",
+    "templateReference": "GEO-003",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 14,
+    "importId": "CAT-P014",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p014",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-007",
+    "slug": "mor-007",
+    "name": "Moroccan Star MOR-007",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p015-i1.jpeg",
+    "thumbnail": "/images/catalog/p015.png",
+    "svg": "/moulds/imported/MOR-007.svg",
+    "templateReference": "GEO-003",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 15,
+    "importId": "CAT-P015",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p015",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "2x2",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-008",
+    "slug": "mor-008",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p016-i1.jpeg",
+    "thumbnail": "/images/catalog/p016.png",
+    "svg": "/moulds/imported/MOR-008.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 16,
+    "importId": "CAT-P016",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p016",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-009",
+    "slug": "mor-009",
+    "name": "GEO-010 tile MOR-009",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p019-i1.jpeg",
+    "thumbnail": "/images/catalog/p019.png",
+    "svg": "/moulds/imported/MOR-009.svg",
+    "templateReference": "GEO-010",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 19,
+    "importId": "CAT-P019",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p019",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-010",
+    "slug": "mor-010",
+    "name": "GEO-020 tile MOR-010",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p021-i1.jpeg",
+    "thumbnail": "/images/catalog/p021.png",
+    "svg": "/moulds/imported/MOR-010.svg",
+    "templateReference": "GEO-020",
+    "editable": false,
+    "status": "vectorization-failed",
+    "catalogPage": 21,
+    "importId": "CAT-P021",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p021",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-011",
+    "slug": "mor-011",
+    "name": "GEO-020 tile MOR-011",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p022-i1.jpeg",
+    "thumbnail": "/images/catalog/p022.png",
+    "svg": "/moulds/imported/MOR-011.svg",
+    "templateReference": "GEO-020",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 22,
+    "importId": "CAT-P022",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p022",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-012",
+    "slug": "mor-012",
+    "name": "Moroccan Star MOR-012",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p023-i1.jpeg",
+    "thumbnail": "/images/catalog/p023.png",
+    "svg": "/moulds/imported/MOR-012.svg",
+    "templateReference": "GEO-003",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 23,
+    "importId": "CAT-P023",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p023",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "2x2",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-013",
+    "slug": "mor-013",
+    "name": "GEO-020 tile MOR-013",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p024-i1.jpeg",
+    "thumbnail": "/images/catalog/p024.png",
+    "svg": "/moulds/imported/MOR-013.svg",
+    "templateReference": "GEO-020",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 24,
+    "importId": "CAT-P024",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p024",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-014",
+    "slug": "mor-014",
+    "name": "GEO-020 tile MOR-014",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p025-i1.jpeg",
+    "thumbnail": "/images/catalog/p025.png",
+    "svg": "/moulds/imported/MOR-014.svg",
+    "templateReference": "GEO-020",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 25,
+    "importId": "CAT-P025",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p025",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-015",
+    "slug": "mor-015",
+    "name": "GEO-020 tile MOR-015",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p026-i1.jpeg",
+    "thumbnail": "/images/catalog/p026.png",
+    "svg": "/moulds/imported/MOR-015.svg",
+    "templateReference": "GEO-020",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 26,
+    "importId": "CAT-P026",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p026",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-016",
+    "slug": "mor-016",
+    "name": "Moroccan Star MOR-016",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p027-i1.jpeg",
+    "thumbnail": "/images/catalog/p027.png",
+    "svg": "/moulds/imported/MOR-016.svg",
+    "templateReference": "GEO-003",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 27,
+    "importId": "CAT-P027",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p027",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-017",
+    "slug": "mor-017",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p028-i1.jpeg",
+    "thumbnail": "/images/catalog/p028.png",
+    "svg": "/moulds/imported/MOR-017.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 28,
+    "importId": "CAT-P028",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p028",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-018",
+    "slug": "mor-018",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p029-i1.jpeg",
+    "thumbnail": "/images/catalog/p029.png",
+    "svg": "/moulds/imported/MOR-018.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 29,
+    "importId": "CAT-P029",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p029",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-019",
+    "slug": "mor-019",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p030-i1.jpeg",
+    "thumbnail": "/images/catalog/p030.png",
+    "svg": "/moulds/imported/MOR-019.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 30,
+    "importId": "CAT-P030",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p030",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-020",
+    "slug": "mor-020",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p031-i1.jpeg",
+    "thumbnail": "/images/catalog/p031.png",
+    "svg": "/moulds/imported/MOR-020.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 31,
+    "importId": "CAT-P031",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p031",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-021",
+    "slug": "mor-021",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "floral",
+    "sourceImage": "/import/extracted/images/p032-i1.jpeg",
+    "thumbnail": "/images/catalog/p032.png",
+    "svg": "/moulds/imported/MOR-021.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 32,
+    "importId": "CAT-P032",
+    "tags": [
+      "moroccan",
+      "cement",
+      "floral",
+      "p032",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-022",
+    "slug": "mor-022",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p033-i1.jpeg",
+    "thumbnail": "/images/catalog/p033.png",
+    "svg": "/moulds/imported/MOR-022.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 33,
+    "importId": "CAT-P033",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p033",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-023",
+    "slug": "mor-023",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p034-i1.jpeg",
+    "thumbnail": "/images/catalog/p034.png",
+    "svg": "/moulds/imported/MOR-023.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 34,
+    "importId": "CAT-P034",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p034",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-024",
+    "slug": "mor-024",
+    "name": "Cube MOR-024",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p035-i1.jpeg",
+    "thumbnail": "/images/catalog/p035.png",
+    "svg": "/moulds/imported/MOR-024.svg",
+    "templateReference": "1035",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 35,
+    "importId": "CAT-P035",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p035",
+      "cube",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-025",
+    "slug": "mor-025",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p036-i1.jpeg",
+    "thumbnail": "/images/catalog/p036.png",
+    "svg": "/moulds/imported/MOR-025.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 36,
+    "importId": "CAT-P036",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p036",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-026",
+    "slug": "mor-026",
+    "name": "Cube MOR-026",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p037-i1.jpeg",
+    "thumbnail": "/images/catalog/p037.png",
+    "svg": "/moulds/imported/MOR-026.svg",
+    "templateReference": "1035",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 37,
+    "importId": "CAT-P037",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p037",
+      "cube",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-027",
+    "slug": "mor-027",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p038-i1.jpeg",
+    "thumbnail": "/images/catalog/p038.png",
+    "svg": "/moulds/imported/MOR-027.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 38,
+    "importId": "CAT-P038",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p038",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-028",
+    "slug": "mor-028",
+    "name": "Cube MOR-028",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p039-i1.jpeg",
+    "thumbnail": "/images/catalog/p039.png",
+    "svg": "/moulds/imported/MOR-028.svg",
+    "templateReference": "1035",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 39,
+    "importId": "CAT-P039",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p039",
+      "cube",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-029",
+    "slug": "mor-029",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p040-i1.jpeg",
+    "thumbnail": "/images/catalog/p040.png",
+    "svg": "/moulds/imported/MOR-029.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 40,
+    "importId": "CAT-P040",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p040",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-030",
+    "slug": "mor-030",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "modern",
+    "sourceImage": "/import/extracted/images/p041-i1.jpeg",
+    "thumbnail": "/images/catalog/p041.png",
+    "svg": "/moulds/imported/MOR-030.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 41,
+    "importId": "CAT-P041",
+    "tags": [
+      "moroccan",
+      "cement",
+      "modern",
+      "p041",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-031",
+    "slug": "mor-031",
+    "name": "GEO-007 tile MOR-031",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p043-i1.jpeg",
+    "thumbnail": "/images/catalog/p043.png",
+    "svg": "/moulds/imported/MOR-031.svg",
+    "templateReference": "GEO-007",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 43,
+    "importId": "CAT-P043",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p043",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-032",
+    "slug": "mor-032",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "arabesque",
+    "sourceImage": "/import/extracted/images/p046-i1.jpeg",
+    "thumbnail": "/images/catalog/p046.png",
+    "svg": "/moulds/imported/MOR-032.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 46,
+    "importId": "CAT-P046",
+    "tags": [
+      "moroccan",
+      "cement",
+      "arabesque",
+      "p046",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-033",
+    "slug": "mor-033",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "arabesque",
+    "sourceImage": "/import/extracted/images/p047-i1.jpeg",
+    "thumbnail": "/images/catalog/p047.png",
+    "svg": "/moulds/imported/MOR-033.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 47,
+    "importId": "CAT-P047",
+    "tags": [
+      "moroccan",
+      "cement",
+      "arabesque",
+      "p047",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-034",
+    "slug": "mor-034",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "arabesque",
+    "sourceImage": "/import/extracted/images/p048-i1.jpeg",
+    "thumbnail": "/images/catalog/p048.png",
+    "svg": "/moulds/imported/MOR-034.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 48,
+    "importId": "CAT-P048",
+    "tags": [
+      "moroccan",
+      "cement",
+      "arabesque",
+      "p048",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-035",
+    "slug": "mor-035",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "arabesque",
+    "sourceImage": "/import/extracted/images/p055-i1.jpeg",
+    "thumbnail": "/images/catalog/p055.png",
+    "svg": "/moulds/imported/MOR-035.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 55,
+    "importId": "CAT-P055",
+    "tags": [
+      "moroccan",
+      "cement",
+      "arabesque",
+      "p055",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-036",
+    "slug": "mor-036",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "arabesque",
+    "sourceImage": "/import/extracted/images/p056-i1.jpeg",
+    "thumbnail": "/images/catalog/p056.png",
+    "svg": "/moulds/imported/MOR-036.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 56,
+    "importId": "CAT-P056",
+    "tags": [
+      "moroccan",
+      "cement",
+      "arabesque",
+      "p056",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-037",
+    "slug": "mor-037",
+    "name": "Moroccan Star MOR-037",
+    "family": "cement",
+    "category": "geometric",
+    "sourceImage": "/import/extracted/images/p060-i1.jpeg",
+    "thumbnail": "/images/catalog/p060.png",
+    "svg": "/moulds/imported/MOR-037.svg",
+    "templateReference": "GEO-003",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 60,
+    "importId": "CAT-P060",
+    "tags": [
+      "moroccan",
+      "cement",
+      "geometric",
+      "p060",
+      "star",
+      "najma",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-038",
+    "slug": "mor-038",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p063-i1.jpeg",
+    "thumbnail": "/images/catalog/p063.png",
+    "svg": "/moulds/imported/MOR-038.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 63,
+    "importId": "CAT-P063",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p063",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-039",
+    "slug": "mor-039",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p071-i1.jpeg",
+    "thumbnail": "/images/catalog/p071.png",
+    "svg": "/moulds/imported/MOR-039.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 71,
+    "importId": "CAT-P071",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p071",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-040",
+    "slug": "mor-040",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p072-i1.jpeg",
+    "thumbnail": "/images/catalog/p072.png",
+    "svg": "/moulds/imported/MOR-040.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 72,
+    "importId": "CAT-P072",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p072",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-041",
+    "slug": "mor-041",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p074-i1.jpeg",
+    "thumbnail": "/images/catalog/p074.png",
+    "svg": "/moulds/imported/MOR-041.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 74,
+    "importId": "CAT-P074",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p074",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-042",
+    "slug": "mor-042",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p085-i1.jpeg",
+    "thumbnail": "/images/catalog/p085.png",
+    "svg": "/moulds/imported/MOR-042.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 85,
+    "importId": "CAT-P085",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p085",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-043",
+    "slug": "mor-043",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p098-i1.jpeg",
+    "thumbnail": "/images/catalog/p098.png",
+    "svg": "/moulds/imported/MOR-043.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 98,
+    "importId": "CAT-P098",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p098",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-044",
+    "slug": "mor-044",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p108-i1.jpeg",
+    "thumbnail": "/images/catalog/p108.png",
+    "svg": "/moulds/imported/MOR-044.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 108,
+    "importId": "CAT-P108",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p108",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-045",
+    "slug": "mor-045",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p111-i1.jpeg",
+    "thumbnail": "/images/catalog/p111.png",
+    "svg": "/moulds/imported/MOR-045.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 111,
+    "importId": "CAT-P111",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p111",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-046",
+    "slug": "mor-046",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p125-i1.jpeg",
+    "thumbnail": "/images/catalog/p125.png",
+    "svg": "/moulds/imported/MOR-046.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 125,
+    "importId": "CAT-P125",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p125",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-047",
+    "slug": "mor-047",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p128-i1.jpeg",
+    "thumbnail": "/images/catalog/p128.png",
+    "svg": "/moulds/imported/MOR-047.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 128,
+    "importId": "CAT-P128",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p128",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-048",
+    "slug": "mor-048",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p131-i1.jpeg",
+    "thumbnail": "/images/catalog/p131.png",
+    "svg": "/moulds/imported/MOR-048.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 131,
+    "importId": "CAT-P131",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p131",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-049",
+    "slug": "mor-049",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p136-i1.jpeg",
+    "thumbnail": "/images/catalog/p136.png",
+    "svg": "/moulds/imported/MOR-049.svg",
+    "templateReference": null,
+    "editable": false,
+    "status": "vectorization-failed",
+    "catalogPage": 136,
+    "importId": "CAT-P136",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p136",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-050",
+    "slug": "mor-050",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p139-i1.jpeg",
+    "thumbnail": "/images/catalog/p139.png",
+    "svg": "/moulds/imported/MOR-050.svg",
+    "templateReference": null,
+    "editable": false,
+    "status": "vectorization-failed",
+    "catalogPage": 139,
+    "importId": "CAT-P139",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p139",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-051",
+    "slug": "mor-051",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p156-i1.jpeg",
+    "thumbnail": "/images/catalog/p156.png",
+    "svg": "/moulds/imported/MOR-051.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 156,
+    "importId": "CAT-P156",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p156",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-052",
+    "slug": "mor-052",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p158-i1.jpeg",
+    "thumbnail": "/images/catalog/p158.png",
+    "svg": "/moulds/imported/MOR-052.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 158,
+    "importId": "CAT-P158",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p158",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-053",
+    "slug": "mor-053",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p159-i1.jpeg",
+    "thumbnail": "/images/catalog/p159.png",
+    "svg": "/moulds/imported/MOR-053.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 159,
+    "importId": "CAT-P159",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p159",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-054",
+    "slug": "mor-054",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p167-i1.jpeg",
+    "thumbnail": "/images/catalog/p167.png",
+    "svg": "/moulds/imported/MOR-054.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 167,
+    "importId": "CAT-P167",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p167",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-055",
+    "slug": "mor-055",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p168-i1.jpeg",
+    "thumbnail": "/images/catalog/p168.png",
+    "svg": "/moulds/imported/MOR-055.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 168,
+    "importId": "CAT-P168",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p168",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-056",
+    "slug": "mor-056",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p169-i1.jpeg",
+    "thumbnail": "/images/catalog/p169.png",
+    "svg": "/moulds/imported/MOR-056.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 169,
+    "importId": "CAT-P169",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p169",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-057",
+    "slug": "mor-057",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p178-i1.jpeg",
+    "thumbnail": "/images/catalog/p178.png",
+    "svg": "/moulds/imported/MOR-057.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 178,
+    "importId": "CAT-P178",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p178",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-058",
+    "slug": "mor-058",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p179-i1.jpeg",
+    "thumbnail": "/images/catalog/p179.png",
+    "svg": "/moulds/imported/MOR-058.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 179,
+    "importId": "CAT-P179",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p179",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-059",
+    "slug": "mor-059",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p180-i1.jpeg",
+    "thumbnail": "/images/catalog/p180.png",
+    "svg": "/moulds/imported/MOR-059.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 180,
+    "importId": "CAT-P180",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p180",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-060",
+    "slug": "mor-060",
+    "name": "Border MOR-060",
+    "family": "cement",
+    "category": "borders",
+    "sourceImage": "/import/extracted/images/p182-i1.jpeg",
+    "thumbnail": "/images/catalog/p182.png",
+    "svg": "/moulds/imported/MOR-060.svg",
+    "templateReference": "GEO-015",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 182,
+    "importId": "CAT-P182",
+    "tags": [
+      "moroccan",
+      "cement",
+      "borders",
+      "p182",
+      "border",
+      "frame"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-061",
+    "slug": "mor-061",
+    "name": "Border MOR-061",
+    "family": "cement",
+    "category": "borders",
+    "sourceImage": "/import/extracted/images/p186-i1.jpeg",
+    "thumbnail": "/images/catalog/p186.png",
+    "svg": "/moulds/imported/MOR-061.svg",
+    "templateReference": "GEO-015",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 186,
+    "importId": "CAT-P186",
+    "tags": [
+      "moroccan",
+      "cement",
+      "borders",
+      "p186",
+      "border",
+      "frame"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-062",
+    "slug": "mor-062",
+    "name": "Border MOR-062",
+    "family": "cement",
+    "category": "borders",
+    "sourceImage": "/import/extracted/images/p187-i1.jpeg",
+    "thumbnail": "/images/catalog/p187.png",
+    "svg": "/moulds/imported/MOR-062.svg",
+    "templateReference": "GEO-015",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 187,
+    "importId": "CAT-P187",
+    "tags": [
+      "moroccan",
+      "cement",
+      "borders",
+      "p187",
+      "border",
+      "frame"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-063",
+    "slug": "mor-063",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p189-i1.jpeg",
+    "thumbnail": "/images/catalog/p189.png",
+    "svg": "/moulds/imported/MOR-063.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 189,
+    "importId": "CAT-P189",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p189",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-064",
+    "slug": "mor-064",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p194-i1.jpeg",
+    "thumbnail": "/images/catalog/p194.png",
+    "svg": "/moulds/imported/MOR-064.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 194,
+    "importId": "CAT-P194",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p194",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-065",
+    "slug": "mor-065",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p195-i1.jpeg",
+    "thumbnail": "/images/catalog/p195.png",
+    "svg": "/moulds/imported/MOR-065.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 195,
+    "importId": "CAT-P195",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p195",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-066",
+    "slug": "mor-066",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p197-i1.jpeg",
+    "thumbnail": "/images/catalog/p197.png",
+    "svg": "/moulds/imported/MOR-066.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 197,
+    "importId": "CAT-P197",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p197",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-067",
+    "slug": "mor-067",
+    "name": "Border MOR-067",
+    "family": "cement",
+    "category": "borders",
+    "sourceImage": "/import/extracted/images/p200-i1.jpeg",
+    "thumbnail": "/images/catalog/p200.png",
+    "svg": "/moulds/imported/MOR-067.svg",
+    "templateReference": "GEO-015",
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 200,
+    "importId": "CAT-P200",
+    "tags": [
+      "moroccan",
+      "cement",
+      "borders",
+      "p200",
+      "border",
+      "frame"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-068",
+    "slug": "mor-068",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p203-i1.jpeg",
+    "thumbnail": "/images/catalog/p203.png",
+    "svg": "/moulds/imported/MOR-068.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 203,
+    "importId": "CAT-P203",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p203",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  },
+  {
+    "reference": "MOR-069",
+    "slug": "mor-069",
+    "name": "Patterned Cement Tile",
+    "family": "cement",
+    "category": "traditional",
+    "sourceImage": "/import/extracted/images/p204-i1.jpeg",
+    "thumbnail": "/images/catalog/p204.png",
+    "svg": "/moulds/imported/MOR-069.svg",
+    "templateReference": null,
+    "editable": true,
+    "status": "editable-svg",
+    "catalogPage": 204,
+    "importId": "CAT-P204",
+    "tags": [
+      "moroccan",
+      "cement",
+      "traditional",
+      "p204",
+      "square"
+    ],
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight"
+  }
+]

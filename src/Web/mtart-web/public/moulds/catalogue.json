@@ -1,0 +1,3807 @@
+{
+  "diagnostics": {
+    "generatedAt": "2026-08-14T16:17:08.979Z",
+    "extractedFolderExists": true,
+    "totalSourceAssets": 208,
+    "classified": {
+      "tile-pattern": 69,
+      "tile-mould": 0,
+      "room-photo": 67,
+      "installation-photo": 66,
+      "logo": 2,
+      "color-sample": 4,
+      "other": 0
+    },
+    "tilePatternCandidates": 69,
+    "editableSvgMoulds": 64,
+    "rasterOnlyPatterns": 67,
+    "rejectedRoomPhotos": 133,
+    "rejectedOther": 6,
+    "originalMoulds": 62,
+    "importedReferences": 69,
+    "catalogueSize": 131,
+    "excludedBlank": [
+      "1010 / uni.svg"
+    ],
+    "vectorizedImported": 2,
+    "vectorizationFailed": 67
+  },
+  "items": [
+    {
+      "id": "1025",
+      "reference": "1025",
+      "slug": "najma",
+      "name": "Najma",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/najma.svg",
+      "svgUrl": "/images/patterns/najma.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 0,
+      "tags": []
+    },
+    {
+      "id": "1026",
+      "reference": "1026",
+      "slug": "arabia",
+      "name": "Arabia",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/arabia.svg",
+      "svgUrl": "/images/patterns/arabia.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Motif"
+        },
+        {
+          "key": "accent",
+          "name": "Accent"
+        }
+      ],
+      "displayOrder": 1,
+      "tags": []
+    },
+    {
+      "id": "1027",
+      "reference": "1027",
+      "slug": "rif",
+      "name": "Rif",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/rif.svg",
+      "svgUrl": "/images/patterns/rif.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Petal"
+        },
+        {
+          "key": "secondary",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 2,
+      "tags": []
+    },
+    {
+      "id": "1035",
+      "reference": "1035",
+      "slug": "cube",
+      "name": "Cube",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/cube.svg",
+      "svgUrl": "/images/patterns/cube.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "light",
+          "name": "Light face"
+        },
+        {
+          "key": "mid",
+          "name": "Mid face"
+        },
+        {
+          "key": "dark",
+          "name": "Dark face"
+        }
+      ],
+      "displayOrder": 3,
+      "tags": []
+    },
+    {
+      "id": "1040",
+      "reference": "1040",
+      "slug": "quatrefoil",
+      "name": "Quatrefoil",
+      "category": "classic",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/quatrefoil.svg",
+      "svgUrl": "/images/patterns/quatrefoil.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Quatrefoil"
+        },
+        {
+          "key": "accent",
+          "name": "Diamond"
+        }
+      ],
+      "displayOrder": 4,
+      "tags": []
+    },
+    {
+      "id": "1042",
+      "reference": "1042",
+      "slug": "diamond",
+      "name": "Diamond Lattice",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/diamond.svg",
+      "svgUrl": "/images/patterns/diamond.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Lattice"
+        }
+      ],
+      "displayOrder": 5,
+      "tags": []
+    },
+    {
+      "id": "1048",
+      "reference": "1048",
+      "slug": "scroll",
+      "name": "Scroll",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/scroll.svg",
+      "svgUrl": "/images/patterns/scroll.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Scroll"
+        },
+        {
+          "key": "secondary",
+          "name": "Fill"
+        }
+      ],
+      "displayOrder": 6,
+      "tags": []
+    },
+    {
+      "id": "1050",
+      "reference": "1050",
+      "slug": "checker",
+      "name": "Checker",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/checker.svg",
+      "svgUrl": "/images/patterns/checker.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "a",
+          "name": "Field A"
+        },
+        {
+          "key": "b",
+          "name": "Field B"
+        }
+      ],
+      "displayOrder": 7,
+      "tags": []
+    },
+    {
+      "id": "1055",
+      "reference": "1055",
+      "slug": "petal",
+      "name": "Petal Circle",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/petal.svg",
+      "svgUrl": "/images/patterns/petal.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Petal"
+        },
+        {
+          "key": "accent",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 8,
+      "tags": []
+    },
+    {
+      "id": "1060",
+      "reference": "1060",
+      "slug": "cabochon",
+      "name": "Cabochon",
+      "category": "classic",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/cabochon.svg",
+      "svgUrl": "/images/patterns/cabochon.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "field",
+          "name": "Field"
+        },
+        {
+          "key": "cabochon",
+          "name": "Cabochon"
+        }
+      ],
+      "displayOrder": 9,
+      "tags": []
+    },
+    {
+      "id": "1068",
+      "reference": "1068",
+      "slug": "concentric",
+      "name": "Concentric",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/concentric.svg",
+      "svgUrl": "/images/patterns/concentric.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "outer",
+          "name": "Outer"
+        },
+        {
+          "key": "ring",
+          "name": "Ring"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 10,
+      "tags": []
+    },
+    {
+      "id": "1070",
+      "reference": "1070",
+      "slug": "medallion",
+      "name": "Medallion",
+      "category": "classic",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/medallion.svg",
+      "svgUrl": "/images/patterns/medallion.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "ring",
+          "name": "Ring"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 11,
+      "tags": []
+    },
+    {
+      "id": "1072",
+      "reference": "1072",
+      "slug": "garden",
+      "name": "Garden",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/garden.svg",
+      "svgUrl": "/images/patterns/garden.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "petalA",
+          "name": "Petal A"
+        },
+        {
+          "key": "petalB",
+          "name": "Petal B"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 12,
+      "tags": []
+    },
+    {
+      "id": "1075",
+      "reference": "1075",
+      "slug": "compass",
+      "name": "Compass",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/compass.svg",
+      "svgUrl": "/images/patterns/compass.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "north",
+          "name": "North"
+        },
+        {
+          "key": "east",
+          "name": "East"
+        },
+        {
+          "key": "west",
+          "name": "West"
+        },
+        {
+          "key": "south",
+          "name": "South"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 13,
+      "tags": []
+    },
+    {
+      "id": "1080",
+      "reference": "1080",
+      "slug": "frame",
+      "name": "Frame",
+      "category": "borders",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/frame.svg",
+      "svgUrl": "/images/patterns/frame.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "field",
+          "name": "Field"
+        },
+        {
+          "key": "border",
+          "name": "Border"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        },
+        {
+          "key": "corner",
+          "name": "Corner"
+        }
+      ],
+      "displayOrder": 14,
+      "tags": []
+    },
+    {
+      "id": "1088",
+      "reference": "1088",
+      "slug": "hexbloom",
+      "name": "Hex Bloom",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/hexbloom.svg",
+      "svgUrl": "/images/patterns/hexbloom.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "hex",
+          "name": "Hexagon"
+        },
+        {
+          "key": "flower",
+          "name": "Flower"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 15,
+      "tags": []
+    },
+    {
+      "id": "1092",
+      "reference": "1092",
+      "slug": "octostar",
+      "name": "Octostar",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/octostar.svg",
+      "svgUrl": "/images/patterns/octostar.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "octagon",
+          "name": "Octagon"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 16,
+      "tags": []
+    },
+    {
+      "id": "1095",
+      "reference": "1095",
+      "slug": "pinwheel",
+      "name": "Pinwheel",
+      "category": "shapes",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/images/patterns/pinwheel.svg",
+      "svgUrl": "/images/patterns/pinwheel.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "bladeA",
+          "name": "Blade A"
+        },
+        {
+          "key": "bladeB",
+          "name": "Blade B"
+        },
+        {
+          "key": "bladeC",
+          "name": "Blade C"
+        },
+        {
+          "key": "bladeD",
+          "name": "Blade D"
+        },
+        {
+          "key": "hub",
+          "name": "Hub"
+        }
+      ],
+      "displayOrder": 17,
+      "tags": []
+    },
+    {
+      "id": "GEO-001",
+      "reference": "GEO-001",
+      "slug": "star-4",
+      "name": "Four Point Star",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-001.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-001.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 118,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-002",
+      "reference": "GEO-002",
+      "slug": "star-6",
+      "name": "Six Point Star",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-002.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-002.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 119,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-003",
+      "reference": "GEO-003",
+      "slug": "star-8",
+      "name": "Eight Point Star",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-003.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-003.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 120,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-004",
+      "reference": "GEO-004",
+      "slug": "star-8-center",
+      "name": "Eight Point Star with Center",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-004.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-004.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 121,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-005",
+      "reference": "GEO-005",
+      "slug": "star-10",
+      "name": "Ten Point Star",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-005.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-005.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 122,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-006",
+      "reference": "GEO-006",
+      "slug": "star-12",
+      "name": "Twelve Point Star",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-006.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-006.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 123,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-007",
+      "reference": "GEO-007",
+      "slug": "diamond-field",
+      "name": "Centered Diamond",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-007.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-007.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "diamond",
+          "name": "Diamond"
+        }
+      ],
+      "displayOrder": 124,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-008",
+      "reference": "GEO-008",
+      "slug": "rhombus-cross",
+      "name": "Rhombus Cross",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-008.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-008.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Main motif"
+        },
+        {
+          "key": "detail",
+          "name": "Detail"
+        }
+      ],
+      "displayOrder": 125,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-009",
+      "reference": "GEO-009",
+      "slug": "hex-field",
+      "name": "Hexagon",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-009.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-009.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "hex",
+          "name": "Hexagon"
+        }
+      ],
+      "displayOrder": 126,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-010",
+      "reference": "GEO-010",
+      "slug": "octagon-field",
+      "name": "Octagon",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-010.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-010.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "octagon",
+          "name": "Octagon"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 127,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-011",
+      "reference": "GEO-011",
+      "slug": "triangle-pair",
+      "name": "Opposed Triangles",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-011.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-011.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "a",
+          "name": "Field A"
+        },
+        {
+          "key": "b",
+          "name": "Field B"
+        }
+      ],
+      "displayOrder": 128,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-012",
+      "reference": "GEO-012",
+      "slug": "cross-field",
+      "name": "Cross",
+      "category": "shapes",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/shapes/GEO-012.svg",
+      "svgUrl": "/moulds/cement/shapes/GEO-012.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "cross",
+          "name": "Cross"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 129,
+      "tags": [
+        "cement",
+        "shapes"
+      ]
+    },
+    {
+      "id": "GEO-013",
+      "reference": "GEO-013",
+      "slug": "rings-4",
+      "name": "Four Rings",
+      "category": "classic",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/classic/GEO-013.svg",
+      "svgUrl": "/moulds/cement/classic/GEO-013.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "outer",
+          "name": "Outer"
+        },
+        {
+          "key": "ring",
+          "name": "Ring"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 130,
+      "tags": [
+        "cement",
+        "classic"
+      ]
+    },
+    {
+      "id": "GEO-014",
+      "reference": "GEO-014",
+      "slug": "quarter-fan",
+      "name": "Quarter Fan",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/modern/GEO-014.svg",
+      "svgUrl": "/moulds/cement/modern/GEO-014.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "north",
+          "name": "North"
+        },
+        {
+          "key": "east",
+          "name": "East"
+        },
+        {
+          "key": "west",
+          "name": "West"
+        },
+        {
+          "key": "south",
+          "name": "South"
+        }
+      ],
+      "displayOrder": 131,
+      "tags": [
+        "cement",
+        "modern"
+      ]
+    },
+    {
+      "id": "GEO-015",
+      "reference": "GEO-015",
+      "slug": "frame-band",
+      "name": "Frame Band",
+      "category": "borders",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/borders/GEO-015.svg",
+      "svgUrl": "/moulds/cement/borders/GEO-015.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "field",
+          "name": "Field"
+        },
+        {
+          "key": "border",
+          "name": "Border"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        }
+      ],
+      "displayOrder": 132,
+      "tags": [
+        "cement",
+        "borders"
+      ]
+    },
+    {
+      "id": "GEO-016",
+      "reference": "GEO-016",
+      "slug": "quatre-diamond",
+      "name": "Quatrefoil Diamond",
+      "category": "classic",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/classic/GEO-016.svg",
+      "svgUrl": "/moulds/cement/classic/GEO-016.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Main motif"
+        },
+        {
+          "key": "accent",
+          "name": "Accent"
+        }
+      ],
+      "displayOrder": 133,
+      "tags": [
+        "cement",
+        "classic"
+      ]
+    },
+    {
+      "id": "GEO-017",
+      "reference": "GEO-017",
+      "slug": "blade-star",
+      "name": "Five Blade Star",
+      "category": "shapes",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/shapes/GEO-017.svg",
+      "svgUrl": "/moulds/cement/shapes/GEO-017.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "bladeA",
+          "name": "Blade A"
+        },
+        {
+          "key": "bladeB",
+          "name": "Blade B"
+        },
+        {
+          "key": "bladeC",
+          "name": "Blade C"
+        },
+        {
+          "key": "bladeD",
+          "name": "Blade D"
+        },
+        {
+          "key": "hub",
+          "name": "Hub"
+        }
+      ],
+      "displayOrder": 134,
+      "tags": [
+        "cement",
+        "shapes"
+      ]
+    },
+    {
+      "id": "GEO-018",
+      "reference": "GEO-018",
+      "slug": "nested-octagon",
+      "name": "Nested Octagons",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-018.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-018.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "octagon",
+          "name": "Octagon"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 135,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-019",
+      "reference": "GEO-019",
+      "slug": "lattice-9",
+      "name": "Nine Diamond Lattice",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/geometric/GEO-019.svg",
+      "svgUrl": "/moulds/cement/geometric/GEO-019.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Lattice"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 136,
+      "tags": [
+        "cement",
+        "geometric"
+      ]
+    },
+    {
+      "id": "GEO-020",
+      "reference": "GEO-020",
+      "slug": "floral-4",
+      "name": "Four Petal",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/floral/GEO-020.svg",
+      "svgUrl": "/moulds/cement/floral/GEO-020.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "petalA",
+          "name": "Petal A"
+        },
+        {
+          "key": "petalB",
+          "name": "Petal B"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 137,
+      "tags": [
+        "cement",
+        "floral"
+      ]
+    },
+    {
+      "id": "GEO-021",
+      "reference": "GEO-021",
+      "slug": "mono-circle",
+      "name": "Circle Field",
+      "category": "monochrome",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/monochrome/GEO-021.svg",
+      "svgUrl": "/moulds/cement/monochrome/GEO-021.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Main motif"
+        }
+      ],
+      "displayOrder": 138,
+      "tags": [
+        "cement",
+        "monochrome"
+      ]
+    },
+    {
+      "id": "GEO-022",
+      "reference": "GEO-022",
+      "slug": "corner-squares",
+      "name": "Corner Squares",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": null,
+      "thumbnail": "/moulds/cement/modern/GEO-022.svg",
+      "svgUrl": "/moulds/cement/modern/GEO-022.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "field",
+          "name": "Field"
+        },
+        {
+          "key": "corner",
+          "name": "Corner"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 139,
+      "tags": [
+        "cement",
+        "modern"
+      ]
+    },
+    {
+      "id": "ZL-001",
+      "reference": "ZL-001",
+      "slug": "khatem",
+      "name": "Khatem Star",
+      "category": "moroccan",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moroccan/ZL-001.svg",
+      "svgUrl": "/moulds/zellige/moroccan/ZL-001.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 140,
+      "tags": [
+        "zellige",
+        "moroccan"
+      ]
+    },
+    {
+      "id": "ZL-002",
+      "reference": "ZL-002",
+      "slug": "moroccan-8",
+      "name": "Moroccan Eight Point Star",
+      "category": "stars",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/stars/ZL-002.svg",
+      "svgUrl": "/moulds/zellige/stars/ZL-002.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "ring",
+          "name": "Ring"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 141,
+      "tags": [
+        "zellige",
+        "stars"
+      ]
+    },
+    {
+      "id": "ZL-003",
+      "reference": "ZL-003",
+      "slug": "star-cross",
+      "name": "Star and Cross",
+      "category": "moroccan",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moroccan/ZL-003.svg",
+      "svgUrl": "/moulds/zellige/moroccan/ZL-003.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "cross",
+          "name": "Cross"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 142,
+      "tags": [
+        "zellige",
+        "moroccan"
+      ]
+    },
+    {
+      "id": "ZL-004",
+      "reference": "ZL-004",
+      "slug": "rosette-8",
+      "name": "Eight Petal Rosette",
+      "category": "rosettes",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/rosettes/ZL-004.svg",
+      "svgUrl": "/moulds/zellige/rosettes/ZL-004.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "flower",
+          "name": "Flower"
+        },
+        {
+          "key": "ring",
+          "name": "Ring"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 143,
+      "tags": [
+        "zellige",
+        "rosettes"
+      ]
+    },
+    {
+      "id": "ZL-005",
+      "reference": "ZL-005",
+      "slug": "radial-8",
+      "name": "Eight Fold Radial",
+      "category": "moorish",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moorish/ZL-005.svg",
+      "svgUrl": "/moulds/zellige/moorish/ZL-005.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Main motif"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        },
+        {
+          "key": "detail",
+          "name": "Detail"
+        }
+      ],
+      "displayOrder": 144,
+      "tags": [
+        "zellige",
+        "moorish"
+      ]
+    },
+    {
+      "id": "ZL-006",
+      "reference": "ZL-006",
+      "slug": "diamond-ring",
+      "name": "Diamond Ring",
+      "category": "moroccan",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moroccan/ZL-006.svg",
+      "svgUrl": "/moulds/zellige/moroccan/ZL-006.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Diamonds"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 145,
+      "tags": [
+        "zellige",
+        "moroccan"
+      ]
+    },
+    {
+      "id": "ZL-007",
+      "reference": "ZL-007",
+      "slug": "interlace-oct",
+      "name": "Interlaced Octagons",
+      "category": "moorish",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moorish/ZL-007.svg",
+      "svgUrl": "/moulds/zellige/moorish/ZL-007.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "octagon",
+          "name": "Octagon"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        }
+      ],
+      "displayOrder": 146,
+      "tags": [
+        "zellige",
+        "moorish"
+      ]
+    },
+    {
+      "id": "ZL-008",
+      "reference": "ZL-008",
+      "slug": "zellige-12",
+      "name": "Twelve Point Zellige Star",
+      "category": "stars",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/stars/ZL-008.svg",
+      "svgUrl": "/moulds/zellige/stars/ZL-008.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "hex",
+          "name": "Hexagon"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 147,
+      "tags": [
+        "zellige",
+        "stars"
+      ]
+    },
+    {
+      "id": "ZL-009",
+      "reference": "ZL-009",
+      "slug": "hex-star",
+      "name": "Hexagon and Star",
+      "category": "stars",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/stars/ZL-009.svg",
+      "svgUrl": "/moulds/zellige/stars/ZL-009.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "hex",
+          "name": "Hexagon"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 148,
+      "tags": [
+        "zellige",
+        "stars"
+      ]
+    },
+    {
+      "id": "ZL-010",
+      "reference": "ZL-010",
+      "slug": "zellige-border",
+      "name": "Zellige Border",
+      "category": "moorish",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moorish/ZL-010.svg",
+      "svgUrl": "/moulds/zellige/moorish/ZL-010.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "field",
+          "name": "Field"
+        },
+        {
+          "key": "border",
+          "name": "Border"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 149,
+      "tags": [
+        "zellige",
+        "moorish"
+      ]
+    },
+    {
+      "id": "ZL-011",
+      "reference": "ZL-011",
+      "slug": "star-10-zellige",
+      "name": "Ten Point Moroccan Star",
+      "category": "stars",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/stars/ZL-011.svg",
+      "svgUrl": "/moulds/zellige/stars/ZL-011.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 150,
+      "tags": [
+        "zellige",
+        "stars"
+      ]
+    },
+    {
+      "id": "ZL-012",
+      "reference": "ZL-012",
+      "slug": "moorish-8",
+      "name": "Moorish Eight Fold",
+      "category": "moorish",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moorish/ZL-012.svg",
+      "svgUrl": "/moulds/zellige/moorish/ZL-012.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "outer",
+          "name": "Outer"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 151,
+      "tags": [
+        "zellige",
+        "moorish"
+      ]
+    },
+    {
+      "id": "ZL-013",
+      "reference": "ZL-013",
+      "slug": "khatem-grid",
+      "name": "Khatem Grid",
+      "category": "moroccan",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moroccan/ZL-013.svg",
+      "svgUrl": "/moulds/zellige/moroccan/ZL-013.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Main motif"
+        }
+      ],
+      "displayOrder": 152,
+      "tags": [
+        "zellige",
+        "moroccan"
+      ]
+    },
+    {
+      "id": "ZL-014",
+      "reference": "ZL-014",
+      "slug": "triangle-mosaic",
+      "name": "Triangle Mosaic",
+      "category": "moroccan",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moroccan/ZL-014.svg",
+      "svgUrl": "/moulds/zellige/moroccan/ZL-014.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "a",
+          "name": "Field A"
+        },
+        {
+          "key": "b",
+          "name": "Field B"
+        }
+      ],
+      "displayOrder": 153,
+      "tags": [
+        "zellige",
+        "moroccan"
+      ]
+    },
+    {
+      "id": "ZL-015",
+      "reference": "ZL-015",
+      "slug": "octagon-square",
+      "name": "Octagon and Square",
+      "category": "moroccan",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moroccan/ZL-015.svg",
+      "svgUrl": "/moulds/zellige/moroccan/ZL-015.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "octagon",
+          "name": "Octagon"
+        },
+        {
+          "key": "field",
+          "name": "Field"
+        }
+      ],
+      "displayOrder": 154,
+      "tags": [
+        "zellige",
+        "moroccan"
+      ]
+    },
+    {
+      "id": "ZL-016",
+      "reference": "ZL-016",
+      "slug": "star-4-zellige",
+      "name": "Four Point Moroccan Star",
+      "category": "stars",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/stars/ZL-016.svg",
+      "svgUrl": "/moulds/zellige/stars/ZL-016.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        }
+      ],
+      "displayOrder": 155,
+      "tags": [
+        "zellige",
+        "stars"
+      ]
+    },
+    {
+      "id": "ZL-017",
+      "reference": "ZL-017",
+      "slug": "nested-stars",
+      "name": "Nested Stars",
+      "category": "stars",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/stars/ZL-017.svg",
+      "svgUrl": "/moulds/zellige/stars/ZL-017.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "inner",
+          "name": "Inner"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 156,
+      "tags": [
+        "zellige",
+        "stars"
+      ]
+    },
+    {
+      "id": "ZL-018",
+      "reference": "ZL-018",
+      "slug": "rosette-12",
+      "name": "Twelve Petal Rosette",
+      "category": "rosettes",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/rosettes/ZL-018.svg",
+      "svgUrl": "/moulds/zellige/rosettes/ZL-018.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "flower",
+          "name": "Flower"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 157,
+      "tags": [
+        "zellige",
+        "rosettes"
+      ]
+    },
+    {
+      "id": "ZL-019",
+      "reference": "ZL-019",
+      "slug": "cross-tessera",
+      "name": "Cross Tessera",
+      "category": "moorish",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moorish/ZL-019.svg",
+      "svgUrl": "/moulds/zellige/moorish/ZL-019.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "cross",
+          "name": "Cross"
+        },
+        {
+          "key": "diamond",
+          "name": "Diamond"
+        }
+      ],
+      "displayOrder": 158,
+      "tags": [
+        "zellige",
+        "moorish"
+      ]
+    },
+    {
+      "id": "ZL-020",
+      "reference": "ZL-020",
+      "slug": "islamic-8",
+      "name": "Eight Fold Construction",
+      "category": "moorish",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moorish/ZL-020.svg",
+      "svgUrl": "/moulds/zellige/moorish/ZL-020.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "octagon",
+          "name": "Octagon"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "ring",
+          "name": "Ring"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 159,
+      "tags": [
+        "zellige",
+        "moorish"
+      ]
+    },
+    {
+      "id": "ZL-021",
+      "reference": "ZL-021",
+      "slug": "rosette-6",
+      "name": "Six Petal Rosette",
+      "category": "rosettes",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/rosettes/ZL-021.svg",
+      "svgUrl": "/moulds/zellige/rosettes/ZL-021.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "flower",
+          "name": "Flower"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 160,
+      "tags": [
+        "zellige",
+        "rosettes"
+      ]
+    },
+    {
+      "id": "ZL-022",
+      "reference": "ZL-022",
+      "slug": "diamond-khatem",
+      "name": "Diamonds around Khatem",
+      "category": "moroccan",
+      "family": "zellige",
+      "sourceImage": null,
+      "thumbnail": "/moulds/zellige/moroccan/ZL-022.svg",
+      "svgUrl": "/moulds/zellige/moroccan/ZL-022.svg",
+      "editable": true,
+      "status": "original",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "main",
+          "name": "Diamonds"
+        },
+        {
+          "key": "star",
+          "name": "Star"
+        },
+        {
+          "key": "center",
+          "name": "Center"
+        }
+      ],
+      "displayOrder": 161,
+      "tags": [
+        "zellige",
+        "moroccan"
+      ]
+    },
+    {
+      "id": "MOR-001",
+      "reference": "MOR-001",
+      "slug": "mor-001",
+      "name": "GEO-009 tile MOR-001",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p004-i1.jpeg",
+      "thumbnail": "/images/catalog/p004.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p004",
+        "hexagon"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-002",
+      "reference": "MOR-002",
+      "slug": "mor-002",
+      "name": "Moroccan Star MOR-002",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p006-i1.jpeg",
+      "thumbnail": "/images/catalog/p006.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p006",
+        "star",
+        "najma",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-003",
+      "reference": "MOR-003",
+      "slug": "mor-003",
+      "name": "Moroccan Star MOR-003",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p009-i1.jpeg",
+      "thumbnail": "/images/catalog/p009.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p009",
+        "star",
+        "najma",
+        "square"
+      ],
+      "repeatUnit": "2x2",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-004",
+      "reference": "MOR-004",
+      "slug": "mor-004",
+      "name": "GEO-007 tile MOR-004",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p010-i1.jpeg",
+      "thumbnail": "/images/catalog/p010.png",
+      "svgUrl": "/moulds/moroccan/MOR-004.svg",
+      "editable": true,
+      "status": "editable-svg",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p010",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.852
+    },
+    {
+      "id": "MOR-005",
+      "reference": "MOR-005",
+      "slug": "mor-005",
+      "name": "Moroccan Star MOR-005",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p013-i1.jpeg",
+      "thumbnail": "/images/catalog/p013.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 366,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p013",
+        "star",
+        "najma",
+        "square"
+      ],
+      "confidence": 0.25,
+      "repeatUnit": "2x2",
+      "repeatMode": "straight"
+    },
+    {
+      "id": "MOR-006",
+      "reference": "MOR-006",
+      "slug": "mor-006",
+      "name": "Moroccan Star MOR-006",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p014-i1.jpeg",
+      "thumbnail": "/images/catalog/p014.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p014",
+        "star",
+        "najma",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-007",
+      "reference": "MOR-007",
+      "slug": "mor-007",
+      "name": "Moroccan Star MOR-007",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p015-i1.jpeg",
+      "thumbnail": "/images/catalog/p015.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p015",
+        "star",
+        "najma",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-008",
+      "reference": "MOR-008",
+      "slug": "mor-008",
+      "name": "Patterned Cement Tile",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p016-i1.jpeg",
+      "thumbnail": "/images/catalog/p016.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "photo-only",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p016",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.0
+    },
+    {
+      "id": "MOR-009",
+      "reference": "MOR-009",
+      "slug": "mor-009",
+      "name": "GEO-010 tile MOR-009",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p019-i1.jpeg",
+      "thumbnail": "/images/catalog/p019.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p019",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.15
+    },
+    {
+      "id": "MOR-010",
+      "reference": "MOR-010",
+      "slug": "mor-010",
+      "name": "GEO-020 tile MOR-010",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p021-i1.jpeg",
+      "thumbnail": "/images/catalog/p021.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p021",
+        "square"
+      ],
+      "repeatUnit": "2x2",
+      "repeatMode": "straight",
+      "confidence": 0.15
+    },
+    {
+      "id": "MOR-011",
+      "reference": "MOR-011",
+      "slug": "mor-011",
+      "name": "GEO-020 tile MOR-011",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p022-i1.jpeg",
+      "thumbnail": "/images/catalog/p022.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p022",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-012",
+      "reference": "MOR-012",
+      "slug": "mor-012",
+      "name": "Moroccan Star MOR-012",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p023-i1.jpeg",
+      "thumbnail": "/images/catalog/p023.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p023",
+        "star",
+        "najma",
+        "square"
+      ],
+      "repeatUnit": "2x2",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-013",
+      "reference": "MOR-013",
+      "slug": "mor-013",
+      "name": "GEO-020 tile MOR-013",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p024-i1.jpeg",
+      "thumbnail": "/images/catalog/p024.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p024",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-014",
+      "reference": "MOR-014",
+      "slug": "mor-014",
+      "name": "GEO-020 tile MOR-014",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p025-i1.jpeg",
+      "thumbnail": "/images/catalog/p025.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p025",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-015",
+      "reference": "MOR-015",
+      "slug": "mor-015",
+      "name": "GEO-020 tile MOR-015",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p026-i1.jpeg",
+      "thumbnail": "/images/catalog/p026.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p026",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-016",
+      "reference": "MOR-016",
+      "slug": "mor-016",
+      "name": "Moroccan Star MOR-016",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p027-i1.jpeg",
+      "thumbnail": "/images/catalog/p027.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p027",
+        "star",
+        "najma",
+        "square"
+      ],
+      "repeatUnit": "2x2",
+      "repeatMode": "straight",
+      "confidence": 0.002
+    },
+    {
+      "id": "MOR-017",
+      "reference": "MOR-017",
+      "slug": "mor-017",
+      "name": "Patterned Cement Tile",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p028-i1.jpeg",
+      "thumbnail": "/images/catalog/p028.png",
+      "svgUrl": "/moulds/moroccan/MOR-017.svg",
+      "editable": true,
+      "status": "editable-svg",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p028",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.937
+    },
+    {
+      "id": "MOR-018",
+      "reference": "MOR-018",
+      "slug": "mor-018",
+      "name": "Patterned Cement Tile",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p029-i1.jpeg",
+      "thumbnail": "/images/catalog/p029.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p029",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-019",
+      "reference": "MOR-019",
+      "slug": "mor-019",
+      "name": "Patterned Cement Tile",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p030-i1.jpeg",
+      "thumbnail": "/images/catalog/p030.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p030",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-020",
+      "reference": "MOR-020",
+      "slug": "mor-020",
+      "name": "Patterned Cement Tile",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p031-i1.jpeg",
+      "thumbnail": "/images/catalog/p031.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p031",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.685
+    },
+    {
+      "id": "MOR-021",
+      "reference": "MOR-021",
+      "slug": "mor-021",
+      "name": "Patterned Cement Tile",
+      "category": "floral",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p032-i1.jpeg",
+      "thumbnail": "/images/catalog/p032.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "floral",
+        "p032",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-022",
+      "reference": "MOR-022",
+      "slug": "mor-022",
+      "name": "Patterned Cement Tile",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p033-i1.jpeg",
+      "thumbnail": "/images/catalog/p033.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p033",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.308
+    },
+    {
+      "id": "MOR-023",
+      "reference": "MOR-023",
+      "slug": "mor-023",
+      "name": "Patterned Cement Tile",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p034-i1.jpeg",
+      "thumbnail": "/images/catalog/p034.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p034",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-024",
+      "reference": "MOR-024",
+      "slug": "mor-024",
+      "name": "Cube MOR-024",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p035-i1.jpeg",
+      "thumbnail": "/images/catalog/p035.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p035",
+        "cube",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.368
+    },
+    {
+      "id": "MOR-025",
+      "reference": "MOR-025",
+      "slug": "mor-025",
+      "name": "Patterned Cement Tile",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p036-i1.jpeg",
+      "thumbnail": "/images/catalog/p036.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p036",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-026",
+      "reference": "MOR-026",
+      "slug": "mor-026",
+      "name": "Cube MOR-026",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p037-i1.jpeg",
+      "thumbnail": "/images/catalog/p037.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p037",
+        "cube",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-027",
+      "reference": "MOR-027",
+      "slug": "mor-027",
+      "name": "Patterned Cement Tile",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p038-i1.jpeg",
+      "thumbnail": "/images/catalog/p038.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p038",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-028",
+      "reference": "MOR-028",
+      "slug": "mor-028",
+      "name": "Cube MOR-028",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p039-i1.jpeg",
+      "thumbnail": "/images/catalog/p039.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p039",
+        "cube",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.328
+    },
+    {
+      "id": "MOR-029",
+      "reference": "MOR-029",
+      "slug": "mor-029",
+      "name": "Patterned Cement Tile",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p040-i1.jpeg",
+      "thumbnail": "/images/catalog/p040.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p040",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-030",
+      "reference": "MOR-030",
+      "slug": "mor-030",
+      "name": "Patterned Cement Tile",
+      "category": "modern",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p041-i1.jpeg",
+      "thumbnail": "/images/catalog/p041.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "modern",
+        "p041",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.114
+    },
+    {
+      "id": "MOR-031",
+      "reference": "MOR-031",
+      "slug": "mor-031",
+      "name": "GEO-007 tile MOR-031",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p043-i1.jpeg",
+      "thumbnail": "/images/catalog/p043.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p043",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.093
+    },
+    {
+      "id": "MOR-032",
+      "reference": "MOR-032",
+      "slug": "mor-032",
+      "name": "Patterned Cement Tile",
+      "category": "arabesque",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p046-i1.jpeg",
+      "thumbnail": "/images/catalog/p046.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "arabesque",
+        "p046",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.316
+    },
+    {
+      "id": "MOR-033",
+      "reference": "MOR-033",
+      "slug": "mor-033",
+      "name": "Patterned Cement Tile",
+      "category": "arabesque",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p047-i1.jpeg",
+      "thumbnail": "/images/catalog/p047.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "arabesque",
+        "p047",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-034",
+      "reference": "MOR-034",
+      "slug": "mor-034",
+      "name": "Patterned Cement Tile",
+      "category": "arabesque",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p048-i1.jpeg",
+      "thumbnail": "/images/catalog/p048.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "arabesque",
+        "p048",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-035",
+      "reference": "MOR-035",
+      "slug": "mor-035",
+      "name": "Patterned Cement Tile",
+      "category": "arabesque",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p055-i1.jpeg",
+      "thumbnail": "/images/catalog/p055.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "photo-only",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "arabesque",
+        "p055",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.0
+    },
+    {
+      "id": "MOR-036",
+      "reference": "MOR-036",
+      "slug": "mor-036",
+      "name": "Patterned Cement Tile",
+      "category": "arabesque",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p056-i1.jpeg",
+      "thumbnail": "/images/catalog/p056.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "arabesque",
+        "p056",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-037",
+      "reference": "MOR-037",
+      "slug": "mor-037",
+      "name": "Moroccan Star MOR-037",
+      "category": "geometric",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p060-i1.jpeg",
+      "thumbnail": "/images/catalog/p060.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "geometric",
+        "p060",
+        "star",
+        "najma",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.717
+    },
+    {
+      "id": "MOR-038",
+      "reference": "MOR-038",
+      "slug": "mor-038",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p063-i1.jpeg",
+      "thumbnail": "/images/catalog/p063.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p063",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-039",
+      "reference": "MOR-039",
+      "slug": "mor-039",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p071-i1.jpeg",
+      "thumbnail": "/images/catalog/p071.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p071",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-040",
+      "reference": "MOR-040",
+      "slug": "mor-040",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p072-i1.jpeg",
+      "thumbnail": "/images/catalog/p072.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p072",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.712
+    },
+    {
+      "id": "MOR-041",
+      "reference": "MOR-041",
+      "slug": "mor-041",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p074-i1.jpeg",
+      "thumbnail": "/images/catalog/p074.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p074",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.782
+    },
+    {
+      "id": "MOR-042",
+      "reference": "MOR-042",
+      "slug": "mor-042",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p085-i1.jpeg",
+      "thumbnail": "/images/catalog/p085.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p085",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.222
+    },
+    {
+      "id": "MOR-043",
+      "reference": "MOR-043",
+      "slug": "mor-043",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p098-i1.jpeg",
+      "thumbnail": "/images/catalog/p098.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p098",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-044",
+      "reference": "MOR-044",
+      "slug": "mor-044",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p108-i1.jpeg",
+      "thumbnail": "/images/catalog/p108.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p108",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-045",
+      "reference": "MOR-045",
+      "slug": "mor-045",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p111-i1.jpeg",
+      "thumbnail": "/images/catalog/p111.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p111",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-046",
+      "reference": "MOR-046",
+      "slug": "mor-046",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p125-i1.jpeg",
+      "thumbnail": "/images/catalog/p125.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "photo-only",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p125",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.0
+    },
+    {
+      "id": "MOR-047",
+      "reference": "MOR-047",
+      "slug": "mor-047",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p128-i1.jpeg",
+      "thumbnail": "/images/catalog/p128.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p128",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-048",
+      "reference": "MOR-048",
+      "slug": "mor-048",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p131-i1.jpeg",
+      "thumbnail": "/images/catalog/p131.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p131",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-049",
+      "reference": "MOR-049",
+      "slug": "mor-049",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p136-i1.jpeg",
+      "thumbnail": "/images/catalog/p136.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p136",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-050",
+      "reference": "MOR-050",
+      "slug": "mor-050",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p139-i1.jpeg",
+      "thumbnail": "/images/catalog/p139.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p139",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-051",
+      "reference": "MOR-051",
+      "slug": "mor-051",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p156-i1.jpeg",
+      "thumbnail": "/images/catalog/p156.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p156",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-052",
+      "reference": "MOR-052",
+      "slug": "mor-052",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p158-i1.jpeg",
+      "thumbnail": "/images/catalog/p158.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p158",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-053",
+      "reference": "MOR-053",
+      "slug": "mor-053",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p159-i1.jpeg",
+      "thumbnail": "/images/catalog/p159.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p159",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-054",
+      "reference": "MOR-054",
+      "slug": "mor-054",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p167-i1.jpeg",
+      "thumbnail": "/images/catalog/p167.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p167",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.28
+    },
+    {
+      "id": "MOR-055",
+      "reference": "MOR-055",
+      "slug": "mor-055",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p168-i1.jpeg",
+      "thumbnail": "/images/catalog/p168.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p168",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-056",
+      "reference": "MOR-056",
+      "slug": "mor-056",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p169-i1.jpeg",
+      "thumbnail": "/images/catalog/p169.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p169",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-057",
+      "reference": "MOR-057",
+      "slug": "mor-057",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p178-i1.jpeg",
+      "thumbnail": "/images/catalog/p178.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p178",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-058",
+      "reference": "MOR-058",
+      "slug": "mor-058",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p179-i1.jpeg",
+      "thumbnail": "/images/catalog/p179.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p179",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-059",
+      "reference": "MOR-059",
+      "slug": "mor-059",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p180-i1.jpeg",
+      "thumbnail": "/images/catalog/p180.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p180",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.797
+    },
+    {
+      "id": "MOR-060",
+      "reference": "MOR-060",
+      "slug": "mor-060",
+      "name": "Border MOR-060",
+      "category": "borders",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p182-i1.jpeg",
+      "thumbnail": "/images/catalog/p182.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "borders",
+        "p182",
+        "border",
+        "frame"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-061",
+      "reference": "MOR-061",
+      "slug": "mor-061",
+      "name": "Border MOR-061",
+      "category": "borders",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p186-i1.jpeg",
+      "thumbnail": "/images/catalog/p186.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "borders",
+        "p186",
+        "border",
+        "frame"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.72
+    },
+    {
+      "id": "MOR-062",
+      "reference": "MOR-062",
+      "slug": "mor-062",
+      "name": "Border MOR-062",
+      "category": "borders",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p187-i1.jpeg",
+      "thumbnail": "/images/catalog/p187.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "borders",
+        "p187",
+        "border",
+        "frame"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-063",
+      "reference": "MOR-063",
+      "slug": "mor-063",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p189-i1.jpeg",
+      "thumbnail": "/images/catalog/p189.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p189",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-064",
+      "reference": "MOR-064",
+      "slug": "mor-064",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p194-i1.jpeg",
+      "thumbnail": "/images/catalog/p194.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p194",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-065",
+      "reference": "MOR-065",
+      "slug": "mor-065",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p195-i1.jpeg",
+      "thumbnail": "/images/catalog/p195.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p195",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-066",
+      "reference": "MOR-066",
+      "slug": "mor-066",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p197-i1.jpeg",
+      "thumbnail": "/images/catalog/p197.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p197",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-067",
+      "reference": "MOR-067",
+      "slug": "mor-067",
+      "name": "Border MOR-067",
+      "category": "borders",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p200-i1.jpeg",
+      "thumbnail": "/images/catalog/p200.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "borders",
+        "p200",
+        "border",
+        "frame"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.024
+    },
+    {
+      "id": "MOR-068",
+      "reference": "MOR-068",
+      "slug": "mor-068",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p203-i1.jpeg",
+      "thumbnail": "/images/catalog/p203.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p203",
+        "square"
+      ],
+      "repeatUnit": "1x1",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    },
+    {
+      "id": "MOR-069",
+      "reference": "MOR-069",
+      "slug": "mor-069",
+      "name": "Patterned Cement Tile",
+      "category": "traditional",
+      "family": "cement",
+      "sourceImage": "/import/extracted/images/p204-i1.jpeg",
+      "thumbnail": "/images/catalog/p204.png",
+      "svgUrl": null,
+      "editable": false,
+      "status": "needs-manual-vectorization",
+      "regions": [],
+      "displayOrder": 250,
+      "tags": [
+        "moroccan",
+        "cement",
+        "traditional",
+        "p204",
+        "square"
+      ],
+      "repeatUnit": "3x3",
+      "repeatMode": "straight",
+      "confidence": 0.25
+    }
+  ]
+}

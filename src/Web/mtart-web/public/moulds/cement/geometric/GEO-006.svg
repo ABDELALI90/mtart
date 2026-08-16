@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect data-region="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+  <polygon data-region="star" points="100,18 110.35,61.36 141,28.99 128.28,71.72 171.01,59 138.64,89.65 182,100 138.64,110.35 171.01,141 128.28,128.28 141,171.01 110.35,138.64 100,182 89.65,138.64 59,171.01 71.72,128.28 28.99,141 61.36,110.35 18,100 61.36,89.65 28.99,59 71.72,71.72 59,28.99 89.65,61.36" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+  <circle data-region="center" cx="100" cy="100" r="16" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+</svg>

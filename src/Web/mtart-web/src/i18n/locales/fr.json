@@ -1,0 +1,924 @@
+{
+  "nav": {
+    "products": "Produits",
+    "collections": "Collections",
+    "colors": "Couleurs",
+    "projects": "Projets",
+    "craftsmanship": "Savoir-faire",
+    "professionals": "Professionnels",
+    "about": "À propos",
+    "catalog": "Catalogue",
+    "requestQuote": "Demander un devis",
+    "search": "Rechercher",
+    "contact": "Contact",
+    "cementTiles": "Carreaux de ciment",
+    "simulator": "Simulateur",
+    "ourCraft": "Notre savoir-faire"
+  },
+  "theme": {
+    "toggle": "Changer le thème",
+    "light": "Mode clair",
+    "dark": "Mode sombre"
+  },
+  "megaMenu": {
+    "zellige": "Zellige",
+    "zellige10x10": "10 x 10",
+    "zellige5x5": "5 x 5",
+    "bejmat": "Bjmat",
+    "mosaic": "Mosaïque",
+    "specialShapes": "Formes spéciales",
+    "cementTiles": "Carreaux de ciment",
+    "patterned": "À motifs",
+    "plain": "Unis",
+    "borders": "Bordures",
+    "custom": "Sur mesure",
+    "terracotta": "Terre cuite",
+    "square": "Carré",
+    "rectangle": "Rectangle",
+    "simulator": "Simulateur",
+    "colors": "Couleurs",
+    "formats": "Formats",
+    "collections": "Collections",
+    "projects": "Projets",
+    "productsItem": "Produits",
+    "models": "Modèles",
+    "stock": "Stock"
+  },
+  "footer": {
+    "productsHeading": "Produits",
+    "companyHeading": "Entreprise",
+    "professionalsHeading": "Professionnels",
+    "supportHeading": "Assistance",
+    "about": "À propos",
+    "craftsmanship": "Savoir-faire",
+    "projects": "Projets",
+    "contact": "Contact",
+    "architects": "Architectes",
+    "designers": "Designers",
+    "customProjects": "Projets sur mesure",
+    "requestSamples": "Demander des échantillons",
+    "catalog": "Catalogue",
+    "faq": "FAQ",
+    "shipping": "Livraison",
+    "maintenance": "Entretien",
+    "rights": "Tous droits réservés.",
+    "madeIn": "Fabriqué à la main au Maroc.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "MT ART",
+      "title": "Surfaces Marocaines Artisanales",
+      "subtitle": "Conçues pour l'Architecture & le Design",
+      "ctaPrimary": "Explorer les collections",
+      "ctaSecondary": "Demander un devis",
+      "scrollHint": "Défiler"
+    },
+    "families": {
+      "heading": "Découvrez nos matériaux",
+      "subheading": "Quatre traditions du carreau marocain, façonnées entièrement à la main.",
+      "zellige": "Zellige",
+      "zelligeDescription": "Mosaïque de terre cuite émaillée, taillée et posée à la main.",
+      "bejmat": "Bejmat",
+      "bejmatDescription": "Carreaux de terre cuite allongés pour des sols chaleureux et texturés.",
+      "cement": "Carreaux de ciment",
+      "cementDescription": "Motifs pressés au pigment, aux combinaisons infinies.",
+      "terracotta": "Terre cuite",
+      "terracottaDescription": "Argile brute séchée au soleil, au caractère intemporel.",
+      "cta": "Découvrir"
+    },
+    "craftsmanship": {
+      "heading": "Fabriqué à la main au Maroc",
+      "body": "Chaque pièce MT ART passe entre les mains d'artisans marocains, selon des techniques transmises de génération en génération — du Zellige taillé à la main aux carreaux de ciment pressés à la main. Deux pièces ne sont jamais tout à fait identiques, et c'est précisément ce qui fait leur valeur.",
+      "cta": "Découvrir notre savoir-faire"
+    },
+    "ourCraft": {
+      "eyebrow": "Notre savoir-faire",
+      "title": "Comment nous fabriquons nos carreaux de ciment",
+      "cta": "Découvrir notre savoir-faire"
+    },
+    "collections": {
+      "heading": "Collections en vedette",
+      "subheading": "Palettes et motifs sélectionnés, prêts à spécifier.",
+      "viewAll": "Voir toutes les collections",
+      "unavailable": "Impossible de charger les collections pour le moment.",
+      "retry": "Réessayer"
+    },
+    "colorStory": {
+      "heading": "Une histoire racontée en couleur",
+      "subheading": "Chaque échantillon est un carreau réel, photographié — la couleur artisanale ne se résume pas à un code hexadécimal.",
+      "viewAll": "Voir toutes les couleurs",
+      "unavailable": "Impossible de charger les couleurs pour le moment.",
+      "retry": "Réessayer"
+    },
+    "featuredProducts": {
+      "heading": "Produits en vedette",
+      "subheading": "Un aperçu de nos pièces les plus demandées.",
+      "viewAll": "Voir tous les produits",
+      "unavailable": "Impossible de charger les produits pour le moment.",
+      "retry": "Réessayer"
+    },
+    "projects": {
+      "heading": "Des espaces façonnés par l'artisanat",
+      "subheading": "Les matériaux MT ART dans des cuisines, salles de bains, hôtels et restaurants du monde entier.",
+      "kitchen": "Cuisine",
+      "bathroom": "Salle de bain",
+      "hotel": "Hôtel",
+      "restaurant": "Restaurant",
+      "pool": "Piscine",
+      "residential": "Résidentiel",
+      "commercial": "Commercial",
+      "viewAll": "Voir tous les projets"
+    },
+    "madeInMorocco": {
+      "heading": "Fabriqué au Maroc",
+      "body": "De l'argile de Fès aux ateliers de nos artisans, chaque carreau MT ART commence et termine son voyage au Maroc — façonné par des siècles de savoir-faire, et fini pour répondre aux exigences de l'architecture contemporaine."
+    },
+    "professionals": {
+      "heading": "Pour les professionnels",
+      "body": "Fiches techniques, échantillons réels, production en volume et logistique d'export pour les architectes, designers d'intérieur, hôtels, restaurants et distributeurs du monde entier.",
+      "cta": "Démarrer un projet"
+    },
+    "catalogCta": {
+      "heading": "Découvrez la collection MT ART",
+      "body": "Parcourez notre gamme complète en ligne, ou téléchargez le catalogue PDF à partager avec votre équipe ou votre client.",
+      "viewCatalog": "Voir le catalogue",
+      "downloadPdf": "Télécharger le PDF"
+    },
+    "finalCta": {
+      "heading": "Vous avez un projet ?",
+      "body": "Parlez-nous de votre projet, notre équipe vous aidera à choisir le bon matériau, la bonne couleur et le bon format.",
+      "cta": "Demander un devis"
+    }
+  },
+  "common": {
+    "loading": "Chargement…",
+    "errorTitle": "Une erreur est survenue",
+    "errorGeneric": "Impossible de charger ce contenu pour le moment.",
+    "retry": "Réessayer",
+    "noResults": "Aucun résultat trouvé.",
+    "new": "Nouveau",
+    "featured": "En vedette",
+    "customizable": "Personnalisable",
+    "inStock": "En stock",
+    "lowStock": "Stock limité",
+    "madeToOrder": "Sur commande",
+    "contactUs": "Nous contacter",
+    "reference": "Référence",
+    "readMore": "Lire la suite",
+    "backToHome": "Retour à l'accueil",
+    "requestQuote": "Demander un devis",
+    "requestSample": "Demander un échantillon",
+    "language": "Langue",
+    "view": "Voir",
+    "customize": "Personnaliser"
+  },
+  "products": {
+    "title": "Produits",
+    "filters": {
+      "title": "Filtres",
+      "category": "Catégorie",
+      "collection": "Collection",
+      "color": "Couleur",
+      "format": "Format",
+      "finish": "Finition",
+      "stock": "Stock",
+      "customizable": "Personnalisable uniquement",
+      "inStockOnly": "En stock uniquement",
+      "clear": "Effacer les filtres",
+      "apply": "Appliquer les filtres",
+      "sortBy": "Trier par",
+      "sortFeatured": "En vedette",
+      "sortNewest": "Nouveautés",
+      "sortReference": "Référence A-Z"
+    },
+    "resultsCount": "{{count}} produits",
+    "unavailable": "Impossible de charger les produits pour le moment.",
+    "noResults": "Aucun produit ne correspond à vos filtres.",
+    "clearFilters": "Effacer tous les filtres"
+  },
+  "productDetail": {
+    "description": "Description",
+    "availableColors": "Couleurs disponibles",
+    "availableFormats": "Formats disponibles",
+    "technicalInformation": "Informations techniques",
+    "craftsmanship": "Savoir-faire",
+    "installation": "Installation",
+    "maintenance": "Entretien",
+    "relatedProducts": "Produits associés",
+    "collection": "Collection",
+    "category": "Catégorie",
+    "format": "Format",
+    "finish": "Finition",
+    "thickness": "Épaisseur",
+    "unitsPerM2": "Unités / m²",
+    "weightPerM2": "Poids / m²",
+    "stock": "Stock",
+    "downloadTechnicalSheet": "Télécharger la fiche technique",
+    "share": "Partager",
+    "naturalVariation": "Variation naturelle",
+    "naturalVariationBody": "Chaque pièce étant fabriquée à la main, des variations naturelles de couleur, de texture, d'émail et de bords sont inhérentes au matériau et ne sont pas considérées comme des défauts.",
+    "notFound": "Nous n'avons pas trouvé ce produit.",
+    "backToProducts": "Retour aux produits"
+  },
+  "collections": {
+    "title": "Collections",
+    "unavailable": "Impossible de charger les collections pour le moment.",
+    "notFound": "Nous n'avons pas trouvé cette collection.",
+    "products": "Produits de cette collection",
+    "viewCollection": "Voir la collection",
+    "productCount": "{{count}} produits"
+  },
+  "colors": {
+    "title": "Couleurs",
+    "subtitle": "Chaque teinte ci-dessous est un carreau artisanal réel, photographié. Les couleurs à l'écran peuvent légèrement différer du matériau physique.",
+    "search": "Rechercher par référence",
+    "madeToOrder": "Sur demande",
+    "zelligeTitle": "Couleurs zellige",
+    "zelligeSubtitle": "Terre cuite émaillée à la main. Chaque échantillon photographié montre la variation naturelle du four.",
+    "cementTitle": "Couleurs carreaux de ciment",
+    "cementSubtitle": "Pigments minéraux pressés dans du ciment blanc. Plus uniformes et mats que le zellige.",
+    "bjmatTitle": "Couleurs Bjmat",
+    "bjmatSubtitle": "Échantillons Bjmat photographiés à l'atelier MT ART. Ton et texture varient d'une pièce à l'autre.",
+    "family": "Famille de couleurs",
+    "allFamilies": "Toutes les couleurs",
+    "unavailable": "Impossible de charger les couleurs pour le moment.",
+    "families": {
+      "White": "Blanc",
+      "Beige": "Beige",
+      "Yellow": "Jaune",
+      "Orange": "Orange",
+      "Red": "Rouge",
+      "Pink": "Rose",
+      "Green": "Vert",
+      "Blue": "Bleu",
+      "Brown": "Marron",
+      "Grey": "Gris",
+      "Black": "Noir",
+      "Metallic": "Métallique",
+      "Cream": "Crème",
+      "Purple": "Violet",
+      "Turquoise": "Turquoise",
+      "Terracotta": "Terracotta",
+      "Special": "Spécial"
+    },
+    "tabs": {
+      "all": "Tous",
+      "zellige": "Couleurs zellige",
+      "cement": "Couleurs carreaux de ciment",
+      "terracotta": "Couleurs terre cuite",
+      "bjmat": "Couleurs Bjmat"
+    },
+    "materials": {
+      "Universal": "Universel",
+      "Zellige": "Zellige",
+      "CementTile": "Carreau de ciment",
+      "Terracotta": "Terre cuite",
+      "Bejmat": "Bejmat"
+    },
+    "related": "Couleurs associées",
+    "naturalVariation": "Les glaçures et pigments artisanaux varient d'une pièce à l'autre. La photographie est l'échantillon réel ; la valeur hexadécimale n'est qu'une approximation à l'écran.",
+    "viewProducts": "Voir les produits",
+    "matchingProducts": "Produits assortis"
+  },
+  "projectsPage": {
+    "title": "Projets",
+    "subtitle": "Une archive grandissante d'espaces réalisés avec les matériaux MT ART.",
+    "comingSoon": "Notre galerie de projets complète est en préparation. En attendant, contactez-nous pour voir des exemples pertinents pour votre projet."
+  },
+  "craftsmanshipPage": {
+    "title": "Savoir-faire",
+    "subtitle": "Neuf étapes, une seule philosophie : tout à la main.",
+    "steps": {
+      "1": {
+        "title": "Préparation de l'argile et du ciment",
+        "body": "Les matières premières sont sélectionnées et préparées selon des techniques affinées au fil des générations."
+      },
+      "2": {
+        "title": "Façonnage",
+        "body": "Chaque carreau est façonné à la main ou à la presse guidée à la main, pièce par pièce."
+      },
+      "3": {
+        "title": "Séchage",
+        "body": "Les pièces sèchent lentement et naturellement avant cuisson ou séchage final."
+      },
+      "4": {
+        "title": "Émaillage et pigmentation",
+        "body": "La couleur est appliquée à la main — émail pour le Zellige, pigment pour les carreaux de ciment."
+      },
+      "5": {
+        "title": "Four / Presse hydraulique",
+        "body": "Fours traditionnels et presses hydrauliques donnent à chaque matériau sa résistance finale."
+      },
+      "6": {
+        "title": "Taille à la main",
+        "body": "Le Zellige est ciselé à la main, pièce par pièce."
+      },
+      "7": {
+        "title": "Contrôle qualité",
+        "body": "Chaque lot est inspecté avant de quitter l'atelier."
+      },
+      "8": {
+        "title": "Emballage",
+        "body": "Les carreaux sont soigneusement emballés pour voyager en toute sécurité à travers le monde."
+      },
+      "9": {
+        "title": "Expédition internationale",
+        "body": "De nos ateliers au Maroc jusqu'aux projets sur tous les continents."
+      }
+    },
+    "cta": "Demander un devis"
+  },
+  "ourCraftPage": {
+    "title": "Comment nous fabriquons nos carreaux de ciment",
+    "subtitle": "Fabriqués à la main dans notre usine, un carreau à la fois.",
+    "intro": "Chaque carreau de ciment est coulé, pressé et fini à la main. Ces films de notre atelier suivent le processus, du moule à la surface finie.",
+    "cta": "Demander un devis",
+    "steps": {
+      "1": {
+        "title": "Préparation du moule",
+        "body": "Le cadre métallique et le diviseur de motif sont placés sur l'établi, prêts à recevoir pigments et ciment."
+      },
+      "2": {
+        "title": "Préparation des couleurs et pigments",
+        "body": "Les pigments minéraux sont mélangés à la pâte de ciment pour que chaque couleur du dessin soit préparée à la main."
+      },
+      "3": {
+        "title": "Remplissage du moule",
+        "body": "Chaque compartiment du motif est rempli, couleur par couleur, à l'aide d'un petit entonnoir — la face du carreau naît ici."
+      },
+      "4": {
+        "title": "Retrait du moule",
+        "body": "Une fois le motif achevé, le diviseur est soulevé, laissant le dessin intact dans le ciment encore frais."
+      },
+      "5": {
+        "title": "Pressage du carreau de ciment",
+        "body": "Le carreau est pressé pour que la face décorative et le corps de ciment ne fassent plus qu'une pièce dense et durable."
+      },
+      "6": {
+        "title": "Finition",
+        "body": "Les chants et les surfaces sont contrôlés et finis à l'atelier avant la fin du durcissement."
+      },
+      "7": {
+        "title": "Produit fini",
+        "body": "Les carreaux terminés — motifs, couleurs et bordures — quittent l'usine prêts pour l'architecture et l'intérieur."
+      }
+    }
+  },
+  "professionalsPage": {
+    "title": "Pour les professionnels",
+    "subtitle": "Support technique, échantillons réels et logistique d'export pour architectes, designers et projets hôteliers.",
+    "audiences": {
+      "architects": "Architectes",
+      "designers": "Designers d'intérieur",
+      "developers": "Promoteurs",
+      "hotels": "Hôtels",
+      "restaurants": "Restaurants",
+      "distributors": "Distributeurs",
+      "importers": "Importateurs",
+      "retailers": "Détaillants",
+      "contractors": "Entrepreneurs"
+    },
+    "offer": {
+      "heading": "Ce que nous proposons",
+      "technicalSheets": "Fiches techniques",
+      "samples": "Échantillons physiques",
+      "catalogs": "Catalogues numériques et imprimés",
+      "quotation": "Devis par projet",
+      "customProduction": "Production sur mesure",
+      "exportLogistics": "Logistique d'export",
+      "support": "Support professionnel dédié"
+    },
+    "cta": "Démarrer un projet"
+  },
+  "aboutPage": {
+    "title": "À propos de MT ART",
+    "subtitle": "Héritage marocain, façonné pour l'architecture contemporaine.",
+    "intro": "MT ART est un fabricant marocain de Zellige, Bejmat, carreaux de ciment et terre cuite artisanaux, travaillant avec des architectes, designers et distributeurs à travers le monde.",
+    "heritage": {
+      "heading": "Héritage",
+      "body": "Ancré dans des siècles de tradition marocaine du carreau, transmis par des artisans qui ont appris leur métier comme leurs familles l'ont toujours fait."
+    },
+    "factory": {
+      "heading": "Usine & Atelier",
+      "body": "Chaque pièce est produite dans nos propres ateliers au Maroc, sous contrôle qualité direct, de la matière première au carreau fini."
+    },
+    "export": {
+      "heading": "Rayonnement international",
+      "body": "MT ART expédie vers des projets d'architecture et de design dans le monde entier, avec le support technique attendu par les clients internationaux."
+    },
+    "catalog": {
+      "heading": "Catalogue",
+      "body": "Découvrez la collection complète MT ART.",
+      "preview": "Aperçu du catalogue",
+      "download": "Télécharger le PDF",
+      "cementName": "Catalogue carreaux de ciment",
+      "close": "Fermer"
+    },
+    "slider": {
+      "previous": "Image précédente",
+      "next": "Image suivante",
+      "goTo": "Aller à l’image {{index}}"
+    }
+  },
+  "catalogsPage": {
+    "title": "Catalogues",
+    "subtitle": "Téléchargez nos catalogues PDF pour découvrir toute la gamme MT ART hors ligne.",
+    "empty": "Les catalogues sont en préparation et apparaîtront ici prochainement.",
+    "download": "Télécharger",
+    "preview": "Aperçu",
+    "cement": "Catalogue carreaux de ciment",
+    "pages": "pages",
+    "cementBody": "Le catalogue imprimé MT ART des carreaux de ciment, également consultable en ligne produit par produit. Téléchargez le PDF ou explorez les modèles, couleurs et le simulateur.",
+    "browse": "Parcourir les produits en ligne"
+  },
+  "contactPage": {
+    "title": "Contact",
+    "subtitle": "Nous serions ravis d'en savoir plus sur votre projet.",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "address": "Usine & Showroom",
+    "hours": "Horaires d'ouverture",
+    "whatsappCta": "Écrire sur WhatsApp",
+    "factoryMap": "Emplacement de l'usine",
+    "openInMaps": "Ouvrir dans Google Maps",
+    "getDirections": "Itinéraire",
+    "shareLocation": "Partager l'emplacement",
+    "locationCopied": "Lien de localisation copié",
+    "form": {
+      "name": "Nom complet",
+      "email": "E-mail",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "sending": "Envoi…",
+      "success": "Votre message a été envoyé avec succès.",
+      "error": "Impossible d'envoyer votre message. Veuillez réessayer.",
+      "validation": {
+        "name": "Veuillez saisir votre nom complet.",
+        "email": "Veuillez saisir une adresse e-mail valide.",
+        "message": "Veuillez saisir un message."
+      }
+    }
+  },
+  "quote": {
+    "title": "Demander un devis",
+    "subtitle": "Parlez-nous de votre projet et notre équipe vous répondra avec un devis personnalisé.",
+    "sections": {
+      "contact": "Vos coordonnées",
+      "project": "Votre projet",
+      "product": "Produit d'intérêt",
+      "message": "Message"
+    },
+    "fields": {
+      "fullName": "Nom complet",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "company": "Entreprise",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "whatsapp": "WhatsApp",
+      "country": "Pays",
+      "city": "Ville",
+      "customerType": "Type de client",
+      "projectType": "Type de projet",
+      "product": "Produit",
+      "reference": "Référence",
+      "color": "Couleur",
+      "format": "Format",
+      "quantityM2": "Quantité / m²",
+      "message": "Message / Détails du projet"
+    },
+    "customerTypes": {
+      "private": "Particulier",
+      "architect": "Architecte",
+      "interiorDesigner": "Designer d'intérieur",
+      "distributor": "Distributeur",
+      "retailer": "Détaillant",
+      "hotel": "Hôtel",
+      "restaurant": "Restaurant",
+      "contractor": "Entrepreneur",
+      "other": "Autre"
+    },
+    "projectTypes": {
+      "residential": "Résidentiel",
+      "hotel": "Hôtel",
+      "restaurant": "Restaurant",
+      "retail": "Commerce",
+      "pool": "Piscine",
+      "bathroom": "Salle de bain",
+      "kitchen": "Cuisine",
+      "exterior": "Extérieur",
+      "commercial": "Commercial",
+      "other": "Autre"
+    },
+    "submit": "Envoyer la demande",
+    "submitting": "Envoi en cours…",
+    "success": {
+      "heading": "Merci — votre demande a bien été reçue.",
+      "body": "Votre numéro de référence est {{reference}}. Notre équipe vous contactera prochainement.",
+      "backHome": "Retour à l'accueil"
+    },
+    "error": {
+      "heading": "Nous n'avons pas pu envoyer votre demande",
+      "notConnected": "Le service de devis n'est pas encore connecté. Vos informations ont été conservées ci-dessous — merci de réessayer prochainement ou de nous contacter directement.",
+      "generic": "Une erreur est survenue lors de l'envoi de votre demande. Veuillez réessayer."
+    },
+    "selectedProduct": {
+      "loadError": "Impossible de charger le produit sélectionné. Veuillez revenir en arrière et réessayer."
+    },
+    "validation": {
+      "required": "Ce champ est obligatoire.",
+      "email": "Veuillez saisir une adresse e-mail valide.",
+      "positiveNumber": "Veuillez saisir un nombre positif."
+    }
+  },
+  "requestQuoteCta": {
+    "prefill": "Bonjour MT ART, je souhaite des informations sur :"
+  },
+  "notFound": {
+    "title": "Le carreau que vous recherchez a peut-être été déplacé.",
+    "body": "Il a peut-être été déplacé, renommé, ou n'a jamais existé.",
+    "exploreZellige": "Explorer le Zellige",
+    "exploreCement": "Explorer les carreaux de ciment",
+    "backHome": "Retour à l'accueil"
+  },
+  "formatsPage": {
+    "title": "Formats",
+    "subtitle": "Dimensions, poids et couverture pour spécifier les carreaux MT ART.",
+    "zelligeTitle": "Formats zellige",
+    "cementTitle": "Formats carreaux de ciment",
+    "bjmatTitle": "Formats Bjmat",
+    "format": "Format",
+    "reference": "Référence",
+    "dimensions": "Mesures",
+    "thickness": "Épaisseur",
+    "weightUnit": "Poids / unité",
+    "units": "Unités / m²",
+    "weightM2": "Poids / m²",
+    "shape": "Forme"
+  },
+  "cementTiles": {
+    "title": "Carreaux de ciment",
+    "subtitle": "Carreaux de ciment marocains pressés à la main, en modèles catalogue ou motifs personnalisables.",
+    "simulatorCta": "Ouvrir le simulateur",
+    "modelsCta": "Voir les modèles",
+    "featured": "Extrait du catalogue",
+    "nav": {
+      "models": "Modèles",
+      "simulator": "Simulateur",
+      "colors": "Couleurs",
+      "formats": "Formats",
+      "stock": "Stock",
+      "projects": "Projets",
+      "guide": "Guide technique"
+    }
+  },
+  "simulator": {
+    "eyebrow": "Carreaux de ciment",
+    "title": "Simulateur de carreaux",
+    "subtitle": "Choisissez un motif, des couleurs, puis prévisualisez.",
+    "startTitle": "Comment souhaitez-vous commencer ?",
+    "startSubtitle": "Coloriez un motif existant, ou créez-en un nouveau à partir d’un carreau vide.",
+    "chooseMouldKicker": "Catalogue",
+    "chooseMould": "Choisir un motif",
+    "chooseMouldBody": "Parcourez les motifs et coloriez chaque zone.",
+    "or": "ou",
+    "createKicker": "À partir de zéro",
+    "createDesign": "Créer votre design",
+    "createDesignBody": "Construire une géométrie originale, colorer chaque zone fermée, et voir le motif se répéter.",
+    "patterns": "Moules",
+    "mouldsTab": "Moules personnalisables",
+    "catalogTab": "Parcourir le catalogue",
+    "photoOnly": "Photographie uniquement",
+    "customize": "Personnaliser",
+    "chooseRegion": "Choisir une zone",
+    "chooseColor": "Choisissez votre couleur",
+    "chooseReference": "Choisir un motif",
+    "chooseDesign": "Choisissez votre carreau",
+    "pickColorHint": "Cliquez une zone du carreau pour la colorer",
+    "colorThisArea": "Colorer cette zone",
+    "applyToMatching": "Appliquer aux formes identiques",
+    "resetThisArea": "Réinitialiser cette zone",
+    "resetAllColors": "Réinitialiser toutes les couleurs",
+    "applyColor": "Appliquer",
+    "applyFailed": "Impossible d’appliquer cette couleur. Sélectionnez une zone et réessayez.",
+    "cancel": "Annuler",
+    "colorMode": "Mode couleur",
+    "preserveTexture": "Conserver la texture",
+    "flatColor": "Couleur unie",
+    "selectionSensitivity": "Sensibilité de sélection",
+    "precise": "Précis",
+    "broad": "Large",
+    "closePopup": "Fermer",
+    "copyHex": "Copier",
+    "copyRgb": "Copier RVB",
+    "copied": "Copié",
+    "yourColors": "Vos couleurs",
+    "advanced": "Avancé",
+    "moreCategories": "Plus",
+    "previewSingle": "Carreau",
+    "emptyGeometryHint": "Choisissez votre carreau",
+    "inspirationHint": "Cette photo identifie un vrai motif. Les zones se colorent dès qu’un SVG éditable existe. Servez-vous-en comme inspiration dans le concepteur.",
+    "useAsInspiration": "Utiliser comme inspiration",
+    "hex": "HEX",
+    "rgb": "RVB",
+    "brightness": "Luminosité",
+    "hsl": "TSL",
+    "addToPalette": "Ajouter à ma palette",
+    "myPalette": "Ma palette",
+    "recentColors": "Couleurs récentes",
+    "presetPalettes": "Palettes prêtes",
+    "presets": {
+      "moroccanEarth": "Terre marocaine",
+      "mediterraneanBlue": "Bleu méditerranéen",
+      "terracotta": "Terre cuite",
+      "pastel": "Pastel",
+      "blackWhite": "Noir et blanc",
+      "green": "Vert",
+      "warmNeutral": "Neutres chauds"
+    },
+    "selectedMould": "Moule sélectionné",
+    "yourTile": "Votre carreau",
+    "liveTile": "Carreau en direct",
+    "repeatPreview": "Aperçu répété",
+    "tileTypes": {
+      "cement": "Carreau de ciment",
+      "zellige": "Zellige marocain",
+      "bjmat": "Bjmat"
+    },
+    "bjmatHint": "Le bjmat est une brique de terre cuite artisanale, pas un motif de moule. Choisissez une pose et des couleurs photographiées plutôt qu’un SVG.",
+    "bjmatLayouts": "Poses bjmat",
+    "bjmatColors": "Couleurs bjmat",
+    "loadMore": "Charger plus",
+    "download": "Télécharger PNG",
+    "favorites": "Favoris",
+    "clearFavorites": "Vider les favoris",
+    "fillAll": "Tout remplir",
+    "deleteOne": "Supprimer une",
+    "clearAll": "Tout effacer",
+    "suggestLayout": "Proposer une pose",
+    "size": "Taille",
+    "colors": "Couleurs",
+    "selectedColors": "Couleurs choisies",
+    "room": "Vue pièce",
+    "rotate": "Pivoter",
+    "reset": "Réinitialiser",
+    "favorite": "Favori",
+    "viewFavorites": "Voir les favoris",
+    "fullscreen": "Plein écran",
+    "all": "Tous",
+    "searchReference": "Rechercher une référence...",
+    "back": "Retour",
+    "continue": "Continuer",
+    "reference": "Référence",
+    "pattern": "Motif",
+    "mould": "Moule",
+    "format": "Format",
+    "price": "Prix au m²",
+    "surface": "Surface (m²)",
+    "waste": "Chute",
+    "tiles": "carreaux",
+    "estimate": "Estimation incluant la chute. La quantité finale est confirmée avec votre devis.",
+    "requestDesign": "Demander ce modèle",
+    "requestQuote": "Demander un devis",
+    "livePreview": "Aperçu en direct",
+    "tileSize": "Taille du carreau",
+    "tileSizeSmall": "Petit",
+    "tileSizeLarge": "Grand",
+    "layout": "Disposition",
+    "rotation": "Rotation",
+    "upload": {
+      "card": "Importer votre motif",
+      "title": "Importer votre motif",
+      "drag": "Glissez une image ici",
+      "or": "ou",
+      "choose": "Choisir une image",
+      "formats": "JPG / PNG / WEBP",
+      "cropTitle": "Recadrer le carreau",
+      "cropHint": "Sélectionnez un carreau ou le motif répété",
+      "useCrop": "Utiliser la zone sélectionnée",
+      "angled": "La photo est en perspective",
+      "preparing": "Préparation de votre motif...",
+      "steps": {
+        "uploaded": "Image importée",
+        "tile": "Détection du carreau",
+        "pattern": "Recherche du motif",
+        "colors": "Détection des zones de couleur",
+        "mould": "Création du moule modifiable"
+      },
+      "ready": "Votre motif est prêt",
+      "original": "Original",
+      "mould": "Moule modifiable",
+      "useMould": "Utiliser ce motif",
+      "tryAnother": "Essayer une autre image",
+      "pickFromOriginal": "Prélever sur l’original",
+      "tooSmall": "Cette image est trop petite. Merci d’envoyer une photo plus nette.",
+      "tooLarge": "Cette image est trop lourde. Taille maximale : 10 Mo.",
+      "badType": "Merci d’envoyer une image JPG, PNG ou WEBP.",
+      "invalid": "Ce fichier n’a pas pu être lu comme une image.",
+      "failed": "Nous n’avons pas pu détecter ce motif clairement. Recadrez une seule dalle ou envoyez une image plus nette.",
+      "failedTips": "Essayez :\n- une photo de face\n- un meilleur éclairage\n- recadrer un seul carreau\n- une image plus nette",
+      "unavailable": "La préparation du motif est indisponible pour le moment. Merci de réessayer."
+    },
+    "previewModes": {
+      "tile": "Carreau",
+      "floor": "Sol",
+      "bedroom": "Chambre",
+      "living": "Salon",
+      "bathroom": "Salle de bain",
+      "kitchen": "Cuisine"
+    },
+    "steps": {
+      "design": "Choisir un motif",
+      "pattern": "Choisir un motif",
+      "colors": "Choisir les couleurs",
+      "preview": "Aperçu",
+      "visualize": "Pièce"
+    },
+    "regions": {
+      "background": "Arrière-plan",
+      "main": "Motif principal",
+      "secondary": "Motif secondaire",
+      "accent": "Détail",
+      "light": "Face claire",
+      "mid": "Face moyenne",
+      "dark": "Face sombre",
+      "a": "Champ A",
+      "b": "Champ B",
+      "petalA": "Pétale A",
+      "petalB": "Pétale B",
+      "center": "Centre",
+      "field": "Champ",
+      "ring": "Anneau",
+      "star": "Étoile",
+      "north": "Nord",
+      "east": "Est",
+      "west": "Ouest",
+      "south": "Sud",
+      "hex": "Hexagone",
+      "flower": "Fleur",
+      "octagon": "Octogone",
+      "bladeA": "Pale A",
+      "bladeB": "Pale B",
+      "bladeC": "Pale C",
+      "bladeD": "Pale D",
+      "hub": "Centre",
+      "inner": "Intérieur",
+      "border": "Bordure",
+      "corner": "Coin",
+      "cabochon": "Cabochon",
+      "outer": "Extérieur",
+      "diamond": "Losange",
+      "detail": "Détail",
+      "cross": "Croix"
+    },
+    "scenes": {
+      "floor": "Sol",
+      "kitchen": "Cuisine",
+      "bathroom": "Salle de bain",
+      "living": "Salon",
+      "commercial": "Commercial",
+      "bedroom": "Chambre"
+    }
+  },
+  "designer": {
+    "eyebrow": "Carreaux de ciment",
+    "title": "Créer votre design",
+    "subtitle": "Partir d’un carreau vide 20 × 20 cm. Ajouter des formes, colorer chaque zone fermée, et prévisualiser le sol répété.",
+    "changeStart": "Changer le point de départ",
+    "useAsStart": "Utiliser comme point de départ",
+    "shapes": "Formes",
+    "moroccan": "Géométrie marocaine",
+    "select": "Sélection",
+    "symmetry": "Symétrie",
+    "grid": "Grille",
+    "gridOn": "Afficher la grille",
+    "snapOn": "Magnétisme",
+    "gridSize": "Pas de grille",
+    "centerGuides": "Repère central",
+    "diagonalGuides": "Guides en diagonale",
+    "horizontalGuide": "Guide horizontal",
+    "verticalGuide": "Guide vertical",
+    "angleSnap": "Angles",
+    "off": "Non",
+    "layers": "Calques",
+    "emptyTile": "Carreau vide — ajoutez une forme pour commencer.",
+    "rename": "Renommer",
+    "layout": "Pose",
+    "repeatPreview": "Motif répété",
+    "seamless": "Aperçu jointif",
+    "manufacturing": "Aperçu fabrication",
+    "exportSvg": "Exporter SVG",
+    "colors": "Couleurs",
+    "designTile": "Carreau",
+    "name": "Nom",
+    "undo": "Annuler",
+    "redo": "Rétablir",
+    "duplicate": "Dupliquer",
+    "delete": "Supprimer",
+    "mirrorH": "Miroir horizontal",
+    "mirrorV": "Miroir vertical",
+    "forward": "Avancer",
+    "backward": "Reculer",
+    "alignCenter": "Centrer",
+    "reset": "Réinitialiser",
+    "save": "Enregistrer mon design",
+    "savedAs": "Enregistré sous {{reference}}",
+    "saveFailed": "Enregistrement impossible. Réessayez.",
+    "savedDesigns": "Designs enregistrés",
+    "mobileHint": "Les outils complets sont plus confortables sur un grand écran. Vous pouvez tout de même dessiner ci-dessous.",
+    "assistTitle": "Décrire un motif de départ",
+    "assistBody": "Facultatif. Une courte description place des formes géométriques originales. Tout reste modifiable à la main — aucune IA n’est requise.",
+    "assistPlaceholder": "Étoile marocaine à 8 branches avec losanges autour",
+    "assistApply": "Placer le motif",
+    "symmetryMode": {
+      "none": "Aucune",
+      "2": "2 axes",
+      "4": "4 axes",
+      "6": "6 axes",
+      "8": "8 axes",
+      "radial": "Radiale"
+    },
+    "repeat": {
+      "straight": "Droit",
+      "rotate90": "Rotation 90°",
+      "rotate180": "Rotation 180°",
+      "alt90": "Alterné 90°",
+      "alt180": "Alterné 180°",
+      "mirrorX": "Miroir X",
+      "mirrorY": "Miroir Y",
+      "checker": "Damiers",
+      "compose2": "Composition 2×2",
+      "compose4": "Composition 4×4"
+    },
+    "shape": {
+      "line": "Ligne",
+      "triangle": "Triangle",
+      "square": "Carré",
+      "rectangle": "Rectangle",
+      "circle": "Cercle",
+      "semiCircle": "Demi-cercle",
+      "quarterCircle": "Quart de cercle",
+      "diamond": "Losange",
+      "rhombus": "Rhombe",
+      "hexagon": "Hexagone",
+      "octagon": "Octogone",
+      "star4": "Étoile 4 branches",
+      "star6": "Étoile 6 branches",
+      "star8": "Étoile 8 branches",
+      "star10": "Étoile 10 branches",
+      "star12": "Étoile 12 branches",
+      "moroccanStar": "Étoile marocaine",
+      "cross": "Croix",
+      "polygon": "Polygone",
+      "arc": "Arc",
+      "khatem": "Khatem",
+      "starAndCross": "Étoile et croix",
+      "rosette": "Rosace",
+      "interlace": "Entrelacs",
+      "diamondsRing": "Losanges",
+      "moorishRadial": "Géométrie radiale",
+      "path": "Tracé"
+    },
+    "warnings": {
+      "ok": "Aucun avertissement de fabrication pour cette géométrie.",
+      "tinyArea": "Cette zone risque d’être trop petite à fabriquer.",
+      "thinRegion": "Cette zone risque d’être trop fine pour un séparateur.",
+      "openPath": "Une ligne ouverte ne crée pas une zone colorable.",
+      "outOfBounds": "Une partie de la géométrie sort du carreau.",
+      "overlap": "Des formes qui se chevauchent peuvent être difficiles à découper.",
+      "tinyGap": "Un intervalle paraît trop étroit pour la fabrication.",
+      "duplicate": "Deux formes semblent identiques."
+    }
+  },
+  "bjmat": {
+    "title": "Bjmat artisanal",
+    "subtitle": "Carreaux de terre cuite allongés, photographiés à l'atelier MT ART.",
+    "homeBody": "Le Bjmat est une famille à part entière — pièces longues en 15×5, 20×5 et 20×10.",
+    "explore": "Explorer le Bjmat",
+    "formatsHeading": "Formats disponibles",
+    "formatsBody": "Longueurs Bjmat habituelles de l'atelier. Les poids techniques sont confirmés avec chaque devis.",
+    "layoutsHeading": "Pose",
+    "layoutsBody": "Le Bjmat ne se configure pas comme un moule de ciment. Choisissez une texture photographiée et prévisualisez les poses courantes.",
+    "variationHeading": "Variations naturelles",
+    "variationBody": "La terre cuite artisanale varie en ton, en bord et en texture.",
+    "nav": {
+      "colors": "Couleurs",
+      "formats": "Formats",
+      "layouts": "Pose",
+      "projects": "Projets",
+      "products": "Produits"
+    },
+    "layouts": {
+      "chooseColor": "Choisir une texture",
+      "straight": "Droit",
+      "brick": "Brique",
+      "herringbone": "Chevron",
+      "vertical": "Vertical",
+      "diagonal": "Diagonal",
+      "basketweave": "Vannerie"
+    }
+  }
+}

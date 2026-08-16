@@ -1,0 +1,21 @@
+# syntax=docker/dockerfile:1
+# Build context MUST be the repository root, e.g.:
+#   docker build -f deploy/docker/media-api.Dockerfile -t mtart/media-api .
+FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
+WORKDIR /src
+
+COPY global.json Directory.Build.props Directory.Packages.props ./
+COPY src/ src/
+
+RUN dotnet restore src/Services/Media/MTArt.Media.Api/MTArt.Media.Api.csproj
+RUN dotnet publish src/Services/Media/MTArt.Media.Api/MTArt.Media.Api.csproj \
+    -c Release -o /app --no-restore
+
+FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS final
+WORKDIR /app
+ENV ASPNETCORE_HTTP_PORTS=8080 \
+    ASPNETCORE_ENVIRONMENT=Production
+EXPOSE 8080
+COPY --from=build /app .
+USER $APP_UID
+ENTRYPOINT ["dotnet", "MTArt.Media.Api.dll"]

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect data-region="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+  <polygon data-region="main" points="179.45,132.91 132.91,179.45 67.09,179.45 20.55,132.91 20.55,67.09 67.09,20.55 132.91,20.55 179.45,67.09" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+  <polygon data-region="inner" points="100,42 109.18,77.83 141.01,58.99 122.17,90.82 158,100 122.17,109.18 141.01,141.01 109.18,122.17 100,158 90.82,122.17 58.99,141.01 77.83,109.18 42,100 77.83,90.82 58.99,58.99 90.82,77.83" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+  <polygon data-region="center" points="125.87,110.72 110.72,125.87 89.28,125.87 74.13,110.72 74.13,89.28 89.28,74.13 110.72,74.13 125.87,89.28" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+  <circle data-region="detail" cx="100" cy="100" r="10" fill="#ffffff" stroke="#6b6b6b" stroke-width="1.25" />
+</svg>

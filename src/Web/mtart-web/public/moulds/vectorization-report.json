@@ -1,0 +1,1649 @@
+[
+  {
+    "reference": "MOR-001",
+    "source": "/import/extracted/images/p004-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-001.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-002",
+    "source": "/import/extracted/images/p006-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-002.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-003",
+    "source": "/import/extracted/images/p009-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-003.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "2x2",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-004",
+    "source": "/import/extracted/images/p010-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-004.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-005",
+    "source": "/import/extracted/images/p013-i1.jpeg",
+    "status": "vectorization-failed",
+    "reason": "no-stable-palette",
+    "repeatUnit": "1x1"
+  },
+  {
+    "reference": "MOR-006",
+    "source": "/import/extracted/images/p014-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-006.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 2
+  },
+  {
+    "reference": "MOR-007",
+    "source": "/import/extracted/images/p015-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-007.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "2x2",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-008",
+    "source": "/import/extracted/images/p016-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-008.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-009",
+    "source": "/import/extracted/images/p019-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-009.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-010",
+    "source": "/import/extracted/images/p021-i1.jpeg",
+    "status": "vectorization-failed",
+    "reason": "no-clean-regions",
+    "repeatUnit": "1x1"
+  },
+  {
+    "reference": "MOR-011",
+    "source": "/import/extracted/images/p022-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-011.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight",
+    "regionCount": 2
+  },
+  {
+    "reference": "MOR-012",
+    "source": "/import/extracted/images/p023-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-012.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "2x2",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-013",
+    "source": "/import/extracted/images/p024-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-013.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-014",
+    "source": "/import/extracted/images/p025-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-014.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-015",
+    "source": "/import/extracted/images/p026-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-015.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-016",
+    "source": "/import/extracted/images/p027-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-016.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-017",
+    "source": "/import/extracted/images/p028-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-017.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-018",
+    "source": "/import/extracted/images/p029-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-018.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-019",
+    "source": "/import/extracted/images/p030-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-019.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-020",
+    "source": "/import/extracted/images/p031-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-020.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-021",
+    "source": "/import/extracted/images/p032-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-021.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-022",
+    "source": "/import/extracted/images/p033-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-022.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-023",
+    "source": "/import/extracted/images/p034-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-023.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-024",
+    "source": "/import/extracted/images/p035-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-024.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-025",
+    "source": "/import/extracted/images/p036-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-025.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 2
+  },
+  {
+    "reference": "MOR-026",
+    "source": "/import/extracted/images/p037-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-026.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-027",
+    "source": "/import/extracted/images/p038-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-027.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 2
+  },
+  {
+    "reference": "MOR-028",
+    "source": "/import/extracted/images/p039-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-028.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "3x3",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-029",
+    "source": "/import/extracted/images/p040-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-029.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-030",
+    "source": "/import/extracted/images/p041-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-030.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-031",
+    "source": "/import/extracted/images/p043-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-031.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-032",
+    "source": "/import/extracted/images/p046-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-032.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 2
+  },
+  {
+    "reference": "MOR-033",
+    "source": "/import/extracted/images/p047-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-033.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-034",
+    "source": "/import/extracted/images/p048-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-034.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-035",
+    "source": "/import/extracted/images/p055-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-035.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 2
+  },
+  {
+    "reference": "MOR-036",
+    "source": "/import/extracted/images/p056-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-036.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-037",
+    "source": "/import/extracted/images/p060-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-037.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-038",
+    "source": "/import/extracted/images/p063-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-038.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-039",
+    "source": "/import/extracted/images/p071-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-039.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-040",
+    "source": "/import/extracted/images/p072-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-040.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-041",
+    "source": "/import/extracted/images/p074-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-041.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-042",
+    "source": "/import/extracted/images/p085-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-042.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-043",
+    "source": "/import/extracted/images/p098-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-043.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-044",
+    "source": "/import/extracted/images/p108-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-044.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-045",
+    "source": "/import/extracted/images/p111-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-045.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-046",
+    "source": "/import/extracted/images/p125-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-046.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-047",
+    "source": "/import/extracted/images/p128-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-047.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-048",
+    "source": "/import/extracted/images/p131-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-048.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-049",
+    "source": "/import/extracted/images/p136-i1.jpeg",
+    "status": "vectorization-failed",
+    "reason": "no-clean-regions",
+    "repeatUnit": "1x1"
+  },
+  {
+    "reference": "MOR-050",
+    "source": "/import/extracted/images/p139-i1.jpeg",
+    "status": "vectorization-failed",
+    "reason": "no-stable-palette",
+    "repeatUnit": "1x1"
+  },
+  {
+    "reference": "MOR-051",
+    "source": "/import/extracted/images/p156-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-051.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-052",
+    "source": "/import/extracted/images/p158-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-052.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-053",
+    "source": "/import/extracted/images/p159-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-053.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-054",
+    "source": "/import/extracted/images/p167-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-054.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-055",
+    "source": "/import/extracted/images/p168-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-055.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-056",
+    "source": "/import/extracted/images/p169-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-056.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-057",
+    "source": "/import/extracted/images/p178-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-057.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-058",
+    "source": "/import/extracted/images/p179-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-058.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-059",
+    "source": "/import/extracted/images/p180-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-059.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-060",
+    "source": "/import/extracted/images/p182-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-060.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-061",
+    "source": "/import/extracted/images/p186-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-061.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-062",
+    "source": "/import/extracted/images/p187-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-062.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-063",
+    "source": "/import/extracted/images/p189-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-063.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-064",
+    "source": "/import/extracted/images/p194-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-064.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 2
+  },
+  {
+    "reference": "MOR-065",
+    "source": "/import/extracted/images/p195-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-065.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-066",
+    "source": "/import/extracted/images/p197-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-066.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-067",
+    "source": "/import/extracted/images/p200-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-067.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  },
+  {
+    "reference": "MOR-068",
+    "source": "/import/extracted/images/p203-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-068.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      },
+      {
+        "key": "region-3",
+        "name": "Area 3"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 4
+  },
+  {
+    "reference": "MOR-069",
+    "source": "/import/extracted/images/p204-i1.jpeg",
+    "status": "editable-svg",
+    "svgUrl": "/moulds/imported/MOR-069.svg",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "region-1",
+        "name": "Area 1"
+      },
+      {
+        "key": "region-2",
+        "name": "Area 2"
+      }
+    ],
+    "repeatUnit": "1x1",
+    "repeatMode": "straight",
+    "regionCount": 3
+  }
+]

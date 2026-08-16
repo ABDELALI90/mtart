@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#666666" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="region-1" data-region-id="region-1" d="M0 23.33 L24.44 24.44 L16.67 51.11 L0 51.11 L0 24.44 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+  <path data-region="region-1" data-region-id="region-1" d="M122.22 43.33 L128.89 46.67 L132.22 54.44 L142.22 54.44 L146.67 58.89 L134.44 61.11 L131.11 72.22 L125.56 74.44 L117.78 61.11 L106.67 60 L121.11 51.11 L121.11 44.44 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+  <path data-region="region-1" data-region-id="region-1" d="M132.22 131.11 L141.11 137.78 L140 145.56 L145.56 151.11 L156.67 150 L166.67 157.78 L111.11 157.78 L115.56 151.11 L125.56 152.22 L130 147.78 L127.78 137.78 L131.11 132.22 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+</svg>

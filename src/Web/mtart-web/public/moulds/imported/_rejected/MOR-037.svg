@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#666666" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="region-1" data-region-id="region-1" d="M171.11 102.22 L175.56 108.89 L186.67 107.78 L198.89 113.33 L198.89 161.11 L185.56 158.89 L170 103.33 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+  <path data-region="region-2" data-region-id="region-2" d="M130 0 L198.89 0 L198.89 112.22 L186.67 106.67 L175.56 107.78 L170 100 L154.44 37.78 L144.44 26.67 L138.89 3.33 L131.11 1.11 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+  <path data-region="region-3" data-region-id="region-3" d="M0 0 L38.89 0 L44.44 3.33 L24.44 5.56 L20 10 L28.89 18.89 L23.33 28.89 L25.56 35.56 L0 34.44 L0 1.11 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+  <path data-region="region-3" data-region-id="region-3" d="M53.33 0 L98.89 0 L93.33 3.33 L96.67 17.78 L112.22 11.11 L122.22 0 L136.67 2.22 L146.67 31.11 L57.78 31.11 L41.11 75.56 L40 61.11 L47.78 55.56 L47.78 34.44 L42.22 30 L67.78 17.78 L65.56 14.44 L58.89 15.56 L53.33 1.11 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+</svg>

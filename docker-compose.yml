@@ -1,0 +1,278 @@
+name: mtart
+
+# Local/dev orchestration for the whole MT ART platform.
+# Copy .env.example to .env first, then:
+#   docker compose up --build            (infrastructure + APIs + gateway)
+#   docker compose --profile web up --build   (adds the React app once Phase 3 lands)
+#
+# Each service owns its own SQL Server database - see docs/architecture.md.
+
+services:
+  # ---------------------------------------------------------------------------
+  # Infrastructure
+  # ---------------------------------------------------------------------------
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mtart-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: ${SQLSERVER_SA_PASSWORD}
+      MSSQL_PID: Express
+    ports:
+      - "${SQLSERVER_PORT:-1433}:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -C -S localhost -U sa -P \"$$MSSQL_SA_PASSWORD\" -Q 'SELECT 1' -b -o /dev/null || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    networks: [mtart-network]
+
+  redis:
+    image: redis:7-alpine
+    container_name: mtart-redis
+    command: ["redis-server", "--save", "", "--appendonly", "no"]
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks: [mtart-network]
+
+  rabbitmq:
+    image: rabbitmq:3.13-management-alpine
+    container_name: mtart-rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER:-mtart}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASSWORD}
+    ports:
+      - "${RABBITMQ_PORT:-5672}:5672"
+      - "${RABBITMQ_MANAGEMENT_PORT:-15672}:15672"
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+    networks: [mtart-network]
+
+  minio:
+    image: minio/minio:latest
+    container_name: mtart-minio
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:-mtart}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    ports:
+      - "${MINIO_PORT:-9000}:9000"
+      - "${MINIO_CONSOLE_PORT:-9001}:9001"
+    volumes:
+      - minio-data:/data
+    healthcheck:
+      test: ["CMD", "mc", "ready", "local"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+    networks: [mtart-network]
+
+  # ---------------------------------------------------------------------------
+  # Microservices
+  # ---------------------------------------------------------------------------
+  identity-api:
+    build:
+      context: .
+      dockerfile: deploy/docker/identity-api.Dockerfile
+    container_name: mtart-identity-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__IdentityDb: Server=sqlserver,1433;Database=MTArt.Identity;User Id=sa;Password=${SQLSERVER_SA_PASSWORD};TrustServerCertificate=True;
+      ConnectionStrings__Redis: redis:6379
+      Jwt__Secret: ${JWT_SECRET}
+      Jwt__Issuer: ${JWT_ISSUER}
+      Jwt__Audience: ${JWT_AUDIENCE}
+      Jwt__AccessTokenMinutes: ${JWT_ACCESS_TOKEN_MINUTES:-15}
+      Jwt__RefreshTokenDays: ${JWT_REFRESH_TOKEN_DAYS:-14}
+      Cors__AllowedOrigins__0: ${WEB_ORIGIN:-http://localhost:5173}
+      Cors__AllowedOrigins__1: http://127.0.0.1:5173
+      Otlp__Endpoint: ${OTLP_ENDPOINT:-}
+      Seq__Url: ${SEQ_URL:-}
+    depends_on:
+      sqlserver: { condition: service_healthy }
+      redis: { condition: service_healthy }
+    networks: [mtart-network]
+
+  catalog-api:
+    build:
+      context: .
+      dockerfile: deploy/docker/catalog-api.Dockerfile
+    container_name: mtart-catalog-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__CatalogDb: Server=sqlserver,1433;Database=MTArt.Catalog;User Id=sa;Password=${SQLSERVER_SA_PASSWORD};TrustServerCertificate=True;
+      ConnectionStrings__Redis: redis:6379
+      RabbitMq__Host: rabbitmq
+      RabbitMq__Username: ${RABBITMQ_USER:-mtart}
+      RabbitMq__Password: ${RABBITMQ_PASSWORD}
+      Cors__AllowedOrigins__0: ${WEB_ORIGIN:-http://localhost:5173}
+      Cors__AllowedOrigins__1: http://127.0.0.1:5173
+      Otlp__Endpoint: ${OTLP_ENDPOINT:-}
+      Seq__Url: ${SEQ_URL:-}
+    depends_on:
+      sqlserver: { condition: service_healthy }
+      redis: { condition: service_healthy }
+      rabbitmq: { condition: service_healthy }
+    networks: [mtart-network]
+
+  content-api:
+    build:
+      context: .
+      dockerfile: deploy/docker/content-api.Dockerfile
+    container_name: mtart-content-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__ContentDb: Server=sqlserver,1433;Database=MTArt.Content;User Id=sa;Password=${SQLSERVER_SA_PASSWORD};TrustServerCertificate=True;
+      ConnectionStrings__Redis: redis:6379
+      Cors__AllowedOrigins__0: ${WEB_ORIGIN:-http://localhost:5173}
+      Cors__AllowedOrigins__1: http://127.0.0.1:5173
+      Otlp__Endpoint: ${OTLP_ENDPOINT:-}
+      Seq__Url: ${SEQ_URL:-}
+    depends_on:
+      sqlserver: { condition: service_healthy }
+      redis: { condition: service_healthy }
+    networks: [mtart-network]
+
+  inquiry-api:
+    build:
+      context: .
+      dockerfile: deploy/docker/inquiry-api.Dockerfile
+    container_name: mtart-inquiry-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__InquiryDb: Server=sqlserver,1433;Database=MTArt.Inquiry;User Id=sa;Password=${SQLSERVER_SA_PASSWORD};TrustServerCertificate=True;
+      RabbitMq__Host: rabbitmq
+      RabbitMq__Username: ${RABBITMQ_USER:-mtart}
+      RabbitMq__Password: ${RABBITMQ_PASSWORD}
+      Cors__AllowedOrigins__0: ${WEB_ORIGIN:-http://localhost:5173}
+      Cors__AllowedOrigins__1: http://127.0.0.1:5173
+      Smtp__Host: ${SMTP_HOST:-smtp.gmail.com}
+      Smtp__Port: ${SMTP_PORT:-587}
+      Smtp__User: ${SMTP_USER:-}
+      Smtp__Username: ${SMTP_USERNAME:-}
+      Smtp__FromAddress: ${SMTP_FROM_EMAIL:-${SMTP_FROM_ADDRESS:-yahyabdelali@gmail.com}}
+      Smtp__FromEmail: ${SMTP_FROM_EMAIL:-}
+      Contact__ToEmail: ${CONTACT_TO_EMAIL:-yahyabdelali@gmail.com}
+      Email__SmtpHost: ${SMTP_HOST:-smtp.gmail.com}
+      Email__SmtpPort: ${SMTP_PORT:-587}
+      Email__Username: ${SMTP_USERNAME:-${SMTP_USER:-yahyabdelali@gmail.com}}
+      Email__From: ${SMTP_FROM_EMAIL:-${SMTP_FROM_ADDRESS:-yahyabdelali@gmail.com}}
+      Email__To: ${CONTACT_TO_EMAIL:-yahyabdelali@gmail.com}
+      Email__EnableSsl: "true"
+      SMTP_USERNAME: ${SMTP_USERNAME:-${SMTP_USER:-}}
+      SMTP_PASSWORD: ${SMTP_PASSWORD:-}
+      Otlp__Endpoint: ${OTLP_ENDPOINT:-}
+      Seq__Url: ${SEQ_URL:-}
+    depends_on:
+      sqlserver: { condition: service_healthy }
+      rabbitmq: { condition: service_healthy }
+    networks: [mtart-network]
+
+  media-api:
+    build:
+      context: .
+      dockerfile: deploy/docker/media-api.Dockerfile
+    container_name: mtart-media-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__MediaDb: Server=sqlserver,1433;Database=MTArt.Media;User Id=sa;Password=${SQLSERVER_SA_PASSWORD};TrustServerCertificate=True;
+      Storage__Endpoint: minio:9000
+      Storage__AccessKey: ${MINIO_ROOT_USER:-mtart}
+      Storage__SecretKey: ${MINIO_ROOT_PASSWORD}
+      Storage__Bucket: ${MINIO_BUCKET:-mtart-media}
+      Storage__UseSsl: "false"
+      Cors__AllowedOrigins__0: ${WEB_ORIGIN:-http://localhost:5173}
+      Cors__AllowedOrigins__1: http://127.0.0.1:5173
+      Otlp__Endpoint: ${OTLP_ENDPOINT:-}
+      Seq__Url: ${SEQ_URL:-}
+    depends_on:
+      sqlserver: { condition: service_healthy }
+      minio: { condition: service_healthy }
+    networks: [mtart-network]
+
+  notification-worker:
+    build:
+      context: .
+      dockerfile: deploy/docker/notification-worker.Dockerfile
+    container_name: mtart-notification-worker
+    environment:
+      DOTNET_ENVIRONMENT: Production
+      RabbitMq__Host: rabbitmq
+      RabbitMq__Username: ${RABBITMQ_USER:-mtart}
+      RabbitMq__Password: ${RABBITMQ_PASSWORD}
+      Smtp__Host: ${SMTP_HOST:-}
+      Smtp__Port: ${SMTP_PORT:-587}
+      Smtp__User: ${SMTP_USER:-}
+      Smtp__Password: ${SMTP_PASSWORD:-}
+      Smtp__FromAddress: ${SMTP_FROM_ADDRESS:-no-reply@mtart.example.com}
+      Sales__NotificationEmail: ${SALES_NOTIFICATION_EMAIL:-sales@mtart.example.com}
+      Otlp__Endpoint: ${OTLP_ENDPOINT:-}
+      Seq__Url: ${SEQ_URL:-}
+    depends_on:
+      rabbitmq: { condition: service_healthy }
+    networks: [mtart-network]
+
+  # ---------------------------------------------------------------------------
+  # Gateway (the ONLY backend endpoint the browser talks to)
+  # ---------------------------------------------------------------------------
+  gateway:
+    build:
+      context: .
+      dockerfile: deploy/docker/gateway.Dockerfile
+    container_name: mtart-gateway
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      Cors__AllowedOrigins__0: ${WEB_ORIGIN:-http://localhost:5173}
+      Cors__AllowedOrigins__1: http://127.0.0.1:5173
+      Otlp__Endpoint: ${OTLP_ENDPOINT:-}
+      Seq__Url: ${SEQ_URL:-}
+    ports:
+      - "${GATEWAY_PORT:-8080}:8080"
+    depends_on:
+      - identity-api
+      - catalog-api
+      - content-api
+      - inquiry-api
+      - media-api
+    networks: [mtart-network]
+
+  # ---------------------------------------------------------------------------
+  # Frontend (Phase 3+) - opt in with `docker compose --profile web up`
+  # ---------------------------------------------------------------------------
+  web:
+    profiles: ["web"]
+    build:
+      context: .
+      dockerfile: deploy/docker/web.Dockerfile
+      args:
+        VITE_API_BASE_URL: /api
+    container_name: mtart-web
+    ports:
+      - "${WEB_PORT:-5173}:80"
+    depends_on:
+      - gateway
+    networks: [mtart-network]
+
+volumes:
+  sqlserver-data:
+  rabbitmq-data:
+  minio-data:
+
+networks:
+  mtart-network:
+    driver: bridge

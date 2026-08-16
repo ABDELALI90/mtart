@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Raw/import working files
+import/extracted/
+import/catalogs/
+
+# Build/generated
+src/Web/mtart-web/dist/
+src/Web/mtart-web/node_modules/
+
+# Development artifacts
+**/bin/
+**/obj/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+**/appsettings.Development.json
+node_modules/
+bin/
+obj/
+
+# Copied raster references (served from import/ in dev)
+public/images/import/
+
+# Temporary customer upload jobs
+public/moulds/custom/*
+!public/moulds/custom/.gitkeep

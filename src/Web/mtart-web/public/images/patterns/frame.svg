@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="field" data-region-id="field" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <rect data-region="border" data-region-id="border" x="8" y="8" width="184" height="184" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <rect data-region="inner" data-region-id="inner" x="28" y="28" width="144" height="144" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <rect data-region="field" data-region-id="field" x="44" y="44" width="112" height="112" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <rect data-region="corner" data-region-id="corner" x="8" y="8" width="28" height="28" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <rect data-region="corner" data-region-id="corner" x="164" y="8" width="28" height="28" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <rect data-region="corner" data-region-id="corner" x="8" y="164" width="28" height="28" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <rect data-region="corner" data-region-id="corner" x="164" y="164" width="28" height="28" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+</svg>

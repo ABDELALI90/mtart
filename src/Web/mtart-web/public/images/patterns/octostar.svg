@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="octagon" data-region-id="octagon" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M70 18 H130 L182 70 V130 L130 182 H70 L18 130 V70 Z" />
+  <path data-region="star" data-region-id="star" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 36 L112 84 L162 84 L122 114 L136 162 L100 132 L64 162 L78 114 L38 84 L88 84 Z" />
+  <circle data-region="center" data-region-id="center" cx="100" cy="100" r="14" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+</svg>

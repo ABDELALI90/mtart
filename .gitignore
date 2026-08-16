@@ -1,0 +1,58 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+artifacts/
+*.dll
+*.pdb
+
+# Test results
+TestResults/
+coverage/
+*.trx
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+appsettings.Development.local.json
+appsettings.*.local.json
+*.pfx
+*.pem
+
+# Editors / OS
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Docker volumes data (if mounted locally)
+deploy/docker/data/
+
+# Uploaded media (runtime data, not source)
+src/Services/Media/MTArt.Media.Api/App_Data/uploads/
+
+# Real product imagery (kept locally, not committed unless explicitly added)
+/import/**/*.jpg
+/import/**/*.jpeg
+/import/**/*.png
+/import/**/*.webp
+/import/**/*.pdf
+!/import/**/.gitkeep
+
+# Logs
+logs/
+*.log

@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-08-14T16:17:08.979Z",
+  "extractedFolderExists": true,
+  "totalSourceAssets": 208,
+  "classified": {
+    "tile-pattern": 69,
+    "tile-mould": 0,
+    "room-photo": 67,
+    "installation-photo": 66,
+    "logo": 2,
+    "color-sample": 4,
+    "other": 0
+  },
+  "tilePatternCandidates": 69,
+  "editableSvgMoulds": 86,
+  "rasterOnlyPatterns": 45,
+  "rejectedRoomPhotos": 133,
+  "rejectedOther": 6,
+  "originalMoulds": 62,
+  "importedReferences": 69,
+  "catalogueSize": 131,
+  "excludedBlank": [
+    "1010 / uni.svg"
+  ]
+}

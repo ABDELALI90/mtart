@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="main" data-region-id="main" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 12 L114 72 L176 72 L126 108 L144 168 L100 132 L56 168 L74 108 L24 72 L86 72 Z" />
+</svg>

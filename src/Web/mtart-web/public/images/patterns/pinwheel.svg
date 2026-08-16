@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="bladeA" data-region-id="bladeA" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 100 L118 22 L82 22 Z" />
+  <path data-region="bladeB" data-region-id="bladeB" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 100 L178 82 L178 118 Z" />
+  <path data-region="bladeC" data-region-id="bladeC" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 100 L118 178 L82 178 Z" />
+  <path data-region="bladeD" data-region-id="bladeD" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 100 L22 118 L22 82 Z" />
+  <circle data-region="hub" data-region-id="hub" cx="100" cy="100" r="22" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="north" data-region-id="north" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 12 L118 88 L100 100 L82 88 Z" />
+  <path data-region="east" data-region-id="east" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M188 100 L112 118 L100 100 L112 82 Z" />
+  <path data-region="west" data-region-id="west" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M12 100 L88 82 L100 100 L88 118 Z" />
+  <path data-region="south" data-region-id="south" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 188 L82 112 L100 100 L118 112 Z" />
+  <circle data-region="center" data-region-id="center" cx="100" cy="100" r="16" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+</svg>

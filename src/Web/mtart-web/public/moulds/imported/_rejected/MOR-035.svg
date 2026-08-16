@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#666666" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="region-1" data-region-id="region-1" d="M6.67 0 L30 0 L32.22 6.67 L40 2.22 L48.89 5.56 L42.22 15.56 L18.89 13.33 L7.78 24.44 L11.11 36.67 L5.56 35.56 L0 45.56 L0 6.67 L6.67 1.11 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+  <path data-region="region-1" data-region-id="region-1" d="M165.56 0 L198.89 0 L198.89 56.67 L193.33 45.56 L184.44 46.67 L172.22 40 L187.78 41.11 L191.11 37.78 L190 27.78 L187.78 15.56 L167.78 6.67 L165.56 1.11 Z" fill="#ffffff" stroke="#666666" stroke-width="1.5" stroke-linejoin="round" vector-effect="non-scaling-stroke" />
+</svg>

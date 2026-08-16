@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <polygon data-region="light" data-region-id="light" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" points="100,10 190,60 100,110 10,60" />
+  <polygon data-region="mid" data-region-id="mid" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" points="10,60 100,110 100,190 10,140" />
+  <polygon data-region="dark" data-region-id="dark" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" points="190,60 100,110 100,190 190,140" />
+</svg>

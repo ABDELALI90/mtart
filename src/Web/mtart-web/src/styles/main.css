@@ -1,0 +1,275 @@
+@import 'tailwindcss';
+
+/*
+ * Theme-aware tokens. Light/dark values are switched via [data-theme] so existing
+ * ivory/charcoal utilities follow the MUI palette. Tile canvases keep true white.
+ */
+:root,
+[data-theme='light'] {
+  --mtart-bg: #faf9f6;
+  --mtart-paper: #ffffff;
+  --mtart-text: #171717;
+  --mtart-text-muted: #666666;
+  --mtart-border: #d8d5cf;
+  --mtart-action: #111111;
+  --mtart-action-text: #ffffff;
+  --mtart-surface-2: #ffffff;
+  --mtart-cinema: #111111;
+  --mtart-cinema-fg: #ffffff;
+}
+
+[data-theme='dark'] {
+  --mtart-bg: #111111;
+  --mtart-paper: #191919;
+  --mtart-text: #ffffff;
+  --mtart-text-muted: #b5b5b5;
+  --mtart-border: #3a3a3a;
+  --mtart-action: #ffffff;
+  --mtart-action-text: #111111;
+  --mtart-surface-2: #222222;
+  --mtart-cinema: #111111;
+  --mtart-cinema-fg: #ffffff;
+}
+
+@theme {
+  --color-ivory: var(--mtart-bg);
+  --color-ivory-dark: var(--mtart-paper);
+  --color-sand: var(--mtart-border);
+  --color-stone: var(--mtart-text-muted);
+  --color-charcoal: var(--mtart-text);
+  --color-charcoal-soft: var(--mtart-text-muted);
+  --color-petrol: var(--mtart-action);
+  --color-petrol-light: var(--mtart-text-muted);
+  --color-terracotta: var(--mtart-text-muted);
+  --color-terracotta-light: var(--mtart-text-muted);
+  --color-olive: var(--mtart-text-muted);
+  --color-action: var(--mtart-action);
+  --color-action-text: var(--mtart-action-text);
+  --color-cinema: var(--mtart-cinema);
+  --color-cinema-fg: var(--mtart-cinema-fg);
+
+  --font-display: ui-serif, Georgia, Cambria, 'Times New Roman', serif;
+  --font-body: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial,
+    sans-serif;
+
+  --container-content: 1440px;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  html[dir='rtl'] {
+    letter-spacing: 0;
+  }
+
+  body {
+    background-color: var(--mtart-bg);
+    color: var(--mtart-text);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--mtart-text);
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background-color: var(--mtart-action);
+    color: var(--mtart-action-text);
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .container-mtart {
+    width: 100%;
+    max-width: var(--container-content);
+    margin-inline: auto;
+    padding-inline: 1.25rem;
+  }
+
+  @media (min-width: 600px) {
+    .container-mtart {
+      padding-inline: 1.5rem;
+    }
+  }
+
+  @media (min-width: 900px) {
+    .container-mtart {
+      padding-inline: 2rem;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .container-mtart {
+      padding-inline: 3rem;
+    }
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .mtart-card {
+    transition: box-shadow 200ms ease;
+  }
+
+  .mtart-card:hover {
+    box-shadow: 0 8px 24px color-mix(in srgb, var(--mtart-text) 8%, transparent);
+  }
+
+  .mtart-media-card {
+    position: relative;
+    z-index: 0;
+  }
+
+  .mtart-media-card .mtart-card-media {
+    overflow: hidden;
+  }
+
+  .mtart-media-card .mtart-card-media img {
+    transform: scale(1);
+    transform-origin: center;
+    backface-visibility: hidden;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .mtart-media-card {
+      transition: transform 300ms ease, box-shadow 300ms ease;
+    }
+
+    .mtart-media-card .mtart-card-media img {
+      transition: transform 320ms ease;
+    }
+
+    .mtart-media-card:hover {
+      z-index: 5;
+      transform: translateY(-6px);
+      box-shadow: 0 18px 40px color-mix(in srgb, var(--mtart-text) 16%, transparent);
+    }
+
+    .mtart-media-card:hover .mtart-card-media img {
+      transform: scale(1.06);
+    }
+  }
+
+  .mtart-page-enter {
+    animation: mtart-fade-up 280ms ease both;
+  }
+
+  .mould-svg-host svg {
+    overflow: visible;
+    background: #ffffff;
+  }
+
+  .mould-svg-host svg path,
+  .mould-svg-host svg polygon,
+  .mould-svg-host svg rect,
+  .mould-svg-host svg circle,
+  .mould-svg-host svg ellipse {
+    vector-effect: non-scaling-stroke;
+  }
+
+  .mould-svg-host #tracing,
+  .mould-svg-host .mould-outlines {
+    pointer-events: none;
+  }
+
+  .mould-svg-host #color-regions [data-region] {
+    cursor: pointer;
+  }
+
+  .mould-svg-host [data-selected='true'] {
+    filter: drop-shadow(0 0 1.5px rgba(17, 17, 17, 0.85)) drop-shadow(0 0 5px rgba(17, 17, 17, 0.25));
+  }
+
+  .region-color-popover .react-colorful {
+    height: 132px;
+  }
+
+  .region-color-popover.advanced-color-picker .react-colorful {
+    height: 132px;
+  }
+
+  .advanced-color-picker .react-colorful {
+    width: 100%;
+    height: 178px;
+  }
+
+  .advanced-color-picker .react-colorful__saturation {
+    border-radius: 2px;
+    border: none;
+  }
+
+  .advanced-color-picker .react-colorful__hue {
+    height: 14px;
+    margin-top: 10px;
+    border-radius: 999px;
+  }
+
+  .advanced-color-picker .react-colorful__pointer {
+    width: 16px;
+    height: 16px;
+  }
+
+  .advanced-color-picker__brightness::-webkit-slider-thumb {
+    appearance: none;
+    width: 14px;
+    height: 14px;
+    border-radius: 999px;
+    background: #fff;
+    border: 2px solid var(--mtart-text);
+    cursor: pointer;
+  }
+
+  .advanced-color-picker__brightness::-moz-range-thumb {
+    width: 14px;
+    height: 14px;
+    border-radius: 999px;
+    background: #fff;
+    border: 2px solid var(--mtart-text);
+    cursor: pointer;
+  }
+
+  .mtart-photo-scrim {
+    background: rgba(17, 17, 17, 0.5);
+  }
+
+  .room-scene__wall {
+    background: linear-gradient(to bottom, #f7f1e8 0%, #eadfcf 100%);
+  }
+
+  .room-scene__junction {
+    height: 10px;
+    background: linear-gradient(to bottom, rgba(70, 58, 42, 0.22), transparent);
+  }
+}
+
+@keyframes mtart-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

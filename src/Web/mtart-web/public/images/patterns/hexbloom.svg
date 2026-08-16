@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="xMidYMid meet">
+  <rect data-region="background" data-region-id="background" x="0" y="0" width="200" height="200" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+  <path data-region="hex" data-region-id="hex" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 18 L166 56 L166 144 L100 182 L34 144 L34 56 Z" />
+  <path data-region="flower" data-region-id="flower" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" d="M100 48 L118 82 L156 88 L128 114 L136 152 L100 132 L64 152 L72 114 L44 88 L82 82 Z" />
+  <circle data-region="center" data-region-id="center" cx="100" cy="100" r="16" fill="#ffffff" stroke="#777777" stroke-width="1.5" vector-effect="non-scaling-stroke" />
+</svg>

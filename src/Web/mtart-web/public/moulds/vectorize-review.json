@@ -1,0 +1,1980 @@
+{
+  "generatedAt": "2026-08-14T20:12:03.553104+00:00",
+  "publishThreshold": 0.8,
+  "archivedOldTraces": 0,
+  "published": 2,
+  "rejected": 67,
+  "items": [
+    {
+      "reference": "MOR-001",
+      "source_image": "/import/extracted/images/p004-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.238,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-001-crop.png",
+      "preview_url": "/moulds/review/MOR-001-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-002",
+      "source_image": "/import/extracted/images/p006-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.461,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-002-crop.png",
+      "preview_url": "/moulds/review/MOR-002-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-003",
+      "source_image": "/import/extracted/images/p009-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.49,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-003-crop.png",
+      "preview_url": "/moulds/review/MOR-003-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "2x2",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-004",
+      "source_image": "/import/extracted/images/p010-i1.jpeg",
+      "status": "editable-svg",
+      "confidence": 0.852,
+      "iou": 0.497,
+      "svg_url": "/moulds/moroccan/MOR-004.svg",
+      "crop_url": "/moulds/review/MOR-004-crop.png",
+      "preview_url": "/moulds/review/MOR-004-mould.png",
+      "reason": null,
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": true
+    },
+    {
+      "reference": "MOR-005",
+      "source_image": "/import/extracted/images/p013-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.125,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-005-crop.png",
+      "preview_url": "/moulds/review/MOR-005-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "2x2",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-006",
+      "source_image": "/import/extracted/images/p014-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.457,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-006-crop.png",
+      "preview_url": "/moulds/review/MOR-006-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-007",
+      "source_image": "/import/extracted/images/p015-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.007,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-007-crop.png",
+      "preview_url": "/moulds/review/MOR-007-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-008",
+      "source_image": "/import/extracted/images/p016-i1.jpeg",
+      "status": "photo-only",
+      "confidence": 0.0,
+      "iou": 0.0,
+      "svg_url": null,
+      "crop_url": null,
+      "preview_url": null,
+      "reason": "not-front-facing",
+      "regions": [],
+      "repeat_unit": "1x1",
+      "region_count": 0,
+      "published": false
+    },
+    {
+      "reference": "MOR-009",
+      "source_image": "/import/extracted/images/p019-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.15,
+      "iou": 0.0,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-009-crop.png",
+      "preview_url": null,
+      "reason": "no-closed-regions",
+      "regions": [],
+      "repeat_unit": "1x1",
+      "region_count": 0,
+      "published": false
+    },
+    {
+      "reference": "MOR-010",
+      "source_image": "/import/extracted/images/p021-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.15,
+      "iou": 0.0,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-010-crop.png",
+      "preview_url": null,
+      "reason": "no-closed-regions",
+      "regions": [],
+      "repeat_unit": "2x2",
+      "region_count": 0,
+      "published": false
+    },
+    {
+      "reference": "MOR-011",
+      "source_image": "/import/extracted/images/p022-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.424,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-011-crop.png",
+      "preview_url": "/moulds/review/MOR-011-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-012",
+      "source_image": "/import/extracted/images/p023-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.001,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-012-crop.png",
+      "preview_url": "/moulds/review/MOR-012-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "2x2",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-013",
+      "source_image": "/import/extracted/images/p024-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.698,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-013-crop.png",
+      "preview_url": "/moulds/review/MOR-013-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-014",
+      "source_image": "/import/extracted/images/p025-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.548,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-014-crop.png",
+      "preview_url": "/moulds/review/MOR-014-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-015",
+      "source_image": "/import/extracted/images/p026-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.412,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-015-crop.png",
+      "preview_url": "/moulds/review/MOR-015-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-016",
+      "source_image": "/import/extracted/images/p027-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.002,
+      "iou": 0.002,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-016-crop.png",
+      "preview_url": "/moulds/review/MOR-016-mould.png",
+      "reason": "low-source-similarity",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "2x2",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-017",
+      "source_image": "/import/extracted/images/p028-i1.jpeg",
+      "status": "editable-svg",
+      "confidence": 0.937,
+      "iou": 0.893,
+      "svg_url": "/moulds/moroccan/MOR-017.svg",
+      "crop_url": "/moulds/review/MOR-017-crop.png",
+      "preview_url": "/moulds/review/MOR-017-mould.png",
+      "reason": null,
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": true
+    },
+    {
+      "reference": "MOR-018",
+      "source_image": "/import/extracted/images/p029-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.572,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-018-crop.png",
+      "preview_url": "/moulds/review/MOR-018-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-019",
+      "source_image": "/import/extracted/images/p030-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.225,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-019-crop.png",
+      "preview_url": "/moulds/review/MOR-019-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-020",
+      "source_image": "/import/extracted/images/p031-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.685,
+      "iou": 0.466,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-020-crop.png",
+      "preview_url": "/moulds/review/MOR-020-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-021",
+      "source_image": "/import/extracted/images/p032-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.719,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-021-crop.png",
+      "preview_url": "/moulds/review/MOR-021-mould.png",
+      "reason": "unextracted-grid",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-022",
+      "source_image": "/import/extracted/images/p033-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.308,
+      "iou": 0.308,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-022-crop.png",
+      "preview_url": "/moulds/review/MOR-022-mould.png",
+      "reason": "low-source-similarity",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-023",
+      "source_image": "/import/extracted/images/p034-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.409,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-023-crop.png",
+      "preview_url": "/moulds/review/MOR-023-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-024",
+      "source_image": "/import/extracted/images/p035-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.368,
+      "iou": 0.368,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-024-crop.png",
+      "preview_url": "/moulds/review/MOR-024-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-025",
+      "source_image": "/import/extracted/images/p036-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.357,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-025-crop.png",
+      "preview_url": "/moulds/review/MOR-025-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-026",
+      "source_image": "/import/extracted/images/p037-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.86,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-026-crop.png",
+      "preview_url": "/moulds/review/MOR-026-mould.png",
+      "reason": "visual-reject",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-027",
+      "source_image": "/import/extracted/images/p038-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.245,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-027-crop.png",
+      "preview_url": "/moulds/review/MOR-027-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-028",
+      "source_image": "/import/extracted/images/p039-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.328,
+      "iou": 0.328,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-028-crop.png",
+      "preview_url": "/moulds/review/MOR-028-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-029",
+      "source_image": "/import/extracted/images/p040-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.714,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-029-crop.png",
+      "preview_url": "/moulds/review/MOR-029-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-030",
+      "source_image": "/import/extracted/images/p041-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.114,
+      "iou": 0.114,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-030-crop.png",
+      "preview_url": "/moulds/review/MOR-030-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-031",
+      "source_image": "/import/extracted/images/p043-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.093,
+      "iou": 0.093,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-031-crop.png",
+      "preview_url": "/moulds/review/MOR-031-mould.png",
+      "reason": "low-source-similarity",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-032",
+      "source_image": "/import/extracted/images/p046-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.316,
+      "iou": 0.316,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-032-crop.png",
+      "preview_url": "/moulds/review/MOR-032-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-033",
+      "source_image": "/import/extracted/images/p047-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.513,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-033-crop.png",
+      "preview_url": "/moulds/review/MOR-033-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-034",
+      "source_image": "/import/extracted/images/p048-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.785,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-034-crop.png",
+      "preview_url": "/moulds/review/MOR-034-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-035",
+      "source_image": "/import/extracted/images/p055-i1.jpeg",
+      "status": "photo-only",
+      "confidence": 0.0,
+      "iou": 0.0,
+      "svg_url": null,
+      "crop_url": null,
+      "preview_url": null,
+      "reason": "not-front-facing",
+      "regions": [],
+      "repeat_unit": "1x1",
+      "region_count": 0,
+      "published": false
+    },
+    {
+      "reference": "MOR-036",
+      "source_image": "/import/extracted/images/p056-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.671,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-036-crop.png",
+      "preview_url": "/moulds/review/MOR-036-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-037",
+      "source_image": "/import/extracted/images/p060-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.717,
+      "iou": 0.594,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-037-crop.png",
+      "preview_url": "/moulds/review/MOR-037-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-038",
+      "source_image": "/import/extracted/images/p063-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.677,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-038-crop.png",
+      "preview_url": "/moulds/review/MOR-038-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-039",
+      "source_image": "/import/extracted/images/p071-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.633,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-039-crop.png",
+      "preview_url": "/moulds/review/MOR-039-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-040",
+      "source_image": "/import/extracted/images/p072-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.712,
+      "iou": 0.411,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-040-crop.png",
+      "preview_url": "/moulds/review/MOR-040-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-041",
+      "source_image": "/import/extracted/images/p074-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.782,
+      "iou": 0.731,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-041-crop.png",
+      "preview_url": "/moulds/review/MOR-041-mould.png",
+      "reason": "below-publish-threshold",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-042",
+      "source_image": "/import/extracted/images/p085-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.222,
+      "iou": 0.222,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-042-crop.png",
+      "preview_url": "/moulds/review/MOR-042-mould.png",
+      "reason": "scattered-tiles",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-043",
+      "source_image": "/import/extracted/images/p098-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.812,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-043-crop.png",
+      "preview_url": "/moulds/review/MOR-043-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-044",
+      "source_image": "/import/extracted/images/p108-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.661,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-044-crop.png",
+      "preview_url": "/moulds/review/MOR-044-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-045",
+      "source_image": "/import/extracted/images/p111-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.598,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-045-crop.png",
+      "preview_url": "/moulds/review/MOR-045-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-046",
+      "source_image": "/import/extracted/images/p125-i1.jpeg",
+      "status": "photo-only",
+      "confidence": 0.0,
+      "iou": 0.0,
+      "svg_url": null,
+      "crop_url": null,
+      "preview_url": null,
+      "reason": "not-front-facing",
+      "regions": [],
+      "repeat_unit": "1x1",
+      "region_count": 0,
+      "published": false
+    },
+    {
+      "reference": "MOR-047",
+      "source_image": "/import/extracted/images/p128-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.754,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-047-crop.png",
+      "preview_url": "/moulds/review/MOR-047-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-048",
+      "source_image": "/import/extracted/images/p131-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.651,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-048-crop.png",
+      "preview_url": "/moulds/review/MOR-048-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-049",
+      "source_image": "/import/extracted/images/p136-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.763,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-049-crop.png",
+      "preview_url": "/moulds/review/MOR-049-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-050",
+      "source_image": "/import/extracted/images/p139-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.739,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-050-crop.png",
+      "preview_url": "/moulds/review/MOR-050-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-051",
+      "source_image": "/import/extracted/images/p156-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.667,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-051-crop.png",
+      "preview_url": "/moulds/review/MOR-051-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-052",
+      "source_image": "/import/extracted/images/p158-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.782,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-052-crop.png",
+      "preview_url": "/moulds/review/MOR-052-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-053",
+      "source_image": "/import/extracted/images/p159-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.611,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-053-crop.png",
+      "preview_url": "/moulds/review/MOR-053-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-054",
+      "source_image": "/import/extracted/images/p167-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.28,
+      "iou": 0.28,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-054-crop.png",
+      "preview_url": "/moulds/review/MOR-054-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-055",
+      "source_image": "/import/extracted/images/p168-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.716,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-055-crop.png",
+      "preview_url": "/moulds/review/MOR-055-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-056",
+      "source_image": "/import/extracted/images/p169-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.181,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-056-crop.png",
+      "preview_url": "/moulds/review/MOR-056-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-057",
+      "source_image": "/import/extracted/images/p178-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.523,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-057-crop.png",
+      "preview_url": "/moulds/review/MOR-057-mould.png",
+      "reason": "too-many-fragments",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-058",
+      "source_image": "/import/extracted/images/p179-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.507,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-058-crop.png",
+      "preview_url": "/moulds/review/MOR-058-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-059",
+      "source_image": "/import/extracted/images/p180-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.797,
+      "iou": 0.614,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-059-crop.png",
+      "preview_url": "/moulds/review/MOR-059-mould.png",
+      "reason": "below-publish-threshold",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 2,
+      "published": false
+    },
+    {
+      "reference": "MOR-060",
+      "source_image": "/import/extracted/images/p182-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.544,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-060-crop.png",
+      "preview_url": "/moulds/review/MOR-060-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-061",
+      "source_image": "/import/extracted/images/p186-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.72,
+      "iou": 0.387,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-061-crop.png",
+      "preview_url": "/moulds/review/MOR-061-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-062",
+      "source_image": "/import/extracted/images/p187-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.43,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-062-crop.png",
+      "preview_url": "/moulds/review/MOR-062-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-063",
+      "source_image": "/import/extracted/images/p189-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.837,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-063-crop.png",
+      "preview_url": "/moulds/review/MOR-063-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-064",
+      "source_image": "/import/extracted/images/p194-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.44,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-064-crop.png",
+      "preview_url": "/moulds/review/MOR-064-mould.png",
+      "reason": "overlapping-regions",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-065",
+      "source_image": "/import/extracted/images/p195-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.321,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-065-crop.png",
+      "preview_url": "/moulds/review/MOR-065-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-066",
+      "source_image": "/import/extracted/images/p197-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.672,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-066-crop.png",
+      "preview_url": "/moulds/review/MOR-066-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        },
+        {
+          "key": "region-4",
+          "name": "Area 4"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 5,
+      "published": false
+    },
+    {
+      "reference": "MOR-067",
+      "source_image": "/import/extracted/images/p200-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.024,
+      "iou": 0.024,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-067-crop.png",
+      "preview_url": "/moulds/review/MOR-067-mould.png",
+      "reason": "asymmetric-geometry",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 3,
+      "published": false
+    },
+    {
+      "reference": "MOR-068",
+      "source_image": "/import/extracted/images/p203-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.842,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-068-crop.png",
+      "preview_url": "/moulds/review/MOR-068-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "1x1",
+      "region_count": 4,
+      "published": false
+    },
+    {
+      "reference": "MOR-069",
+      "source_image": "/import/extracted/images/p204-i1.jpeg",
+      "status": "needs-manual-vectorization",
+      "confidence": 0.25,
+      "iou": 0.056,
+      "svg_url": null,
+      "crop_url": "/moulds/review/MOR-069-crop.png",
+      "preview_url": "/moulds/review/MOR-069-mould.png",
+      "reason": "too-many-shapes",
+      "regions": [
+        {
+          "key": "background",
+          "name": "Background"
+        },
+        {
+          "key": "region-1",
+          "name": "Area 1"
+        },
+        {
+          "key": "region-2",
+          "name": "Area 2"
+        },
+        {
+          "key": "region-3",
+          "name": "Area 3"
+        }
+      ],
+      "repeat_unit": "3x3",
+      "region_count": 4,
+      "published": false
+    }
+  ]
+}

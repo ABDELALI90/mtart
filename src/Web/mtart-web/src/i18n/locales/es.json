@@ -1,0 +1,924 @@
+{
+  "nav": {
+    "products": "Productos",
+    "collections": "Colecciones",
+    "colors": "Colores",
+    "projects": "Proyectos",
+    "craftsmanship": "Artesanía",
+    "professionals": "Profesionales",
+    "about": "Nosotros",
+    "catalog": "Catálogo",
+    "requestQuote": "Solicitar presupuesto",
+    "search": "Buscar",
+    "contact": "Contacto",
+    "cementTiles": "Baldosas de cemento",
+    "simulator": "Simulador",
+    "ourCraft": "Nuestro oficio"
+  },
+  "theme": {
+    "toggle": "Cambiar el tema",
+    "light": "Modo claro",
+    "dark": "Modo oscuro"
+  },
+  "megaMenu": {
+    "zellige": "Zellige",
+    "zellige10x10": "10 x 10",
+    "zellige5x5": "5 x 5",
+    "bejmat": "Bjmat",
+    "mosaic": "Mosaico",
+    "specialShapes": "Formas especiales",
+    "cementTiles": "Baldosas de cemento",
+    "patterned": "Estampadas",
+    "plain": "Lisas",
+    "borders": "Cenefas",
+    "custom": "Personalizadas",
+    "terracotta": "Terracota",
+    "square": "Cuadrado",
+    "rectangle": "Rectángulo",
+    "simulator": "Simulador",
+    "colors": "Colores",
+    "formats": "Formatos",
+    "collections": "Colecciones",
+    "projects": "Proyectos",
+    "productsItem": "Productos",
+    "models": "Modelos",
+    "stock": "Stock"
+  },
+  "footer": {
+    "productsHeading": "Productos",
+    "companyHeading": "Empresa",
+    "professionalsHeading": "Profesionales",
+    "supportHeading": "Soporte",
+    "about": "Nosotros",
+    "craftsmanship": "Artesanía",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "architects": "Arquitectos",
+    "designers": "Diseñadores",
+    "customProjects": "Proyectos personalizados",
+    "requestSamples": "Solicitar muestras",
+    "catalog": "Catálogo",
+    "faq": "Preguntas frecuentes",
+    "shipping": "Envío",
+    "maintenance": "Mantenimiento",
+    "rights": "Todos los derechos reservados.",
+    "madeIn": "Hecho a mano en Marruecos.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "MT ART",
+      "title": "Superficies Marroquíes Artesanales",
+      "subtitle": "Creadas para la Arquitectura y el Diseño",
+      "ctaPrimary": "Explorar colecciones",
+      "ctaSecondary": "Solicitar presupuesto",
+      "scrollHint": "Desplázate"
+    },
+    "families": {
+      "heading": "Descubra nuestros materiales",
+      "subheading": "Cuatro tradiciones del azulejo marroquí, moldeadas enteramente a mano.",
+      "zellige": "Zellige",
+      "zelligeDescription": "Mosaico de terracota esmaltada, cortado y colocado a mano.",
+      "bejmat": "Bejmat",
+      "bejmatDescription": "Baldosas de terracota alargadas para suelos cálidos y texturizados.",
+      "cement": "Baldosas de cemento",
+      "cementDescription": "Patrones prensados con pigmento, en combinaciones infinitas.",
+      "terracotta": "Terracota",
+      "terracottaDescription": "Arcilla cruda secada al sol, de carácter atemporal.",
+      "cta": "Descubrir"
+    },
+    "craftsmanship": {
+      "heading": "Hecho a mano en Marruecos",
+      "body": "Cada pieza MT ART pasa por las manos de artesanos marroquíes, utilizando técnicas transmitidas de generación en generación — desde el Zellige cortado a mano hasta las baldosas de cemento prensadas a mano. Dos piezas nunca son exactamente iguales, y eso es precisamente lo que las hace valiosas.",
+      "cta": "Descubra nuestra artesanía"
+    },
+    "ourCraft": {
+      "eyebrow": "Nuestro oficio",
+      "title": "Cómo fabricamos nuestros azulejos de cemento",
+      "cta": "Descubrir nuestro oficio"
+    },
+    "collections": {
+      "heading": "Colecciones destacadas",
+      "subheading": "Paletas y patrones seleccionados, listos para especificar.",
+      "viewAll": "Ver todas las colecciones",
+      "unavailable": "No se pueden cargar las colecciones en este momento.",
+      "retry": "Reintentar"
+    },
+    "colorStory": {
+      "heading": "Una historia contada en color",
+      "subheading": "Cada muestra es una baldosa real, fotografiada — el color artesanal no puede reducirse a un código hexadecimal.",
+      "viewAll": "Ver todos los colores",
+      "unavailable": "No se pueden cargar los colores en este momento.",
+      "retry": "Reintentar"
+    },
+    "featuredProducts": {
+      "heading": "Productos destacados",
+      "subheading": "Un vistazo más de cerca a algunas de nuestras piezas más solicitadas.",
+      "viewAll": "Ver todos los productos",
+      "unavailable": "No se pueden cargar los productos en este momento.",
+      "retry": "Reintentar"
+    },
+    "projects": {
+      "heading": "Espacios moldeados por la artesanía",
+      "subheading": "Materiales MT ART en cocinas, baños, hoteles y restaurantes de todo el mundo.",
+      "kitchen": "Cocina",
+      "bathroom": "Baño",
+      "hotel": "Hotel",
+      "restaurant": "Restaurante",
+      "pool": "Piscina",
+      "residential": "Residencial",
+      "commercial": "Comercial",
+      "viewAll": "Ver todos los proyectos"
+    },
+    "madeInMorocco": {
+      "heading": "Hecho en Marruecos",
+      "body": "Desde la arcilla de Fez hasta los talleres de nuestros artesanos, cada baldosa MT ART comienza y termina su viaje en Marruecos — moldeada por siglos de artesanía, y acabada para las exigencias de la arquitectura contemporánea."
+    },
+    "professionals": {
+      "heading": "Para profesionales",
+      "body": "Fichas técnicas, muestras reales, producción por volumen y logística de exportación para arquitectos, diseñadores de interiores, hoteles, restaurantes y distribuidores de todo el mundo.",
+      "cta": "Iniciar un proyecto"
+    },
+    "catalogCta": {
+      "heading": "Descubra la colección MT ART",
+      "body": "Explore nuestra gama completa en línea, o descargue el catálogo en PDF para compartirlo con su equipo o cliente.",
+      "viewCatalog": "Ver catálogo",
+      "downloadPdf": "Descargar PDF"
+    },
+    "finalCta": {
+      "heading": "¿Está planeando un proyecto?",
+      "body": "Cuéntenos sobre su proyecto y nuestro equipo le ayudará a elegir el material, color y formato adecuados.",
+      "cta": "Solicitar presupuesto"
+    }
+  },
+  "common": {
+    "loading": "Cargando…",
+    "errorTitle": "Algo salió mal",
+    "errorGeneric": "No se puede cargar este contenido en este momento.",
+    "retry": "Reintentar",
+    "noResults": "No se encontraron resultados.",
+    "new": "Nuevo",
+    "featured": "Destacado",
+    "customizable": "Personalizable",
+    "inStock": "En stock",
+    "lowStock": "Stock limitado",
+    "madeToOrder": "Por encargo",
+    "contactUs": "Contáctenos",
+    "reference": "Referencia",
+    "readMore": "Leer más",
+    "backToHome": "Volver al inicio",
+    "requestQuote": "Solicitar presupuesto",
+    "requestSample": "Solicitar muestra",
+    "language": "Idioma",
+    "view": "Ver",
+    "customize": "Personalizar"
+  },
+  "products": {
+    "title": "Productos",
+    "filters": {
+      "title": "Filtros",
+      "category": "Categoría",
+      "collection": "Colección",
+      "color": "Color",
+      "format": "Formato",
+      "finish": "Acabado",
+      "stock": "Stock",
+      "customizable": "Solo personalizables",
+      "inStockOnly": "Solo en stock",
+      "clear": "Borrar filtros",
+      "apply": "Aplicar filtros",
+      "sortBy": "Ordenar por",
+      "sortFeatured": "Destacados",
+      "sortNewest": "Novedades",
+      "sortReference": "Referencia A-Z"
+    },
+    "resultsCount": "{{count}} productos",
+    "unavailable": "No se pueden cargar los productos en este momento.",
+    "noResults": "Ningún producto coincide con sus filtros.",
+    "clearFilters": "Borrar todos los filtros"
+  },
+  "productDetail": {
+    "description": "Descripción",
+    "availableColors": "Colores disponibles",
+    "availableFormats": "Formatos disponibles",
+    "technicalInformation": "Información técnica",
+    "craftsmanship": "Artesanía",
+    "installation": "Instalación",
+    "maintenance": "Mantenimiento",
+    "relatedProducts": "Productos relacionados",
+    "collection": "Colección",
+    "category": "Categoría",
+    "format": "Formato",
+    "finish": "Acabado",
+    "thickness": "Espesor",
+    "unitsPerM2": "Unidades / m²",
+    "weightPerM2": "Peso / m²",
+    "stock": "Stock",
+    "downloadTechnicalSheet": "Descargar ficha técnica",
+    "share": "Compartir",
+    "naturalVariation": "Variación natural",
+    "naturalVariationBody": "Al ser cada pieza hecha a mano, las variaciones naturales de color, textura, esmalte y bordes son inherentes al material y no se consideran defectos.",
+    "notFound": "No pudimos encontrar ese producto.",
+    "backToProducts": "Volver a productos"
+  },
+  "collections": {
+    "title": "Colecciones",
+    "unavailable": "No se pueden cargar las colecciones en este momento.",
+    "notFound": "No pudimos encontrar esa colección.",
+    "products": "Productos de esta colección",
+    "viewCollection": "Ver colección",
+    "productCount": "{{count}} productos"
+  },
+  "colors": {
+    "title": "Colores",
+    "subtitle": "Cada tono a continuación es una baldosa artesanal real, fotografiada. Los colores en pantalla pueden variar ligeramente respecto al material físico.",
+    "search": "Buscar por referencia",
+    "madeToOrder": "Bajo petición",
+    "zelligeTitle": "Colores zellige",
+    "zelligeSubtitle": "Terracota esmaltada a mano. Cada muestra fotografiada muestra la variación natural del horno.",
+    "cementTitle": "Colores de baldosa de cemento",
+    "cementSubtitle": "Pigmentos minerales prensados en cemento blanco. Más uniformes y mates que el zellige.",
+    "bjmatTitle": "Colores Bjmat",
+    "bjmatSubtitle": "Muestras Bjmat fotografiadas en el taller MT ART.",
+    "family": "Familia de color",
+    "allFamilies": "Todos los colores",
+    "unavailable": "No se pueden cargar los colores en este momento.",
+    "families": {
+      "White": "Blanco",
+      "Beige": "Beige",
+      "Yellow": "Amarillo",
+      "Orange": "Naranja",
+      "Red": "Rojo",
+      "Pink": "Rosa",
+      "Green": "Verde",
+      "Blue": "Azul",
+      "Brown": "Marrón",
+      "Grey": "Gris",
+      "Black": "Negro",
+      "Metallic": "Metálico",
+      "Cream": "Crema",
+      "Purple": "Morado",
+      "Turquoise": "Turquesa",
+      "Terracotta": "Terracota",
+      "Special": "Especial"
+    },
+    "tabs": {
+      "all": "Todos",
+      "zellige": "Colores zellige",
+      "cement": "Colores baldosa de cemento",
+      "terracotta": "Colores terracota",
+      "bjmat": "Colores Bjmat"
+    },
+    "materials": {
+      "Universal": "Universal",
+      "Zellige": "Zellige",
+      "CementTile": "Baldosa de cemento",
+      "Terracotta": "Terracota",
+      "Bejmat": "Bejmat"
+    },
+    "related": "Colores relacionados",
+    "naturalVariation": "Los esmaltes y pigmentos artesanales varían de una pieza a otra. La fotografía es la muestra real; el valor hexadecimal es solo una aproximación en pantalla.",
+    "viewProducts": "Ver productos",
+    "matchingProducts": "Productos combinados"
+  },
+  "projectsPage": {
+    "title": "Proyectos",
+    "subtitle": "Un archivo creciente de espacios construidos con materiales MT ART.",
+    "comingSoon": "Nuestra galería de proyectos completa está en preparación. Mientras tanto, contáctenos para ver ejemplos relevantes para su proyecto."
+  },
+  "craftsmanshipPage": {
+    "title": "Artesanía",
+    "subtitle": "Nueve pasos, una sola filosofía: todo a mano.",
+    "steps": {
+      "1": {
+        "title": "Preparación de arcilla y cemento",
+        "body": "Las materias primas se seleccionan y preparan con técnicas perfeccionadas a lo largo de generaciones."
+      },
+      "2": {
+        "title": "Modelado",
+        "body": "Cada baldosa se moldea a mano o con prensa guiada manualmente, pieza por pieza."
+      },
+      "3": {
+        "title": "Secado",
+        "body": "Las piezas se secan lenta y naturalmente antes de la cocción o el curado."
+      },
+      "4": {
+        "title": "Esmaltado y pigmentación",
+        "body": "El color se aplica a mano — esmalte para el Zellige, pigmento para las baldosas de cemento."
+      },
+      "5": {
+        "title": "Horno / Prensa hidráulica",
+        "body": "Hornos tradicionales y prensas hidráulicas dan a cada material su resistencia final."
+      },
+      "6": {
+        "title": "Corte a mano",
+        "body": "El Zellige se cincela a mano, pieza por pieza."
+      },
+      "7": {
+        "title": "Control de calidad",
+        "body": "Cada lote se inspecciona antes de salir del taller."
+      },
+      "8": {
+        "title": "Embalaje",
+        "body": "Las baldosas se embalan cuidadosamente para viajar de forma segura por todo el mundo."
+      },
+      "9": {
+        "title": "Envío internacional",
+        "body": "Desde nuestros talleres en Marruecos hasta proyectos en todos los continentes."
+      }
+    },
+    "cta": "Solicitar presupuesto"
+  },
+  "ourCraftPage": {
+    "title": "Cómo fabricamos nuestros azulejos de cemento",
+    "subtitle": "Hechos a mano en nuestra fábrica, una baldosa cada vez.",
+    "intro": "Cada azulejo de cemento se vierte, se prensa y se acaba a mano. Estas películas de nuestro taller siguen el proceso, del molde a la superficie terminada.",
+    "cta": "Solicitar presupuesto",
+    "steps": {
+      "1": {
+        "title": "Preparación del molde",
+        "body": "El marco metálico y el divisor del motivo se colocan en el banco, listos para recibir pigmento y cemento."
+      },
+      "2": {
+        "title": "Preparación de colores y pigmentos",
+        "body": "Los pigmentos minerales se mezclan con la pasta de cemento para que cada color del diseño se prepare a mano."
+      },
+      "3": {
+        "title": "Llenado del molde",
+        "body": "Cada compartimento del motivo se llena, color a color, con un pequeño embudo: aquí nace la cara del azulejo."
+      },
+      "4": {
+        "title": "Retirada del molde",
+        "body": "Cuando el motivo está completo, se levanta el divisor y el dibujo permanece intacto en el cemento fresco."
+      },
+      "5": {
+        "title": "Prensado del azulejo de cemento",
+        "body": "La baldosa se prensa para que la cara decorativa y el cuerpo de cemento formen una pieza densa y duradera."
+      },
+      "6": {
+        "title": "Acabado",
+        "body": "Cantos y superficies se revisan y se acaban en el taller antes de que termine el curado."
+      },
+      "7": {
+        "title": "Producto final",
+        "body": "Las baldosas terminadas —motivos, colores y cenefas— salen de la fábrica listas para arquitectura e interiores."
+      }
+    }
+  },
+  "professionalsPage": {
+    "title": "Para profesionales",
+    "subtitle": "Soporte técnico, muestras reales y logística de exportación para arquitectos, diseñadores y proyectos hoteleros.",
+    "audiences": {
+      "architects": "Arquitectos",
+      "designers": "Diseñadores de interiores",
+      "developers": "Promotores",
+      "hotels": "Hoteles",
+      "restaurants": "Restaurantes",
+      "distributors": "Distribuidores",
+      "importers": "Importadores",
+      "retailers": "Minoristas",
+      "contractors": "Contratistas"
+    },
+    "offer": {
+      "heading": "Lo que ofrecemos",
+      "technicalSheets": "Fichas técnicas",
+      "samples": "Muestras físicas",
+      "catalogs": "Catálogos digitales e impresos",
+      "quotation": "Presupuesto por proyecto",
+      "customProduction": "Producción personalizada",
+      "exportLogistics": "Logística de exportación",
+      "support": "Soporte profesional dedicado"
+    },
+    "cta": "Iniciar un proyecto"
+  },
+  "aboutPage": {
+    "title": "Sobre MT ART",
+    "subtitle": "Herencia marroquí, moldeada para la arquitectura contemporánea.",
+    "intro": "MT ART es un fabricante marroquí de Zellige, Bejmat, baldosas de cemento y terracota artesanales, que trabaja con arquitectos, diseñadores y distribuidores de todo el mundo.",
+    "heritage": {
+      "heading": "Herencia",
+      "body": "Arraigado en siglos de tradición marroquí del azulejo, transmitido por artesanos que aprendieron su oficio tal como siempre lo hicieron sus familias."
+    },
+    "factory": {
+      "heading": "Fábrica y taller",
+      "body": "Cada pieza se produce en nuestros propios talleres en Marruecos, bajo control de calidad directo, desde la materia prima hasta la baldosa terminada."
+    },
+    "export": {
+      "heading": "Alcance internacional",
+      "body": "MT ART envía a proyectos de arquitectura y diseño en todo el mundo, con el soporte técnico que esperan los clientes internacionales."
+    },
+    "catalog": {
+      "heading": "Catálogo",
+      "body": "Descubra la colección completa de MT ART.",
+      "preview": "Vista previa del catálogo",
+      "download": "Descargar PDF",
+      "cementName": "Catálogo de baldosas de cemento",
+      "close": "Cerrar"
+    },
+    "slider": {
+      "previous": "Imagen anterior",
+      "next": "Imagen siguiente",
+      "goTo": "Ir a la imagen {{index}}"
+    }
+  },
+  "catalogsPage": {
+    "title": "Catálogos",
+    "subtitle": "Descargue nuestros catálogos en PDF para explorar toda la gama MT ART sin conexión.",
+    "empty": "Los catálogos están en preparación y aparecerán aquí próximamente.",
+    "download": "Descargar",
+    "preview": "Vista previa",
+    "cement": "Catálogo de baldosas de cemento",
+    "pages": "páginas",
+    "cementBody": "El catálogo impreso MT ART de baldosas de cemento, también consultable en línea producto a producto. Descargue el PDF o explore modelos, colores y el simulador.",
+    "browse": "Explorar productos en línea"
+  },
+  "contactPage": {
+    "title": "Contacto",
+    "subtitle": "Nos encantaría saber más sobre su proyecto.",
+    "phone": "Teléfono",
+    "whatsapp": "WhatsApp",
+    "email": "Correo electrónico",
+    "address": "Fábrica y showroom",
+    "hours": "Horario de apertura",
+    "whatsappCta": "Escribir por WhatsApp",
+    "factoryMap": "Ubicación de la fábrica",
+    "openInMaps": "Abrir en Google Maps",
+    "getDirections": "Cómo llegar",
+    "shareLocation": "Compartir ubicación",
+    "locationCopied": "Enlace de ubicación copiado",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando…",
+      "success": "Su mensaje se envió correctamente.",
+      "error": "No se pudo enviar el mensaje. Inténtelo de nuevo.",
+      "validation": {
+        "name": "Introduzca su nombre completo.",
+        "email": "Introduzca un correo electrónico válido.",
+        "message": "Introduzca un mensaje."
+      }
+    }
+  },
+  "quote": {
+    "title": "Solicitar presupuesto",
+    "subtitle": "Cuéntenos sobre su proyecto y nuestro equipo le responderá con un presupuesto a medida.",
+    "sections": {
+      "contact": "Sus datos",
+      "project": "Su proyecto",
+      "product": "Producto de interés",
+      "message": "Mensaje"
+    },
+    "fields": {
+      "fullName": "Nombre completo",
+      "firstName": "Nombre",
+      "lastName": "Apellidos",
+      "company": "Empresa",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "whatsapp": "WhatsApp",
+      "country": "País",
+      "city": "Ciudad",
+      "customerType": "Tipo de cliente",
+      "projectType": "Tipo de proyecto",
+      "product": "Producto",
+      "reference": "Referencia",
+      "color": "Color",
+      "format": "Formato",
+      "quantityM2": "Cantidad / m²",
+      "message": "Mensaje / Detalles del proyecto"
+    },
+    "customerTypes": {
+      "private": "Cliente particular",
+      "architect": "Arquitecto",
+      "interiorDesigner": "Diseñador de interiores",
+      "distributor": "Distribuidor",
+      "retailer": "Minorista",
+      "hotel": "Hotel",
+      "restaurant": "Restaurante",
+      "contractor": "Contratista",
+      "other": "Otro"
+    },
+    "projectTypes": {
+      "residential": "Residencial",
+      "hotel": "Hotel",
+      "restaurant": "Restaurante",
+      "retail": "Comercio",
+      "pool": "Piscina",
+      "bathroom": "Baño",
+      "kitchen": "Cocina",
+      "exterior": "Exterior",
+      "commercial": "Comercial",
+      "other": "Otro"
+    },
+    "submit": "Enviar solicitud",
+    "submitting": "Enviando…",
+    "success": {
+      "heading": "Gracias — su solicitud ha sido recibida.",
+      "body": "Su número de referencia es {{reference}}. Nuestro equipo se pondrá en contacto con usted en breve.",
+      "backHome": "Volver al inicio"
+    },
+    "error": {
+      "heading": "No pudimos enviar su solicitud",
+      "notConnected": "El servicio de presupuestos aún no está conectado. Su información se ha conservado a continuación — inténtelo de nuevo en breve o contáctenos directamente.",
+      "generic": "Algo salió mal al enviar su solicitud. Por favor, inténtelo de nuevo."
+    },
+    "selectedProduct": {
+      "loadError": "No se pudo cargar el producto seleccionado. Vuelva atrás e inténtelo de nuevo."
+    },
+    "validation": {
+      "required": "Este campo es obligatorio.",
+      "email": "Introduzca una dirección de correo electrónico válida.",
+      "positiveNumber": "Introduzca un número positivo."
+    }
+  },
+  "requestQuoteCta": {
+    "prefill": "Hola MT ART, me gustaría información sobre:"
+  },
+  "notFound": {
+    "title": "La baldosa que busca puede haberse movido.",
+    "body": "Puede que se haya movido, renombrado, o nunca haya existido.",
+    "exploreZellige": "Explorar Zellige",
+    "exploreCement": "Explorar baldosas de cemento",
+    "backHome": "Volver al inicio"
+  },
+  "formatsPage": {
+    "title": "Formatos",
+    "subtitle": "Medidas, pesos y cobertura para especificar baldosas MT ART.",
+    "zelligeTitle": "Formatos zellige",
+    "cementTitle": "Formatos de baldosa de cemento",
+    "bjmatTitle": "Formatos Bjmat",
+    "format": "Formato",
+    "reference": "Referencia",
+    "dimensions": "Medidas",
+    "thickness": "Espesor",
+    "weightUnit": "Peso / unidad",
+    "units": "Unidades / m²",
+    "weightM2": "Peso / m²",
+    "shape": "Forma"
+  },
+  "cementTiles": {
+    "title": "Baldosas de cemento",
+    "subtitle": "Baldosas de cemento marroquíes prensadas a mano, como modelos de catálogo o patrones personalizables.",
+    "simulatorCta": "Abrir simulador",
+    "modelsCta": "Ver modelos",
+    "featured": "Del catálogo",
+    "nav": {
+      "models": "Modelos",
+      "simulator": "Simulador",
+      "colors": "Colores",
+      "formats": "Formatos",
+      "stock": "Stock",
+      "projects": "Proyectos",
+      "guide": "Guía técnica"
+    }
+  },
+  "simulator": {
+    "eyebrow": "Baldosas de cemento",
+    "title": "Simulador de baldosas",
+    "subtitle": "Elija un diseño, elija colores y previsualice.",
+    "startTitle": "¿Cómo desea empezar?",
+    "startSubtitle": "Coloree un diseño existente, o cree uno nuevo desde una baldosa vacía.",
+    "chooseMouldKicker": "Catálogo",
+    "chooseMould": "Elegir un diseño",
+    "chooseMouldBody": "Explore los diseños y colorea cada zona.",
+    "or": "o",
+    "createKicker": "Desde cero",
+    "createDesign": "Crear su diseño",
+    "createDesignBody": "Construya geometría original, colorea cada zona cerrada y vea cómo se repite.",
+    "patterns": "Moldes",
+    "mouldsTab": "Moldes personalizables",
+    "catalogTab": "Ver catálogo",
+    "photoOnly": "Solo fotografía",
+    "customize": "Personalizar",
+    "chooseRegion": "Elegir una zona",
+    "chooseColor": "Elija su color",
+    "chooseReference": "Elegir un diseño",
+    "chooseDesign": "Elija su baldosa",
+    "pickColorHint": "Pulse cualquier zona del azulejo para colorearla",
+    "colorThisArea": "Colorear esta zona",
+    "applyToMatching": "Aplicar a formas iguales",
+    "resetThisArea": "Restablecer esta zona",
+    "resetAllColors": "Restablecer todos los colores",
+    "applyColor": "Aplicar",
+    "applyFailed": "No se pudo aplicar este color. Seleccione una zona e inténtelo de nuevo.",
+    "cancel": "Cancelar",
+    "colorMode": "Modo de color",
+    "preserveTexture": "Conservar la textura",
+    "flatColor": "Color plano",
+    "selectionSensitivity": "Sensibilidad de selección",
+    "precise": "Preciso",
+    "broad": "Amplio",
+    "closePopup": "Cerrar",
+    "copyHex": "Copiar",
+    "copyRgb": "Copiar RGB",
+    "copied": "Copiado",
+    "yourColors": "Sus colores",
+    "advanced": "Avanzado",
+    "moreCategories": "Más",
+    "previewSingle": "Baldosa",
+    "emptyGeometryHint": "Elija su baldosa",
+    "inspirationHint": "Esta foto identifica un diseño real. Las zonas se colorean cuando exista un SVG editable. Úsela como inspiración en el diseñador.",
+    "useAsInspiration": "Usar como inspiración",
+    "hex": "HEX",
+    "rgb": "RGB",
+    "brightness": "Brillo",
+    "hsl": "HSL",
+    "addToPalette": "Añadir a mi paleta",
+    "myPalette": "Mi paleta",
+    "recentColors": "Colores recientes",
+    "presetPalettes": "Paletas listas",
+    "presets": {
+      "moroccanEarth": "Tierra marroquí",
+      "mediterraneanBlue": "Azul mediterráneo",
+      "terracotta": "Terracota",
+      "pastel": "Pastel",
+      "blackWhite": "Blanco y negro",
+      "green": "Verde",
+      "warmNeutral": "Neutros cálidos"
+    },
+    "selectedMould": "Molde seleccionado",
+    "yourTile": "Su baldosa",
+    "liveTile": "Baldosa en vivo",
+    "repeatPreview": "Vista repetida",
+    "tileTypes": {
+      "cement": "Baldosa de cemento",
+      "zellige": "Zellige marroquí",
+      "bjmat": "Bjmat"
+    },
+    "bjmatHint": "El bjmat es un ladrillo de terracota artesanal, no un molde de cemento. Elija una colocación y colores fotografiados en lugar de un SVG.",
+    "bjmatLayouts": "Colocaciones bjmat",
+    "bjmatColors": "Colores bjmat",
+    "loadMore": "Cargar más",
+    "download": "Descargar PNG",
+    "favorites": "Favoritos",
+    "clearFavorites": "Vaciar favoritos",
+    "fillAll": "Rellenar todo",
+    "deleteOne": "Borrar una",
+    "clearAll": "Borrar todo",
+    "suggestLayout": "Sugerir colocación",
+    "size": "Tamaño",
+    "colors": "Colores",
+    "selectedColors": "Colores elegidos",
+    "room": "Vista de sala",
+    "rotate": "Girar",
+    "reset": "Restablecer",
+    "favorite": "Favorito",
+    "viewFavorites": "Ver favoritos",
+    "fullscreen": "Pantalla completa",
+    "all": "Todos",
+    "searchReference": "Buscar referencia...",
+    "back": "Atrás",
+    "continue": "Continuar",
+    "reference": "Referencia",
+    "pattern": "Patrón",
+    "mould": "Molde",
+    "format": "Formato",
+    "price": "Precio por m²",
+    "surface": "Superficie (m²)",
+    "waste": "Merma",
+    "tiles": "baldosas",
+    "estimate": "Estimación con merma incluida. La cantidad final se confirma con su presupuesto.",
+    "requestDesign": "Solicitar este modelo",
+    "requestQuote": "Pedir presupuesto",
+    "livePreview": "Vista en vivo",
+    "tileSize": "Tamaño de la baldosa",
+    "tileSizeSmall": "Pequeño",
+    "tileSizeLarge": "Grande",
+    "layout": "Disposición",
+    "rotation": "Rotación",
+    "upload": {
+      "card": "Subir su diseño",
+      "title": "Subir su diseño",
+      "drag": "Arrastre una imagen aquí",
+      "or": "o",
+      "choose": "Elegir imagen",
+      "formats": "JPG / PNG / WEBP",
+      "cropTitle": "Recortar la baldosa",
+      "cropHint": "Seleccione una baldosa o el motivo repetido",
+      "useCrop": "Usar el área seleccionada",
+      "angled": "La foto está en perspectiva",
+      "preparing": "Preparando su diseño...",
+      "steps": {
+        "uploaded": "Imagen subida",
+        "tile": "Detectando la baldosa",
+        "pattern": "Buscando el motivo",
+        "colors": "Detectando zonas de color",
+        "mould": "Creando el molde editable"
+      },
+      "ready": "Su diseño está listo",
+      "original": "Original",
+      "mould": "Molde editable",
+      "useMould": "Usar este diseño",
+      "tryAnother": "Probar otra imagen",
+      "pickFromOriginal": "Tomar del original",
+      "tooSmall": "Esta imagen es demasiado pequeña. Suba una foto más nítida.",
+      "tooLarge": "Esta imagen es demasiado grande. Tamaño máximo: 10 MB.",
+      "badType": "Suba una imagen JPG, PNG o WEBP.",
+      "invalid": "Este archivo no se pudo leer como imagen.",
+      "failed": "No pudimos detectar este diseño con claridad. Recorte una baldosa o suba una imagen más nítida.",
+      "failedTips": "Pruebe:\n- una foto de frente\n- mejor iluminación\n- recortar una baldosa\n- una imagen de más resolución",
+      "unavailable": "La preparación del diseño no está disponible ahora. Inténtelo de nuevo."
+    },
+    "previewModes": {
+      "tile": "Baldosa",
+      "floor": "Suelo",
+      "bedroom": "Dormitorio",
+      "living": "Salón",
+      "bathroom": "Baño",
+      "kitchen": "Cocina"
+    },
+    "steps": {
+      "design": "Elegir diseño",
+      "pattern": "Elegir diseño",
+      "colors": "Elegir colores",
+      "preview": "Vista previa",
+      "visualize": "Sala"
+    },
+    "regions": {
+      "background": "Fondo",
+      "main": "Motivo principal",
+      "secondary": "Motivo secundario",
+      "accent": "Detalle",
+      "light": "Cara clara",
+      "mid": "Cara media",
+      "dark": "Cara oscura",
+      "a": "Campo A",
+      "b": "Campo B",
+      "petalA": "Pétalo A",
+      "petalB": "Pétalo B",
+      "center": "Centro",
+      "field": "Campo",
+      "ring": "Anillo",
+      "star": "Estrella",
+      "north": "Norte",
+      "east": "Este",
+      "west": "Oeste",
+      "south": "Sur",
+      "hex": "Hexágono",
+      "flower": "Flor",
+      "octagon": "Octógono",
+      "bladeA": "Aspa A",
+      "bladeB": "Aspa B",
+      "bladeC": "Aspa C",
+      "bladeD": "Aspa D",
+      "hub": "Núcleo",
+      "inner": "Interior",
+      "border": "Borde",
+      "corner": "Esquina",
+      "cabochon": "Cabujón",
+      "outer": "Exterior",
+      "diamond": "Rombo",
+      "detail": "Detalle",
+      "cross": "Cruz"
+    },
+    "scenes": {
+      "floor": "Suelo",
+      "kitchen": "Cocina",
+      "bathroom": "Baño",
+      "living": "Salón",
+      "commercial": "Comercial",
+      "bedroom": "Dormitorio"
+    }
+  },
+  "designer": {
+    "eyebrow": "Baldosas de cemento",
+    "title": "Crear su propio diseño",
+    "subtitle": "Empiece con una baldosa vacía de 20 × 20 cm. Añada formas, colorea cada zona cerrada y previsualice el suelo repetido.",
+    "changeStart": "Cambiar el punto de partida",
+    "useAsStart": "Usar como punto de partida",
+    "shapes": "Formas",
+    "moroccan": "Geometría marroquí",
+    "select": "Seleccionar",
+    "symmetry": "Simetría",
+    "grid": "Rejilla",
+    "gridOn": "Mostrar rejilla",
+    "snapOn": "Ajustar a la rejilla",
+    "gridSize": "Tamaño de rejilla",
+    "centerGuides": "Marca central",
+    "diagonalGuides": "Guías diagonales",
+    "horizontalGuide": "Guía horizontal",
+    "verticalGuide": "Guía vertical",
+    "angleSnap": "Ángulos",
+    "off": "No",
+    "layers": "Capas",
+    "emptyTile": "Baldosa vacía — añada una forma para empezar.",
+    "rename": "Renombrar",
+    "layout": "Colocación",
+    "repeatPreview": "Motivo repetido",
+    "seamless": "Vista continua",
+    "manufacturing": "Vista de fabricación",
+    "exportSvg": "Exportar SVG",
+    "colors": "Colores",
+    "designTile": "Baldosa",
+    "name": "Nombre",
+    "undo": "Deshacer",
+    "redo": "Rehacer",
+    "duplicate": "Duplicar",
+    "delete": "Eliminar",
+    "mirrorH": "Espejo horizontal",
+    "mirrorV": "Espejo vertical",
+    "forward": "Traer adelante",
+    "backward": "Enviar atrás",
+    "alignCenter": "Centrar",
+    "reset": "Restablecer",
+    "save": "Guardar mi diseño",
+    "savedAs": "Guardado como {{reference}}",
+    "saveFailed": "No se pudo guardar. Inténtelo de nuevo.",
+    "savedDesigns": "Diseños guardados",
+    "mobileHint": "Las herramientas completas son más cómodas en una pantalla grande. Aun así puede dibujar abajo.",
+    "assistTitle": "Describir un motivo inicial",
+    "assistBody": "Opcional. Un texto breve coloca formas geométricas originales. Todo se puede editar a mano — no hace falta IA.",
+    "assistPlaceholder": "Estrella marroquí de 8 puntas con diamantes alrededor",
+    "assistApply": "Colocar motivo",
+    "symmetryMode": {
+      "none": "Ninguna",
+      "2": "2 vías",
+      "4": "4 vías",
+      "6": "6 vías",
+      "8": "8 vías",
+      "radial": "Radial"
+    },
+    "repeat": {
+      "straight": "Recto",
+      "rotate90": "Rotar 90°",
+      "rotate180": "Rotar 180°",
+      "alt90": "Alternado 90°",
+      "alt180": "Alternado 180°",
+      "mirrorX": "Espejo X",
+      "mirrorY": "Espejo Y",
+      "checker": "Damero",
+      "compose2": "Composición 2×2",
+      "compose4": "Composición 4×4"
+    },
+    "shape": {
+      "line": "Línea",
+      "triangle": "Triángulo",
+      "square": "Cuadrado",
+      "rectangle": "Rectángulo",
+      "circle": "Círculo",
+      "semiCircle": "Semicírculo",
+      "quarterCircle": "Cuarto de círculo",
+      "diamond": "Diamante",
+      "rhombus": "Rombo",
+      "hexagon": "Hexágono",
+      "octagon": "Octógono",
+      "star4": "Estrella 4 puntas",
+      "star6": "Estrella 6 puntas",
+      "star8": "Estrella 8 puntas",
+      "star10": "Estrella 10 puntas",
+      "star12": "Estrella 12 puntas",
+      "moroccanStar": "Estrella marroquí",
+      "cross": "Cruz",
+      "polygon": "Polígono",
+      "arc": "Arco",
+      "khatem": "Khatem",
+      "starAndCross": "Estrella y cruz",
+      "rosette": "Rosetón",
+      "interlace": "Entrelazado",
+      "diamondsRing": "Diamantes",
+      "moorishRadial": "Geometría radial",
+      "path": "Trazado"
+    },
+    "warnings": {
+      "ok": "No hay avisos de fabricación para esta geometría.",
+      "tinyArea": "Esta zona puede ser demasiado pequeña para fabricar.",
+      "thinRegion": "Esta zona puede ser demasiado fina para un divisor.",
+      "openPath": "Una línea abierta no crea una zona coloreable.",
+      "outOfBounds": "Parte de la geometría sale de la baldosa.",
+      "overlap": "Las formas superpuestas pueden ser difíciles de cortar.",
+      "tinyGap": "Un hueco parece demasiado pequeño para fabricar.",
+      "duplicate": "Dos formas parecen duplicadas."
+    }
+  },
+  "bjmat": {
+    "title": "Bjmat artesanal",
+    "subtitle": "Baldosas de terracota alargadas, fotografiadas en el taller MT ART.",
+    "homeBody": "El Bjmat es una familia propia: piezas largas en 15×5, 20×5 y 20×10.",
+    "explore": "Explorar Bjmat",
+    "formatsHeading": "Formatos disponibles",
+    "formatsBody": "Longitudes habituales de Bjmat. Los pesos técnicos se confirman con cada presupuesto.",
+    "layoutsHeading": "Colocación",
+    "layoutsBody": "El Bjmat no se configura como un molde de cemento. Elija una textura fotografiada y previsualice las colocaciones habituales.",
+    "variationHeading": "Variaciones naturales",
+    "variationBody": "La terracota artesanal varía en tono, canto y textura.",
+    "nav": {
+      "colors": "Colores",
+      "formats": "Formatos",
+      "layouts": "Colocación",
+      "projects": "Proyectos",
+      "products": "Productos"
+    },
+    "layouts": {
+      "chooseColor": "Elegir una textura",
+      "straight": "Recto",
+      "brick": "Ladrillo",
+      "herringbone": "Espiga",
+      "vertical": "Vertical",
+      "diagonal": "Diagonal",
+      "basketweave": "Cestería"
+    }
+  }
+}

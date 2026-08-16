@@ -1,0 +1,1014 @@
+[
+  {
+    "reference": "GEO-001",
+    "slug": "star-4",
+    "name": "Four Point Star",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-001.svg"
+  },
+  {
+    "reference": "GEO-002",
+    "slug": "star-6",
+    "name": "Six Point Star",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-002.svg"
+  },
+  {
+    "reference": "GEO-003",
+    "slug": "star-8",
+    "name": "Eight Point Star",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-003.svg"
+  },
+  {
+    "reference": "GEO-004",
+    "slug": "star-8-center",
+    "name": "Eight Point Star with Center",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-004.svg"
+  },
+  {
+    "reference": "GEO-005",
+    "slug": "star-10",
+    "name": "Ten Point Star",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-005.svg"
+  },
+  {
+    "reference": "GEO-006",
+    "slug": "star-12",
+    "name": "Twelve Point Star",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-006.svg"
+  },
+  {
+    "reference": "GEO-007",
+    "slug": "diamond-field",
+    "name": "Centered Diamond",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "diamond",
+        "name": "Diamond"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-007.svg"
+  },
+  {
+    "reference": "GEO-008",
+    "slug": "rhombus-cross",
+    "name": "Rhombus Cross",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Main motif"
+      },
+      {
+        "key": "detail",
+        "name": "Detail"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-008.svg"
+  },
+  {
+    "reference": "GEO-009",
+    "slug": "hex-field",
+    "name": "Hexagon",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "hex",
+        "name": "Hexagon"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-009.svg"
+  },
+  {
+    "reference": "GEO-010",
+    "slug": "octagon-field",
+    "name": "Octagon",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "octagon",
+        "name": "Octagon"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-010.svg"
+  },
+  {
+    "reference": "GEO-011",
+    "slug": "triangle-pair",
+    "name": "Opposed Triangles",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "a",
+        "name": "Field A"
+      },
+      {
+        "key": "b",
+        "name": "Field B"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-011.svg"
+  },
+  {
+    "reference": "GEO-012",
+    "slug": "cross-field",
+    "name": "Cross",
+    "family": "cement",
+    "category": "shapes",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "cross",
+        "name": "Cross"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/shapes/GEO-012.svg"
+  },
+  {
+    "reference": "GEO-013",
+    "slug": "rings-4",
+    "name": "Four Rings",
+    "family": "cement",
+    "category": "classic",
+    "regions": [
+      {
+        "key": "outer",
+        "name": "Outer"
+      },
+      {
+        "key": "ring",
+        "name": "Ring"
+      },
+      {
+        "key": "inner",
+        "name": "Inner"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/classic/GEO-013.svg"
+  },
+  {
+    "reference": "GEO-014",
+    "slug": "quarter-fan",
+    "name": "Quarter Fan",
+    "family": "cement",
+    "category": "modern",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "north",
+        "name": "North"
+      },
+      {
+        "key": "east",
+        "name": "East"
+      },
+      {
+        "key": "west",
+        "name": "West"
+      },
+      {
+        "key": "south",
+        "name": "South"
+      }
+    ],
+    "svg": "/moulds/cement/modern/GEO-014.svg"
+  },
+  {
+    "reference": "GEO-015",
+    "slug": "frame-band",
+    "name": "Frame Band",
+    "family": "cement",
+    "category": "borders",
+    "regions": [
+      {
+        "key": "field",
+        "name": "Field"
+      },
+      {
+        "key": "border",
+        "name": "Border"
+      },
+      {
+        "key": "inner",
+        "name": "Inner"
+      }
+    ],
+    "svg": "/moulds/cement/borders/GEO-015.svg"
+  },
+  {
+    "reference": "GEO-016",
+    "slug": "quatre-diamond",
+    "name": "Quatrefoil Diamond",
+    "family": "cement",
+    "category": "classic",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Main motif"
+      },
+      {
+        "key": "accent",
+        "name": "Accent"
+      }
+    ],
+    "svg": "/moulds/cement/classic/GEO-016.svg"
+  },
+  {
+    "reference": "GEO-017",
+    "slug": "blade-star",
+    "name": "Five Blade Star",
+    "family": "cement",
+    "category": "shapes",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "bladeA",
+        "name": "Blade A"
+      },
+      {
+        "key": "bladeB",
+        "name": "Blade B"
+      },
+      {
+        "key": "bladeC",
+        "name": "Blade C"
+      },
+      {
+        "key": "bladeD",
+        "name": "Blade D"
+      },
+      {
+        "key": "hub",
+        "name": "Hub"
+      }
+    ],
+    "svg": "/moulds/cement/shapes/GEO-017.svg"
+  },
+  {
+    "reference": "GEO-018",
+    "slug": "nested-octagon",
+    "name": "Nested Octagons",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "octagon",
+        "name": "Octagon"
+      },
+      {
+        "key": "inner",
+        "name": "Inner"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-018.svg"
+  },
+  {
+    "reference": "GEO-019",
+    "slug": "lattice-9",
+    "name": "Nine Diamond Lattice",
+    "family": "cement",
+    "category": "geometric",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Lattice"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/geometric/GEO-019.svg"
+  },
+  {
+    "reference": "GEO-020",
+    "slug": "floral-4",
+    "name": "Four Petal",
+    "family": "cement",
+    "category": "floral",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "petalA",
+        "name": "Petal A"
+      },
+      {
+        "key": "petalB",
+        "name": "Petal B"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/floral/GEO-020.svg"
+  },
+  {
+    "reference": "GEO-021",
+    "slug": "mono-circle",
+    "name": "Circle Field",
+    "family": "cement",
+    "category": "monochrome",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Main motif"
+      }
+    ],
+    "svg": "/moulds/cement/monochrome/GEO-021.svg"
+  },
+  {
+    "reference": "GEO-022",
+    "slug": "corner-squares",
+    "name": "Corner Squares",
+    "family": "cement",
+    "category": "modern",
+    "regions": [
+      {
+        "key": "field",
+        "name": "Field"
+      },
+      {
+        "key": "corner",
+        "name": "Corner"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/cement/modern/GEO-022.svg"
+  },
+  {
+    "reference": "ZL-001",
+    "slug": "khatem",
+    "name": "Khatem Star",
+    "family": "zellige",
+    "category": "moroccan",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/moroccan/ZL-001.svg"
+  },
+  {
+    "reference": "ZL-002",
+    "slug": "moroccan-8",
+    "name": "Moroccan Eight Point Star",
+    "family": "zellige",
+    "category": "stars",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "ring",
+        "name": "Ring"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/stars/ZL-002.svg"
+  },
+  {
+    "reference": "ZL-003",
+    "slug": "star-cross",
+    "name": "Star and Cross",
+    "family": "zellige",
+    "category": "moroccan",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "cross",
+        "name": "Cross"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/moroccan/ZL-003.svg"
+  },
+  {
+    "reference": "ZL-004",
+    "slug": "rosette-8",
+    "name": "Eight Petal Rosette",
+    "family": "zellige",
+    "category": "rosettes",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "flower",
+        "name": "Flower"
+      },
+      {
+        "key": "ring",
+        "name": "Ring"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/rosettes/ZL-004.svg"
+  },
+  {
+    "reference": "ZL-005",
+    "slug": "radial-8",
+    "name": "Eight Fold Radial",
+    "family": "zellige",
+    "category": "moorish",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Main motif"
+      },
+      {
+        "key": "inner",
+        "name": "Inner"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      },
+      {
+        "key": "detail",
+        "name": "Detail"
+      }
+    ],
+    "svg": "/moulds/zellige/moorish/ZL-005.svg"
+  },
+  {
+    "reference": "ZL-006",
+    "slug": "diamond-ring",
+    "name": "Diamond Ring",
+    "family": "zellige",
+    "category": "moroccan",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Diamonds"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/moroccan/ZL-006.svg"
+  },
+  {
+    "reference": "ZL-007",
+    "slug": "interlace-oct",
+    "name": "Interlaced Octagons",
+    "family": "zellige",
+    "category": "moorish",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "octagon",
+        "name": "Octagon"
+      },
+      {
+        "key": "inner",
+        "name": "Inner"
+      }
+    ],
+    "svg": "/moulds/zellige/moorish/ZL-007.svg"
+  },
+  {
+    "reference": "ZL-008",
+    "slug": "zellige-12",
+    "name": "Twelve Point Zellige Star",
+    "family": "zellige",
+    "category": "stars",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "hex",
+        "name": "Hexagon"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/stars/ZL-008.svg"
+  },
+  {
+    "reference": "ZL-009",
+    "slug": "hex-star",
+    "name": "Hexagon and Star",
+    "family": "zellige",
+    "category": "stars",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "hex",
+        "name": "Hexagon"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "svg": "/moulds/zellige/stars/ZL-009.svg"
+  },
+  {
+    "reference": "ZL-010",
+    "slug": "zellige-border",
+    "name": "Zellige Border",
+    "family": "zellige",
+    "category": "moorish",
+    "regions": [
+      {
+        "key": "field",
+        "name": "Field"
+      },
+      {
+        "key": "border",
+        "name": "Border"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "svg": "/moulds/zellige/moorish/ZL-010.svg"
+  },
+  {
+    "reference": "ZL-011",
+    "slug": "star-10-zellige",
+    "name": "Ten Point Moroccan Star",
+    "family": "zellige",
+    "category": "stars",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/stars/ZL-011.svg"
+  },
+  {
+    "reference": "ZL-012",
+    "slug": "moorish-8",
+    "name": "Moorish Eight Fold",
+    "family": "zellige",
+    "category": "moorish",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "outer",
+        "name": "Outer"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "inner",
+        "name": "Inner"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/moorish/ZL-012.svg"
+  },
+  {
+    "reference": "ZL-013",
+    "slug": "khatem-grid",
+    "name": "Khatem Grid",
+    "family": "zellige",
+    "category": "moroccan",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Main motif"
+      }
+    ],
+    "svg": "/moulds/zellige/moroccan/ZL-013.svg"
+  },
+  {
+    "reference": "ZL-014",
+    "slug": "triangle-mosaic",
+    "name": "Triangle Mosaic",
+    "family": "zellige",
+    "category": "moroccan",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "a",
+        "name": "Field A"
+      },
+      {
+        "key": "b",
+        "name": "Field B"
+      }
+    ],
+    "svg": "/moulds/zellige/moroccan/ZL-014.svg"
+  },
+  {
+    "reference": "ZL-015",
+    "slug": "octagon-square",
+    "name": "Octagon and Square",
+    "family": "zellige",
+    "category": "moroccan",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "octagon",
+        "name": "Octagon"
+      },
+      {
+        "key": "field",
+        "name": "Field"
+      }
+    ],
+    "svg": "/moulds/zellige/moroccan/ZL-015.svg"
+  },
+  {
+    "reference": "ZL-016",
+    "slug": "star-4-zellige",
+    "name": "Four Point Moroccan Star",
+    "family": "zellige",
+    "category": "stars",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      }
+    ],
+    "svg": "/moulds/zellige/stars/ZL-016.svg"
+  },
+  {
+    "reference": "ZL-017",
+    "slug": "nested-stars",
+    "name": "Nested Stars",
+    "family": "zellige",
+    "category": "stars",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "inner",
+        "name": "Inner"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/stars/ZL-017.svg"
+  },
+  {
+    "reference": "ZL-018",
+    "slug": "rosette-12",
+    "name": "Twelve Petal Rosette",
+    "family": "zellige",
+    "category": "rosettes",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "flower",
+        "name": "Flower"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/rosettes/ZL-018.svg"
+  },
+  {
+    "reference": "ZL-019",
+    "slug": "cross-tessera",
+    "name": "Cross Tessera",
+    "family": "zellige",
+    "category": "moorish",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "cross",
+        "name": "Cross"
+      },
+      {
+        "key": "diamond",
+        "name": "Diamond"
+      }
+    ],
+    "svg": "/moulds/zellige/moorish/ZL-019.svg"
+  },
+  {
+    "reference": "ZL-020",
+    "slug": "islamic-8",
+    "name": "Eight Fold Construction",
+    "family": "zellige",
+    "category": "moorish",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "octagon",
+        "name": "Octagon"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "ring",
+        "name": "Ring"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/moorish/ZL-020.svg"
+  },
+  {
+    "reference": "ZL-021",
+    "slug": "rosette-6",
+    "name": "Six Petal Rosette",
+    "family": "zellige",
+    "category": "rosettes",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "flower",
+        "name": "Flower"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/rosettes/ZL-021.svg"
+  },
+  {
+    "reference": "ZL-022",
+    "slug": "diamond-khatem",
+    "name": "Diamonds around Khatem",
+    "family": "zellige",
+    "category": "moroccan",
+    "regions": [
+      {
+        "key": "background",
+        "name": "Background"
+      },
+      {
+        "key": "main",
+        "name": "Diamonds"
+      },
+      {
+        "key": "star",
+        "name": "Star"
+      },
+      {
+        "key": "center",
+        "name": "Center"
+      }
+    ],
+    "svg": "/moulds/zellige/moroccan/ZL-022.svg"
+  }
+]
