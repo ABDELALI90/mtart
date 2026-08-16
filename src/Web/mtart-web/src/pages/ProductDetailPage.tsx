@@ -75,7 +75,7 @@ export function ProductDetailPage() {
         <div className="container-mtart grid grid-cols-1 gap-10 py-8 md:grid-cols-2 md:gap-16 md:py-12">
           <div>
             <ResponsiveImage
-              src={catalogImageUrl(images[activeImage]?.imageUrl, { cropped: true })}
+              src={catalogImageUrl(images[activeImage]?.imageUrl)}
               alt={product.name}
               aspectRatio="1/1"
               loading="eager"

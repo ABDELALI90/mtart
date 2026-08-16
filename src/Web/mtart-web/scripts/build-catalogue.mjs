@@ -224,17 +224,29 @@ function regionsFromSvgFile(file) {
   return keys;
 }
 
+function catalogWebpUrl(url) {
+  return url.replace(/\/images\/catalog\/(p\d+)\.png$/i, '/images/catalog/$1.webp');
+}
+
 function firstExistingUrl(candidates) {
+  const expanded = [];
   for (const url of candidates) {
     if (!url) {
       continue;
     }
+    const webp = catalogWebpUrl(url);
+    if (webp !== url) {
+      expanded.push(webp);
+    }
+    expanded.push(url);
+  }
+  for (const url of expanded) {
     const abs = nodePath.join(WEB, 'public', url.replace(/^\//, '').replaceAll('/', nodePath.sep));
     if (fs.existsSync(abs)) {
       return url;
     }
   }
-  return candidates.find(Boolean) ?? null;
+  return expanded[0] ?? null;
 }
 
 function regionsOf(list) {

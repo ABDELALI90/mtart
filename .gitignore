@@ -46,6 +46,9 @@ deploy/docker/data/
 src/Services/Media/MTArt.Media.Api/App_Data/uploads/
 
 # Real product imagery (kept locally, not committed unless explicitly added)
+/import/extracted/
+/import/catalogs/**
+!/import/catalogs/.gitkeep
 /import/**/*.jpg
 /import/**/*.jpeg
 /import/**/*.png

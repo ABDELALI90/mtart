@@ -1,10 +1,10 @@
 /**
  * Turns Catalog API image paths into URLs the Vite app can actually load.
  * Database values look like `/images/catalog/p009.png` or `/images/bjmat/bjmat-001.jpg`.
- * Those files live under `public/images/` (and import folders served by the Vite plugin).
- * Do not rewrite to `/images/catalog/web/` — that folder is not populated in this repo.
+ * Full-page catalog photos are stored as optimized WebP; `{ cropped: true }` selects the card thumb.
+ * Do not rewrite to `/images/catalog/web/` — that generated folder is not used.
  */
-export function catalogImageUrl(url?: string | null, _options?: { cropped?: boolean }): string | null {
+export function catalogImageUrl(url?: string | null, options?: { cropped?: boolean }): string | null {
   if (!url) {
     return null;
   }
@@ -18,11 +18,18 @@ export function catalogImageUrl(url?: string | null, _options?: { cropped?: bool
     return trimmed;
   }
 
-  if (trimmed.startsWith('/images/catalog/web/')) {
-    return trimmed.replace('/images/catalog/web/', '/images/catalog/');
+  let resolved = trimmed.startsWith('/images/catalog/web/')
+    ? trimmed.replace('/images/catalog/web/', '/images/catalog/')
+    : trimmed;
+
+  // Full catalog pages (p001.png) — not motif crops like p001-i1.jpeg.
+  resolved = resolved.replace(/\/images\/catalog\/(p\d+)\.(png|jpe?g)$/i, '/images/catalog/$1.webp');
+
+  if (options?.cropped) {
+    resolved = resolved.replace(/\/images\/catalog\/(p\d+)\.(webp|png|jpe?g)$/i, '/images/catalog/$1-thumb.webp');
   }
 
-  return trimmed;
+  return resolved;
 }
 
 export function looksLikeAssetPath(label?: string | null): boolean {

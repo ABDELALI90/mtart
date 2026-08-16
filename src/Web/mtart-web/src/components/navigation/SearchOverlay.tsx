@@ -85,7 +85,7 @@ export function SearchOverlay({ lang, onClose }: SearchOverlayProps) {
                 <Link to={ROUTES.product(lang, product.slug)} onClick={onClose}>
                   <Stack spacing={1}>
                     <ResponsiveImage
-                      src={catalogImageUrl(product.primaryImageUrl)}
+                      src={catalogImageUrl(product.primaryImageUrl, { cropped: true })}
                       alt={product.name}
                       aspectRatio="4/5"
                       placeholderLabel={product.name}

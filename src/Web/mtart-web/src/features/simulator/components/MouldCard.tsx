@@ -1,5 +1,6 @@
 import { clsx } from 'clsx';
 import type { TilePatternListItem } from '@/types/catalog';
+import { catalogImageUrl } from '@/utils/media';
 import { ConfigurableTile } from './ConfigurableTile';
 
 const EMPTY_REGION_COLORS: Record<string, string> = {};
@@ -32,7 +33,7 @@ export function MouldCard({
           className="aspect-square w-full bg-white [&_svg]:h-full [&_svg]:w-full"
         />
       ) : mould.previewImageUrl ? (
-        <img src={mould.previewImageUrl} alt="" className="aspect-square w-full bg-white object-contain" />
+        <img src={catalogImageUrl(mould.previewImageUrl, { cropped: true }) ?? undefined} alt="" className="aspect-square w-full bg-white object-contain" />
       ) : (
         <div className="aspect-square bg-white" />
       )}

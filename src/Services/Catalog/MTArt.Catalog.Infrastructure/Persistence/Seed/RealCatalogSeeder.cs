@@ -190,11 +190,11 @@ public static class RealCatalogSeeder
     {
         var definitions = new[]
         {
-            ("geometric-stars", "Geometric Stars", "Étoiles géométriques", "Estrellas geométricas", "نجوم هندسية", "/images/catalog/p009.png"),
-            ("traditional-floral", "Traditional Floral", "Floral traditionnel", "Floral tradicional", "زهور تقليدية", "/images/catalog/p022.png"),
-            ("installed-projects", "Installed Projects", "Projets réalisés", "Proyectos instalados", "مشاريع منفذة", "/images/catalog/p069.png"),
-            ("patchwork", "Patchwork", "Patchwork", "Patchwork", "باتشورك", "/images/catalog/p020.png"),
-            ("borders", "Borders & Frames", "Bordures et cadres", "Cenefas y marcos", "إطارات وحواف", "/images/catalog/p180.png"),
+            ("geometric-stars", "Geometric Stars", "Étoiles géométriques", "Estrellas geométricas", "نجوم هندسية", "/images/catalog/p009.webp"),
+            ("traditional-floral", "Traditional Floral", "Floral traditionnel", "Floral tradicional", "زهور تقليدية", "/images/catalog/p022.webp"),
+            ("installed-projects", "Installed Projects", "Projets réalisés", "Proyectos instalados", "مشاريع منفذة", "/images/catalog/p069.webp"),
+            ("patchwork", "Patchwork", "Patchwork", "Patchwork", "باتشورك", "/images/catalog/p020.webp"),
+            ("borders", "Borders & Frames", "Bordures et cadres", "Cenefas y marcos", "إطارات وحواف", "/images/catalog/p180.webp"),
         };
 
         var list = new List<Collection>();

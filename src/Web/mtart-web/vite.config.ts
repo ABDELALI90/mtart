@@ -46,16 +46,23 @@ function serveCatalogImages(): Plugin {
       return fs.existsSync(file) && fs.statSync(file).isFile() ? file : null;
     }
 
-    const catalog = relative.match(/^images\/catalog\/(?:web\/)?(p\d+)\.(png|jpe?g|webp)$/i);
+    const catalog = relative.match(/^images\/catalog\/(?:web\/)?(p\d+)(-thumb)?\.(png|jpe?g|webp)$/i);
     if (catalog) {
       const stem = catalog[1];
-      const candidates = [
-        path.join(publicImages, 'catalog', 'web', `${stem}.png`),
-        path.join(publicImages, 'catalog', `${stem}.png`),
-        path.join(publicImages, 'catalog', `${stem}-i1.jpeg`),
-        path.join(extracted, `${stem}-i1.jpeg`),
-        path.join(extracted, `${stem}.png`),
-      ];
+      const thumb = Boolean(catalog[2]);
+      const candidates = thumb
+        ? [
+            path.join(publicImages, 'catalog', `${stem}-thumb.webp`),
+            path.join(publicImages, 'catalog', `${stem}.webp`),
+            path.join(publicImages, 'catalog', `${stem}.png`),
+          ]
+        : [
+            path.join(publicImages, 'catalog', `${stem}.webp`),
+            path.join(publicImages, 'catalog', `${stem}.png`),
+            path.join(publicImages, 'catalog', `${stem}-i1.jpeg`),
+            path.join(extracted, `${stem}-i1.jpeg`),
+            path.join(extracted, `${stem}.png`),
+          ];
       return candidates.find((file) => fs.existsSync(file) && fs.statSync(file).isFile()) ?? null;
     }
 

@@ -8,6 +8,7 @@ import MenuItem from '@mui/material/MenuItem';
 import { apiClient } from '@/services/apiClient';
 import type { CatalogImportPage, CatalogImportStatus, Color, Format, PatternCategory, TilePatternListItem } from '@/types/catalog';
 import { ROUTES } from '@/utils/paths';
+import { catalogImageUrl } from '@/utils/media';
 import { createCementMould, fetchCementMould, fetchCementMoulds, fetchMouldCategories, publishCementMould, updateCementMould } from '@/features/simulator/api/simulatorApi';
 import { ConfigurableTile } from '@/features/simulator/components/ConfigurableTile';
 import { RegionSelector } from '@/features/simulator/components/RegionSelector';
@@ -99,7 +100,7 @@ export function AdminImportPage() {
             {(preview.data ?? []).map((page) => (
               <tr key={page.id} className="border-t border-charcoal/10">
                 <td className="p-2">{page.page}</td>
-                <td className="p-2">{page.imageUrl ? <img src={page.imageUrl} alt="" className="h-16 w-16 object-cover" /> : null}</td>
+                <td className="p-2">{page.imageUrl ? <img src={catalogImageUrl(page.imageUrl, { cropped: true }) ?? undefined} alt="" className="h-16 w-16 object-cover" /> : null}</td>
                 <td className="p-2">{page.classification}</td>
                 <td className="p-2">{page.suggestedName}</td>
                 <td className="p-2">{page.suggestedReference}</td>
@@ -126,7 +127,7 @@ export function AdminColorsPage() {
       <div className="grid grid-cols-2 gap-4 md:grid-cols-6">
         {(colors.data ?? []).map((color) => (
           <article key={color.id} className="border border-charcoal/10 p-3">
-            {color.imageUrl ? <img src={color.imageUrl} alt="" className="mb-2 aspect-square w-full object-cover" /> : <div className="mb-2 aspect-square" style={{ background: color.hexApproximation ?? '#ccc' }} />}
+            {color.imageUrl ? <img src={catalogImageUrl(color.imageUrl) ?? undefined} alt="" className="mb-2 aspect-square w-full object-cover" /> : <div className="mb-2 aspect-square" style={{ background: color.hexApproximation ?? '#ccc' }} />}
             <p className="text-xs uppercase">{color.code}</p>
             <p className="text-sm">{color.name}</p>
             <p className="text-xs text-charcoal-soft">{color.family} · {color.materialType}</p>
