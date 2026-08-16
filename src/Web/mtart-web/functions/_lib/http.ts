@@ -10,6 +10,35 @@ export function json(data: unknown, status = 200): Response {
   });
 }
 
+export function jsonNoStore(data: unknown, status = 200): Response {
+  return new Response(JSON.stringify(data), {
+    status,
+    headers: {
+      'content-type': 'application/json; charset=utf-8',
+      'cache-control': 'no-store',
+    },
+  });
+}
+
+export function validationProblem(instance: string, errors: Record<string, string[]>): Response {
+  return new Response(
+    JSON.stringify({
+      type: 'https://tools.ietf.org/html/rfc9110#section-15.5.1',
+      title: 'One or more validation errors occurred.',
+      status: 400,
+      instance,
+      errors,
+    }),
+    {
+      status: 400,
+      headers: {
+        'content-type': 'application/problem+json; charset=utf-8',
+        'cache-control': 'no-store',
+      },
+    },
+  );
+}
+
 export function problem(
   status: number,
   title: string,

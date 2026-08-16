@@ -1,3 +1,10 @@
 # Used by `wrangler pages dev` (Cloudflare Pages Functions).
-# Copy to `.dev.vars` and set your Railway/public API origin. No trailing slash.
+# Copy to `.dev.vars`. Do not commit real secrets.
+
+# Remaining non-catalog write APIs (quotes, etc.). No trailing slash.
 RAILWAY_API_BASE_URL=
+
+# Contact form (POST /api/v1/contact) via Resend. Never commit the API key.
+RESEND_API_KEY=
+CONTACT_TO_EMAIL=
+CONTACT_FROM_EMAIL=

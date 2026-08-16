@@ -12,6 +12,10 @@ export const onRequest: PagesFunction<Env, 'path'> = async (context) => {
     return problem(404, 'not_found', 'The requested resource was not found.', instance, 'notfound');
   }
 
+  if (instance === '/api/v1/contact' || instance.startsWith('/api/v1/contact/')) {
+    return problem(404, 'not_found', 'The requested resource was not found.', instance, 'notfound');
+  }
+
   const base = context.env.RAILWAY_API_BASE_URL?.trim();
   if (!base) {
     return problem(
