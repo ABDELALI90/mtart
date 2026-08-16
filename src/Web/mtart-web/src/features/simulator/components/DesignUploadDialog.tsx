@@ -136,13 +136,15 @@ export function DesignUploadDialog({
       maxWidth={false}
       fullScreen={false}
       aria-labelledby="design-upload-title"
-      PaperProps={{
-        sx: {
-          width: { xs: 'calc(100vw - 24px)', sm: 'min(90vw, 850px)' },
-          maxWidth: { xs: 'calc(100vw - 24px)', sm: 850 },
-          maxHeight: { xs: '88vh', sm: '75vh' },
-          m: { xs: '12px', sm: 2 },
-          overflow: 'auto',
+      slotProps={{
+        paper: {
+          sx: {
+            width: { xs: 'calc(100vw - 24px)', sm: 'min(90vw, 850px)' },
+            maxWidth: { xs: 'calc(100vw - 24px)', sm: 850 },
+            maxHeight: { xs: '88vh', sm: '75vh' },
+            m: { xs: '12px', sm: 2 },
+            overflow: 'auto',
+          },
         },
       }}
     >

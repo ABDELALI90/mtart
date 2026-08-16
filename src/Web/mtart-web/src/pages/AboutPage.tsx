@@ -76,7 +76,7 @@ export function AboutPage() {
               </Grid>
             </Grid>
 
-            <Grid container spacing={{ xs: 3, md: 5 }} sx={{ alignItems: 'center' }} direction={{ xs: 'column', md: 'row' }}>
+            <Grid container spacing={{ xs: 3, md: 5 }} sx={{ alignItems: 'center', flexDirection: { xs: 'column', md: 'row' } }}>
               <Grid size={{ xs: 12, md: 6 }} sx={{ order: { xs: 1, md: 1 } }}>
                 <Box
                   sx={{
@@ -155,15 +155,17 @@ export function AboutPage() {
         maxWidth={false}
         fullScreen={false}
         aria-labelledby="about-catalog-preview-title"
-        PaperProps={{
-          sx: {
-            width: { xs: 'calc(100vw - 24px)', md: '80vw' },
-            height: { xs: '88vh', md: '85vh' },
-            maxWidth: { xs: 'calc(100vw - 24px)', md: '80vw' },
-            m: { xs: '12px', md: 2 },
-            overflow: 'hidden',
-            display: 'flex',
-            flexDirection: 'column',
+        slotProps={{
+          paper: {
+            sx: {
+              width: { xs: 'calc(100vw - 24px)', md: '80vw' },
+              height: { xs: '88vh', md: '85vh' },
+              maxWidth: { xs: 'calc(100vw - 24px)', md: '80vw' },
+              m: { xs: '12px', md: 2 },
+              overflow: 'hidden',
+              display: 'flex',
+              flexDirection: 'column',
+            },
           },
         }}
       >

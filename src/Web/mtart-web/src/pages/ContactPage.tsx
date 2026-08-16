@@ -165,7 +165,11 @@ export function ContactPage() {
             error={Boolean(fieldErrors.email)}
             helperText={fieldErrors.email}
             disabled={sending}
-            inputProps={{ dir: 'ltr' }}
+            slotProps={{
+              htmlInput: {
+                dir: 'ltr',
+              },
+            }}
           />
           <TextField
             required
